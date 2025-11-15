@@ -4,6 +4,9 @@ output/
 *.pdf
 *.epub
 
+# Generated game data for Preact app
+public/game-data.json
+
 # Generated mapping
 page-mapping.json
 

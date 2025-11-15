@@ -255,8 +255,8 @@ def generate_html(sections_data, output_file='output/adventure.html'):
                 for (let i = 0; i < section.choices.length; i++) {
                     const choice = section.choices[i];
                     const targetJson = JSON.stringify(choice.target);
-                    html += '<button class="choice-btn" onclick="makeChoice(' + 
-                            targetJson + ')">' + 
+                    html += '<button class="choice-btn" onclick=\'makeChoice(' + 
+                            targetJson + ')\'>' + 
                             escapeHtml(choice.text) + '</button>';
                 }
                 html += '</div>';

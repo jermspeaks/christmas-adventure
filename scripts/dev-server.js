@@ -1,14 +1,15 @@
 #!/usr/bin/env node
 /**
- * Compilation script for Choose Your Own Adventure book.
- * Generates HTML, PDF, and EPUB outputs with page numbers and choice references.
+ * Development server for Choose Your Own Adventure book.
+ * Watches for file changes, recompiles HTML, and serves on localhost.
  */
 
 const fs = require('fs');
 const path = require('path');
+const { spawn } = require('child_process');
+const chokidar = require('chokidar');
 const fm = require('front-matter');
 const MarkdownIt = require('markdown-it');
-const { execSync } = require('child_process');
 
 const md = new MarkdownIt({
     html: true,
@@ -20,7 +21,6 @@ function loadPageMapping(mappingFile = 'page-mapping.json') {
     if (!fs.existsSync(mappingFile)) {
         throw new Error(`Page mapping file not found: ${mappingFile}. Run randomize.js first!`);
     }
-    
     return JSON.parse(fs.readFileSync(mappingFile, 'utf-8'));
 }
 
@@ -52,13 +52,11 @@ function processSection(mdFile, pageMapping) {
     const title = frontmatter.title || 'Untitled';
     const body = parsed.body.trim();
     
-    // Process choices and extract target section IDs
     const choices = [];
     if (frontmatter.choices && Array.isArray(frontmatter.choices)) {
         for (const choice of frontmatter.choices) {
             const choiceText = choice.text || '';
             const targetFile = choice.target || '';
-            // Extract section ID from filename (e.g., "section-2.md" -> "section-2")
             const targetSectionId = targetFile.replace('.md', '');
             choices.push({
                 text: choiceText,
@@ -67,31 +65,12 @@ function processSection(mdFile, pageMapping) {
         }
     }
     
-    // For PDF/EPUB: Process choices and replace targets with page numbers
-    let choicesMarkdown = '';
-    if (choices.length > 0) {
-        choicesMarkdown = '\n\n## Your Choices:\n\n';
-        for (const choice of choices) {
-            const targetPage = resolveChoiceTarget(choice.target + '.md', pageMapping);
-            if (targetPage) {
-                choicesMarkdown += `- **${choice.text}** → Turn to page ${targetPage}\n`;
-            } else {
-                choicesMarkdown += `- **${choice.text}** → (Invalid target: ${choice.target})\n`;
-            }
-        }
-    }
-    
-    // Combine title, page number, body, and choices
-    const fullContent = `# ${title}\n\n**Page ${pageNum}**\n\n${body}${choicesMarkdown}`;
-    
     return {
         id: sectionId,
         page: pageNum,
         title: title,
         body: body,
-        choices: choices,
-        content: fullContent,
-        html: md.render(fullContent)
+        choices: choices
     };
 }
 
@@ -101,7 +80,6 @@ function generateHTML(sectionsData, outputFile = 'output/adventure.html') {
         fs.mkdirSync(outputDir, { recursive: true });
     }
     
-    // Prepare game data: map section ID to section data
     const gameData = {};
     for (const section of sectionsData) {
         gameData[section.id] = {
@@ -113,10 +91,7 @@ function generateHTML(sectionsData, outputFile = 'output/adventure.html') {
         };
     }
     
-    // Find starting section (section-1 or first section)
     const startingSectionId = gameData['section-1'] ? 'section-1' : sectionsData[0].id;
-    
-    // Embed game data as JSON
     const gameDataJson = JSON.stringify(gameData, null, 2);
     
     let htmlContent = `<!DOCTYPE html>
@@ -293,7 +268,7 @@ function generateHTML(sectionsData, outputFile = 'output/adventure.html') {
 </html>`;
     
     fs.writeFileSync(outputFile, htmlContent, 'utf-8');
-    console.log(`HTML generated: ${outputFile}`);
+    console.log(`[${new Date().toLocaleTimeString()}] HTML compiled: ${outputFile}`);
 }
 
 function generateGameDataJSON(sectionsData, outputFile = 'output/game-data.json') {
@@ -302,7 +277,6 @@ function generateGameDataJSON(sectionsData, outputFile = 'output/game-data.json'
         fs.mkdirSync(outputDir, { recursive: true });
     }
     
-    // Prepare game data: map section ID to section data
     const gameData = {};
     for (const section of sectionsData) {
         gameData[section.id] = {
@@ -314,7 +288,6 @@ function generateGameDataJSON(sectionsData, outputFile = 'output/game-data.json'
         };
     }
     
-    // Find starting section (section-1 or first section)
     const startingSectionId = gameData['section-1'] ? 'section-1' : sectionsData[0].id;
     
     const gameDataOutput = {
@@ -323,140 +296,102 @@ function generateGameDataJSON(sectionsData, outputFile = 'output/game-data.json'
     };
     
     fs.writeFileSync(outputFile, JSON.stringify(gameDataOutput, null, 2), 'utf-8');
-    console.log(`Game data JSON generated: ${outputFile}`);
+    console.log(`[${new Date().toLocaleTimeString()}] Game data JSON compiled: ${outputFile}`);
 }
 
-function generatePDFViaPandoc(htmlFile = 'output/adventure.html', outputFile = 'output/adventure.pdf') {
+function compileHTMLOnly() {
     try {
-        const cmd = [
-            'pandoc',
-            htmlFile,
-            '-o', outputFile,
-            '--pdf-engine=pdflatex',
-            '-V', 'geometry:margin=1in',
-            '-V', 'fontsize=11pt',
-            '--toc'
-        ].join(' ');
+        const sectionsDir = path.join(__dirname, '..', 'sections');
+        const mappingFile = path.join(__dirname, '..', 'page-mapping.json');
+        const htmlFile = path.join(__dirname, '..', 'output', 'adventure.html');
+        const jsonFile = path.join(__dirname, '..', 'output', 'game-data.json');
         
-        execSync(cmd, { stdio: 'inherit' });
-        console.log(`PDF generated: ${outputFile}`);
-    } catch (error) {
-        console.error('Error generating PDF:', error.message);
-        console.log('Make sure pandoc and pdflatex are installed');
-    }
-}
-
-function generateEPUB(sectionsData, outputFile = 'output/adventure.epub') {
-    const outputDir = path.dirname(outputFile);
-    if (!fs.existsSync(outputDir)) {
-        fs.mkdirSync(outputDir, { recursive: true });
-    }
-    
-    // Create a temporary markdown file with all sections
-    const sortedSections = sectionsData.sort((a, b) => a.page - b.page);
-    const tempDir = path.join(__dirname, '..', '.tmp');
-    if (!fs.existsSync(tempDir)) {
-        fs.mkdirSync(tempDir, { recursive: true });
-    }
-    
-    const tempMd = path.join(tempDir, 'adventure-temp.md');
-    let mdContent = '# Choose Your Own Christmas Adventure\n\n';
-    mdContent += `*Generated on ${new Date().toISOString().split('T')[0]}*\n\n`;
-    
-    for (const section of sortedSections) {
-        mdContent += `\n\n---\n\n${section.content}\n\n`;
-    }
-    
-    fs.writeFileSync(tempMd, mdContent, 'utf-8');
-    
-    try {
-        const cmd = [
-            'pandoc',
-            tempMd,
-            '-o', outputFile,
-            '--toc'
-        ];
-        
-        if (fs.existsSync(path.join(__dirname, '..', 'cover.jpg'))) {
-            cmd.push('--epub-cover-image=cover.jpg');
+        if (!fs.existsSync(sectionsDir)) {
+            console.error(`Error: ${sectionsDir} directory not found!`);
+            return;
         }
         
-        execSync(cmd.join(' '), { stdio: 'inherit', cwd: path.join(__dirname, '..') });
-        console.log(`EPUB generated: ${outputFile}`);
+        const pageMapping = loadPageMapping(mappingFile);
+        const sectionsData = [];
         
-        // Clean up temp file
-        fs.unlinkSync(tempMd);
-    } catch (error) {
-        console.error('Error generating EPUB:', error.message);
-        console.log('Make sure pandoc is installed');
-    }
-}
-
-function compileBook(sectionsDir = 'sections', mappingFile = 'page-mapping.json', outputDir = 'output') {
-    console.log('Loading page mapping...');
-    const pageMapping = loadPageMapping(mappingFile);
-    
-    console.log('Processing sections...');
-    const sectionsPath = path.join(__dirname, '..', sectionsDir);
-    const sectionsData = [];
-    
-    if (!fs.existsSync(sectionsPath)) {
-        console.error(`Error: ${sectionsPath} directory not found!`);
-        return;
-    }
-    
-    const files = fs.readdirSync(sectionsPath);
-    const mdFiles = files.filter(f => f.endsWith('.md'));
-    
-    for (const mdFile of mdFiles) {
-        const filePath = path.join(sectionsPath, mdFile);
-        const sectionData = processSection(filePath, pageMapping);
-        if (sectionData) {
-            sectionsData.push(sectionData);
-            console.log(`  Processed: ${sectionData.id} (Page ${sectionData.page})`);
+        const files = fs.readdirSync(sectionsDir);
+        const mdFiles = files.filter(f => f.endsWith('.md'));
+        
+        for (const mdFile of mdFiles) {
+            const filePath = path.join(sectionsDir, mdFile);
+            const sectionData = processSection(filePath, pageMapping);
+            if (sectionData) {
+                sectionsData.push(sectionData);
+            }
         }
+        
+        if (sectionsData.length === 0) {
+            console.log('No sections found to compile!');
+            return;
+        }
+        
+        // Generate both HTML (for backward compatibility) and JSON (for Preact app)
+        generateHTML(sectionsData, htmlFile);
+        generateGameDataJSON(sectionsData, jsonFile);
+        
+        // Also copy JSON to public directory for Vite to serve
+        const publicDir = path.join(__dirname, '..', 'public');
+        if (!fs.existsSync(publicDir)) {
+            fs.mkdirSync(publicDir, { recursive: true });
+        }
+        const publicJsonFile = path.join(publicDir, 'game-data.json');
+        fs.copyFileSync(jsonFile, publicJsonFile);
+    } catch (error) {
+        console.error('Compilation error:', error.message);
     }
-    
-    if (sectionsData.length === 0) {
-        console.log('No sections found to compile!');
-        return;
-    }
-    
-    console.log(`\nCompiling ${sectionsData.length} sections...`);
-    
-    const outputPath = path.join(__dirname, '..', outputDir);
-    
-    // Generate HTML (for PDF/EPUB generation)
-    const htmlFile = path.join(outputPath, 'adventure.html');
-    generateHTML(sectionsData, htmlFile);
-    
-    // Generate game data JSON (for Preact app)
-    const gameDataFile = path.join(outputPath, 'game-data.json');
-    generateGameDataJSON(sectionsData, gameDataFile);
-    
-    // Also copy JSON to public directory for Vite to serve
-    const publicDir = path.join(__dirname, '..', 'public');
-    if (!fs.existsSync(publicDir)) {
-        fs.mkdirSync(publicDir, { recursive: true });
-    }
-    const publicJsonFile = path.join(publicDir, 'game-data.json');
-    fs.copyFileSync(gameDataFile, publicJsonFile);
-    
-    // Generate PDF
-    const pdfFile = path.join(outputPath, 'adventure.pdf');
-    generatePDFViaPandoc(htmlFile, pdfFile);
-    
-    // Generate EPUB
-    const epubFile = path.join(outputPath, 'adventure.epub');
-    generateEPUB(sectionsData, epubFile);
-    
-    console.log('\nCompilation complete!');
 }
 
-// Main execution
-const sectionsDir = process.argv[2] || 'sections';
-const mappingFile = process.argv[3] || 'page-mapping.json';
-const outputDir = process.argv[4] || 'output';
+// Get port from environment variable or use default
+const PORT = process.env.PORT || 4100;
 
-compileBook(sectionsDir, mappingFile, outputDir);
+// Compile initially
+console.log('Initial compilation...');
+compileHTMLOnly();
+
+// Start Vite dev server
+const server = spawn('npx', ['vite', '--port', PORT.toString()], {
+    stdio: 'inherit',
+    shell: true
+});
+
+// Watch for changes
+const watcher = chokidar.watch([
+    path.join(__dirname, '..', 'sections', '**/*.md'),
+    path.join(__dirname, '..', 'page-mapping.json')
+], {
+    ignored: /(^|[\/\\])\../, // ignore dotfiles
+    persistent: true
+});
+
+let compileTimeout;
+watcher.on('change', (filePath) => {
+    console.log(`\n[${new Date().toLocaleTimeString()}] File changed: ${path.relative(process.cwd(), filePath)}`);
+    
+    // Debounce compilation
+    clearTimeout(compileTimeout);
+    compileTimeout = setTimeout(() => {
+        compileHTMLOnly();
+    }, 300);
+});
+
+watcher.on('error', error => {
+    console.error('Watcher error:', error);
+});
+
+// Handle cleanup
+process.on('SIGINT', () => {
+    console.log('\nShutting down dev server...');
+    watcher.close();
+    server.kill();
+    process.exit(0);
+});
+
+console.log(`\nDev server running at http://localhost:${PORT}`);
+console.log('Watching for changes in sections/ and page-mapping.json...');
+console.log('Press Ctrl+C to stop\n');
 

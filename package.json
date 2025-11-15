@@ -4,12 +4,24 @@
   "description": "Choose Your Own Christmas Adventure book builder",
   "scripts": {
     "randomize": "node scripts/randomize.js",
-    "compile": "node scripts/compile.js"
+    "compile": "node scripts/compile.js",
+    "dev": "node scripts/dev-server.js",
+    "build": "npm run compile && vite build",
+    "preview": "vite preview --port 4100"
   },
   "dependencies": {
     "front-matter": "^4.0.2",
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.0",
+    "preact": "^10.27.2"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.2",
+    "chokidar": "^4.0.3",
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^9.2.1",
+    "http-server": "^14.1.1",
+    "vite": "^7.2.2"
+  }
 }
