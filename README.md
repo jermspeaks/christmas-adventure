@@ -7,7 +7,13 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 - `sections/` - Individual markdown files for each story section/page
 - `sources/` - Source EPUB files for reference and inspiration
 - `scripts/` - Compilation and utility scripts
-- `output/` - Generated HTML, PDF, and EPUB files
+- `src/` - Preact application source code
+  - `src/components/` - React components (Header, Section, ChoiceButton)
+  - `src/App.jsx` - Main application component
+  - `src/main.jsx` - Application entry point
+  - `src/styles.css` - Application styles
+- `public/` - Static assets (generated game data JSON)
+- `output/` - Generated HTML, PDF, EPUB, and built application files
 - `page-mapping.json` - Generated file mapping sections to random page numbers
 
 ## Quick Start
@@ -33,15 +39,27 @@ A choose-your-own-adventure book system that compiles markdown story sections in
    node scripts/randomize.js
    ```
 
-3. **Compile to all formats**:
+3. **Start the development server** (recommended for development):
    ```bash
-   uv run python scripts/compile.py
+   npm run dev
+   ```
+   This will:
+   - Compile your markdown sections to JSON
+   - Start a Vite dev server on http://localhost:4100
+   - Watch for changes and automatically recompile
+   - Provide hot module replacement for instant updates
+
+4. **Or compile to all formats** (for production):
+   ```bash
+   npm run compile
    # or
-   node scripts/compile.js
+   npm run build  # Compiles and builds the Preact app
    ```
 
-4. **Find your outputs** in the `output/` directory:
-   - `adventure.html` - Web-readable version
+5. **Find your outputs** in the `output/` directory:
+   - `adventure.html` - Legacy web-readable version (vanilla JS)
+   - `game-data.json` - Game data for the Preact application
+   - Built Preact app files (after running `npm run build`)
    - `adventure.pdf` - Print-ready PDF
    - `adventure.epub` - E-reader format
 
@@ -56,6 +74,14 @@ The compilation script:
 - Resolves choice targets using the page mapping
 - Replaces file references with "Turn to page X" instructions
 - Generates HTML, PDF, and EPUB with proper formatting
+- Generates `game-data.json` for the Preact application
+
+### Frontend Application
+The web version uses **Preact** (a lightweight React alternative) with **Vite** for:
+- Fast development with hot module replacement
+- Component-based architecture for maintainability
+- Small bundle size (~3KB for Preact vs ~40KB for React)
+- Modern development experience
 
 ### Section Format
 Each section file should:
@@ -97,8 +123,9 @@ The generated Markdown files can be used as reference material when creating you
 
 ## Requirements
 
-- Python 3.8+ OR Node.js
-- `uv` (Python package manager) or `pip` (alternative)
+- **Node.js** 16+ (required for Preact/Vite frontend)
+- Python 3.8+ (optional, for Python scripts)
+- `uv` (Python package manager) or `pip` (alternative, if using Python)
 - `pandoc` (for PDF and EPUB generation)
 - `pdflatex` (usually comes with pandoc or TeX distribution)
 
@@ -116,9 +143,37 @@ uv venv
 source .venv/bin/activate  # On macOS/Linux
 uv pip install -r requirements.txt
 
-# Node.js dependencies
+# Node.js dependencies (required)
 npm install
 ```
+
+## Development Workflow
+
+1. **Start the dev server**:
+   ```bash
+   npm run dev
+   ```
+   This will:
+   - Compile markdown sections to `game-data.json`
+   - Start Vite dev server on http://localhost:4100
+   - Open your browser automatically
+   - Watch for changes in `sections/` and `page-mapping.json`
+   - Automatically recompile when files change
+   - Provide hot module replacement for instant UI updates
+
+2. **Edit your story sections** in `sections/*.md`
+
+3. **If you add new sections**, re-run the randomizer:
+   ```bash
+   npm run randomize
+   ```
+   The dev server will automatically detect the change and recompile.
+
+4. **Build for production**:
+   ```bash
+   npm run build
+   ```
+   This creates an optimized production build in the `output/` directory.
 
 ## Usage Examples
 
@@ -152,14 +207,26 @@ uv run python scripts/epub_to_markdown.py
 
 ```bash
 # Step 1: Randomize page numbers
-node scripts/randomize.js
-# or
 npm run randomize
-
-# Step 2: Compile to all formats
-node scripts/compile.js
 # or
+node scripts/randomize.js
+
+# Step 2: Development (with hot reload)
+npm run dev
+# This compiles markdown to JSON and starts Vite dev server on port 4100
+# The server watches for changes and automatically recompiles
+
+# Step 3: Build for production
+npm run build
+# This compiles markdown and builds the optimized Preact application
+
+# Or compile to all formats (HTML, PDF, EPUB)
 npm run compile
+# or
+node scripts/compile.js
+
+# Preview production build
+npm run preview
 ```
 
 ## Example Section File
@@ -176,14 +243,23 @@ See `sections/section-1.md` for a complete example. Each section file should:
 
 After compilation, you'll find in the `output/` directory:
 
-- **adventure.html** - Single HTML file with all sections, styled for reading
+- **adventure.html** - Legacy single HTML file with all sections (vanilla JS version)
+- **game-data.json** - Game data in JSON format for the Preact application
 - **adventure.pdf** - Print-ready PDF with page numbers and table of contents
 - **adventure.epub** - E-reader compatible format
+- Built Preact application files (after running `npm run build`)
+
+The `public/` directory contains:
+- **game-data.json** - Copy of game data served by Vite during development
 
 ## Tips
 
+- **Development**: Use `npm run dev` for the best development experience with hot reload
 - Run the randomizer each time you add new sections to get fresh page numbers
 - The page mapping (`page-mapping.json`) is regenerated each time you run the randomizer
 - Sections are sorted by page number in the output, not by filename
 - Choice references automatically update to show "Turn to page X" based on the current mapping
+- The dev server watches for changes and recompiles automatically - no need to restart
+- The Preact app loads game data from `/game-data.json` at runtime
+- Both `output/game-data.json` and `public/game-data.json` are generated (public/ is for Vite to serve during dev)
 
