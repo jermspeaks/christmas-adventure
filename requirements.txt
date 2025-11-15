@@ -1,3 +1,5 @@
 pyyaml>=6.0
 markdown>=3.4
+ebooklib>=0.18
+html2text>=2024.2.26
 

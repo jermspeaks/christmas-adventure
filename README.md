@@ -5,6 +5,7 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 ## Structure
 
 - `sections/` - Individual markdown files for each story section/page
+- `sources/` - Source EPUB files for reference and inspiration
 - `scripts/` - Compilation and utility scripts
 - `output/` - Generated HTML, PDF, and EPUB files
 - `page-mapping.json` - Generated file mapping sections to random page numbers
@@ -71,6 +72,29 @@ Each section file should:
 4. Reference this file in other sections' choices using the filename
 5. Re-run the randomizer and compilation scripts
 
+## Converting Source EPUBs to Markdown
+
+If you have EPUB files in the `sources/` directory that you want to convert to Markdown for reference or inspiration, use the EPUB to Markdown converter:
+
+```bash
+# Convert all EPUB files in sources/ directory
+uv run python scripts/epub_to_markdown.py
+
+# Convert a specific EPUB file
+uv run python scripts/epub_to_markdown.py sources/book.epub
+
+# Convert to a specific output directory
+uv run python scripts/epub_to_markdown.py -o output/markdown sources/book.epub
+```
+
+The converter will:
+- Extract metadata (title, author, publisher, etc.) from the EPUB
+- Convert all chapters to Markdown format
+- Preserve formatting, links, and structure
+- Save the output as a Markdown file with YAML frontmatter
+
+The generated Markdown files can be used as reference material when creating your adventure sections.
+
 ## Requirements
 
 - Python 3.8+ OR Node.js
@@ -119,6 +143,9 @@ uv run python scripts/randomize.py
 
 # Step 2: Compile to all formats
 uv run python scripts/compile.py
+
+# Convert EPUB sources to Markdown (optional)
+uv run python scripts/epub_to_markdown.py
 ```
 
 ### Using Node.js
