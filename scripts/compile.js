@@ -18,10 +18,80 @@ const md = new MarkdownIt({
 
 function loadPageMapping(mappingFile = 'page-mapping.json') {
     if (!fs.existsSync(mappingFile)) {
-        throw new Error(`Page mapping file not found: ${mappingFile}. Run randomize.js first!`);
+        return null;
     }
     
     return JSON.parse(fs.readFileSync(mappingFile, 'utf-8'));
+}
+
+function ensurePageMapping() {
+    const sectionsDir = path.join(__dirname, '..', 'sections');
+    const mappingFile = path.join(__dirname, '..', 'page-mapping.json');
+    
+    // Check if sections directory exists
+    if (!fs.existsSync(sectionsDir)) {
+        console.error(`Error: ${sectionsDir} directory not found!`);
+        return false;
+    }
+    
+    // Check if mapping exists
+    if (!fs.existsSync(mappingFile)) {
+        console.log('Page mapping not found. Generating...');
+        regeneratePageMapping();
+        return true;
+    }
+    
+    // Check if all sections are in the mapping
+    const mapping = loadPageMapping(mappingFile);
+    if (!mapping || !mapping.sections) {
+        console.log('Page mapping is invalid. Regenerating...');
+        regeneratePageMapping();
+        return true;
+    }
+    
+    const files = fs.readdirSync(sectionsDir);
+    const mdFiles = files.filter(f => f.endsWith('.md'));
+    
+    let needsRegeneration = false;
+    for (const mdFile of mdFiles) {
+        const filePath = path.join(sectionsDir, mdFile);
+        try {
+            const content = fs.readFileSync(filePath, 'utf-8');
+            const parsed = fm(content);
+            const frontmatter = parsed.attributes;
+            
+            if (frontmatter && frontmatter.id) {
+                if (!mapping.sections[frontmatter.id]) {
+                    needsRegeneration = true;
+                    break;
+                }
+            }
+        } catch (error) {
+            // Skip files that can't be parsed
+            continue;
+        }
+    }
+    
+    if (needsRegeneration) {
+        console.log('New sections detected. Regenerating page mapping...');
+        regeneratePageMapping();
+        return true;
+    }
+    
+    return true;
+}
+
+function regeneratePageMapping() {
+    try {
+        execSync('node scripts/randomize.js', { 
+            stdio: 'inherit',
+            cwd: path.join(__dirname, '..')
+        });
+        console.log('Page mapping regenerated successfully.');
+    } catch (error) {
+        console.error('Error regenerating page mapping:', error.message);
+        throw error;
+    }
 }
 
 function resolveChoiceTarget(targetFile, pageMapping) {
@@ -393,8 +463,15 @@ function generateEPUB(sectionsData, outputFile = 'output/adventure.epub') {
 }
 
 function compileBook(sectionsDir = 'sections', mappingFile = 'page-mapping.json', outputDir = 'output') {
+    // Ensure page mapping is up to date before compiling
+    ensurePageMapping();
+    
     console.log('Loading page mapping...');
     const pageMapping = loadPageMapping(mappingFile);
+    if (!pageMapping) {
+        console.error('Error: Could not load page mapping after regeneration.');
+        return;
+    }
     
     console.log('Processing sections...');
     const sectionsPath = path.join(__dirname, '..', sectionsDir);

@@ -22,6 +22,7 @@ export default defineConfig({
     }
   ],
   server: {
+    host: true, // Allow access from local network
     port: 4100,
     open: true,
     fs: {
