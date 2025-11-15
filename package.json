@@ -7,11 +7,9 @@
     "compile": "node scripts/compile.js"
   },
   "dependencies": {
-    "gray-matter": "^4.0.3",
-    "markdown-it": "^13.0.1"
+    "front-matter": "^4.0.2",
+    "markdown-it": "^14.1.0"
   },
-  "devDependencies": {},
   "author": "",
   "license": "MIT"
 }
-

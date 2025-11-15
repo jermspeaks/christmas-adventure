@@ -6,7 +6,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const matter = require('gray-matter');
+const fm = require('front-matter');
 const MarkdownIt = require('markdown-it');
 const { execSync } = require('child_process');
 
@@ -34,8 +34,8 @@ function resolveChoiceTarget(targetFile, pageMapping) {
 
 function processSection(mdFile, pageMapping) {
     const content = fs.readFileSync(mdFile, 'utf-8');
-    const parsed = matter(content);
-    const frontmatter = parsed.data;
+    const parsed = fm(content);
+    const frontmatter = parsed.attributes;
     
     if (!frontmatter || !frontmatter.id) {
         return null;
@@ -50,7 +50,7 @@ function processSection(mdFile, pageMapping) {
     
     const pageNum = pageInfo.page;
     const title = frontmatter.title || 'Untitled';
-    const body = parsed.content.trim();
+    const body = parsed.body.trim();
     
     // Process choices and replace targets with page numbers
     let choicesMarkdown = '';

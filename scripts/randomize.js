@@ -6,7 +6,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const matter = require('gray-matter');
+const fm = require('front-matter');
 
 function scanSections(sectionsDir) {
     const sections = {};
@@ -24,8 +24,8 @@ function scanSections(sectionsDir) {
         const content = fs.readFileSync(filePath, 'utf-8');
         
         try {
-            const parsed = matter(content);
-            const frontmatter = parsed.data;
+            const parsed = fm(content);
+            const frontmatter = parsed.attributes;
             
             if (frontmatter && frontmatter.id) {
                 sections[frontmatter.id] = {

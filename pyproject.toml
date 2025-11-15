@@ -1,0 +1,10 @@
+[project]
+name = "christmas-adventure"
+version = "1.0.0"
+description = "Choose Your Own Christmas Adventure book builder"
+requires-python = ">=3.8"
+dependencies = [
+    "pyyaml>=6.0",
+    "markdown>=3.4",
+]
+

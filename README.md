@@ -27,14 +27,14 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 
 2. **Run the randomizer** to assign random page numbers:
    ```bash
-   python scripts/randomize.py
+   uv run python scripts/randomize.py
    # or
    node scripts/randomize.js
    ```
 
 3. **Compile to all formats**:
    ```bash
-   python scripts/compile.py
+   uv run python scripts/compile.py
    # or
    node scripts/compile.js
    ```
@@ -73,7 +73,8 @@ Each section file should:
 
 ## Requirements
 
-- Python 3.x OR Node.js
+- Python 3.8+ OR Node.js
+- `uv` (Python package manager) or `pip` (alternative)
 - `pandoc` (for PDF and EPUB generation)
 - `pdflatex` (usually comes with pandoc or TeX distribution)
 
@@ -83,8 +84,13 @@ Each section file should:
 # Install pandoc (macOS)
 brew install pandoc
 
-# Python dependencies
-pip install -r requirements.txt
+# Install uv (if not already installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Create virtual environment and install Python dependencies
+uv venv
+source .venv/bin/activate  # On macOS/Linux
+uv pip install -r requirements.txt
 
 # Node.js dependencies
 npm install
@@ -95,11 +101,24 @@ npm install
 ### Using Python
 
 ```bash
+# Activate virtual environment (if not already activated)
+source .venv/bin/activate
+
 # Step 1: Randomize page numbers
 python scripts/randomize.py
 
 # Step 2: Compile to all formats
 python scripts/compile.py
+```
+
+Or use `uv run` to automatically use the virtual environment:
+
+```bash
+# Step 1: Randomize page numbers
+uv run python scripts/randomize.py
+
+# Step 2: Compile to all formats
+uv run python scripts/compile.py
 ```
 
 ### Using Node.js
