@@ -62,12 +62,19 @@ def get_chapter_order(book: epub.EpubBook) -> List[Tuple[str, str]]:
     chapters = []
     spine_items = book.spine
     
+    # Create a mapping of item IDs to items for faster lookup
+    items_by_id = {}
+    for item in book.items:
+        if hasattr(item, 'id') and item.id:
+            items_by_id[item.id] = item
+    
     for item_id, _ in spine_items:
-        item = book.get_item_by_id(item_id)
-        if item and item.get_type() == ebooklib.ITEM_DOCUMENT:
-            # Get the file name
-            file_name = item.get_name()
-            chapters.append((item_id, file_name))
+        if item_id in items_by_id:
+            item = items_by_id[item_id]
+            if item and item.get_type() == ebooklib.ITEM_DOCUMENT:
+                # Get the file name
+                file_name = item.get_name()
+                chapters.append((item_id, file_name))
     
     return chapters
 
@@ -98,7 +105,13 @@ def html_to_markdown(html_content: bytes) -> str:
 
 def extract_chapter_content(book: epub.EpubBook, item_id: str) -> Optional[str]:
     """Extract and convert a chapter's content to Markdown."""
-    item = book.get_item_by_id(item_id)
+    # Find item by ID
+    item = None
+    for book_item in book.items:
+        if hasattr(book_item, 'id') and book_item.id == item_id:
+            item = book_item
+            break
+    
     if not item or item.get_type() != ebooklib.ITEM_DOCUMENT:
         return None
     
