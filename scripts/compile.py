@@ -156,29 +156,91 @@ def generate_html(sections_data, output_file='output/adventure.html'):
     
     print(f"HTML generated: {output_file}")
 
-def generate_pdf_via_pandoc(html_file='output/adventure.html', output_file='output/adventure.pdf'):
-    """Generate PDF using pandoc."""
+def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
+    """Generate PDF using pandoc from markdown (more reliable than HTML)."""
     import subprocess
+    import tempfile
     
-    # First, convert HTML to markdown for pandoc, or use pandoc directly on HTML
-    cmd = [
-        'pandoc',
-        html_file,
-        '-o', output_file,
-        '--pdf-engine=pdflatex',
-        '-V', 'geometry:margin=1in',
-        '-V', 'fontsize=11pt',
-        '--toc'
-    ]
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    # Create a temporary markdown file with all sections (like EPUB generation)
+    sorted_sections = sorted(sections_data, key=lambda x: x['page'])
+    
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.md', delete=False, encoding='utf-8') as f:
+        temp_md = f.name
+        f.write("# Choose Your Own Christmas Adventure\n\n")
+        f.write(f"*Generated on {datetime.now().strftime('%Y-%m-%d')}*\n\n")
+        
+        for section in sorted_sections:
+            f.write(f"\n\n---\n\n")
+            f.write(section['content'])
+            f.write("\n\n")
+    
+    # Try multiple PDF engines in order of preference
+    pdf_engines = ['pdflatex', 'xelatex', 'lualatex']
+    pdf_engine = None
+    
+    # Check which engine is available
+    for engine in pdf_engines:
+        try:
+            result = subprocess.run(
+                ['which', engine],
+                capture_output=True,
+                check=False
+            )
+            if result.returncode == 0:
+                pdf_engine = engine
+                break
+        except:
+            continue
+    
+    if not pdf_engine:
+        # Try without specifying engine - let pandoc choose
+        cmd = [
+            'pandoc',
+            temp_md,
+            '-o', output_file,
+            '-V', 'geometry:margin=1in',
+            '-V', 'fontsize=11pt',
+            '--toc'
+        ]
+    else:
+        cmd = [
+            'pandoc',
+            temp_md,
+            '-o', output_file,
+            f'--pdf-engine={pdf_engine}',
+            '-V', 'geometry:margin=1in',
+            '-V', 'fontsize=11pt',
+            '--toc'
+        ]
     
     try:
-        subprocess.run(cmd, check=True, capture_output=True)
+        result = subprocess.run(cmd, check=True, capture_output=True, text=True)
         print(f"PDF generated: {output_file}")
+        if pdf_engine:
+            print(f"  (using {pdf_engine})")
+        os.unlink(temp_md)
+        return True
     except subprocess.CalledProcessError as e:
+        error_msg = e.stderr if e.stderr else (e.stdout if e.stdout else str(e))
         print(f"Error generating PDF: {e}")
-        print("Make sure pandoc and pdflatex are installed")
+        if error_msg:
+            print(f"Error details: {error_msg}")
+        if not pdf_engine:
+            print("\nNo LaTeX engine found. Please install one of the following:")
+            print("  - BasicTeX: brew install --cask basictex")
+            print("  - MacTeX: brew install --cask mactex")
+            print("\nAfter installation, you may need to add to PATH:")
+            print("  export PATH=\"/Library/TeX/texbin:$PATH\"")
+        else:
+            print(f"\nMake sure pandoc and {pdf_engine} are properly installed")
+        os.unlink(temp_md)
+        return False
     except FileNotFoundError:
         print("pandoc not found. Install it with: brew install pandoc")
+        os.unlink(temp_md)
+        return False
 
 def generate_epub(sections_data, output_file='output/adventure.epub'):
     """Generate EPUB using pandoc."""
@@ -248,7 +310,9 @@ def compile_book(sections_dir='sections', mapping_file='page-mapping.json',
     
     # Generate PDF
     pdf_file = os.path.join(output_dir, 'adventure.pdf')
-    generate_pdf_via_pandoc(html_file, pdf_file)
+    pdf_success = generate_pdf_via_pandoc(sections_data, pdf_file)
+    if not pdf_success:
+        print("  (Skipping PDF generation - continuing with other formats)")
     
     # Generate EPUB
     epub_file = os.path.join(output_dir, 'adventure.epub')
