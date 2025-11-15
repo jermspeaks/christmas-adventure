@@ -52,19 +52,31 @@ function processSection(mdFile, pageMapping) {
     const title = frontmatter.title || 'Untitled';
     const body = parsed.body.trim();
     
-    // Process choices and replace targets with page numbers
-    let choicesMarkdown = '';
+    // Process choices and extract target section IDs
+    const choices = [];
     if (frontmatter.choices && Array.isArray(frontmatter.choices)) {
-        choicesMarkdown = '\n\n## Your Choices:\n\n';
         for (const choice of frontmatter.choices) {
             const choiceText = choice.text || '';
             const targetFile = choice.target || '';
-            const targetPage = resolveChoiceTarget(targetFile, pageMapping);
-            
+            // Extract section ID from filename (e.g., "section-2.md" -> "section-2")
+            const targetSectionId = targetFile.replace('.md', '');
+            choices.push({
+                text: choiceText,
+                target: targetSectionId
+            });
+        }
+    }
+    
+    // For PDF/EPUB: Process choices and replace targets with page numbers
+    let choicesMarkdown = '';
+    if (choices.length > 0) {
+        choicesMarkdown = '\n\n## Your Choices:\n\n';
+        for (const choice of choices) {
+            const targetPage = resolveChoiceTarget(choice.target + '.md', pageMapping);
             if (targetPage) {
-                choicesMarkdown += `- **${choiceText}** → Turn to page ${targetPage}\n`;
+                choicesMarkdown += `- **${choice.text}** → Turn to page ${targetPage}\n`;
             } else {
-                choicesMarkdown += `- **${choiceText}** → (Invalid target: ${targetFile})\n`;
+                choicesMarkdown += `- **${choice.text}** → (Invalid target: ${choice.target})\n`;
             }
         }
     }
@@ -76,6 +88,8 @@ function processSection(mdFile, pageMapping) {
         id: sectionId,
         page: pageNum,
         title: title,
+        body: body,
+        choices: choices,
         content: fullContent,
         html: md.render(fullContent)
     };
@@ -87,8 +101,23 @@ function generateHTML(sectionsData, outputFile = 'output/adventure.html') {
         fs.mkdirSync(outputDir, { recursive: true });
     }
     
-    // Sort sections by page number
-    const sortedSections = sectionsData.sort((a, b) => a.page - b.page);
+    // Prepare game data: map section ID to section data
+    const gameData = {};
+    for (const section of sectionsData) {
+        gameData[section.id] = {
+            id: section.id,
+            title: section.title,
+            body: section.body,
+            bodyHtml: md.render(section.body),
+            choices: section.choices || []
+        };
+    }
+    
+    // Find starting section (section-1 or first section)
+    const startingSectionId = gameData['section-1'] ? 'section-1' : sectionsData[0].id;
+    
+    // Embed game data as JSON
+    const gameDataJson = JSON.stringify(gameData, null, 2);
     
     let htmlContent = `<!DOCTYPE html>
 <html lang="en">
@@ -104,50 +133,163 @@ function generateHTML(sectionsData, outputFile = 'output/adventure.html') {
             padding: 20px;
             line-height: 1.6;
             background-color: #fafafa;
+            min-height: 100vh;
         }
-        .section {
-            page-break-after: always;
+        .header {
             background: white;
-            padding: 40px;
+            padding: 20px;
             margin-bottom: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        h1 {
+        .header h1 {
+            margin: 0;
+            color: #c41e3a;
+            font-size: 1.5em;
+        }
+        #reset-btn {
+            background-color: #c41e3a;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 4px;
+            font-family: Georgia, serif;
+            transition: background-color 0.3s;
+        }
+        #reset-btn:hover {
+            background-color: #a0172e;
+        }
+        #reset-btn:active {
+            background-color: #7d1123;
+        }
+        .section-container {
+            background: white;
+            padding: 40px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            min-height: 400px;
+        }
+        .section-container h1 {
             color: #c41e3a;
             border-bottom: 3px solid #c41e3a;
             padding-bottom: 10px;
+            margin-top: 0;
         }
-        h2 {
+        .section-container h2 {
             color: #2d5016;
             margin-top: 30px;
         }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
+        .choices-container {
+            margin-top: 30px;
         }
-        li {
-            margin: 10px 0;
-            padding: 10px;
+        .choice-btn {
+            display: block;
+            width: 100%;
+            margin: 15px 0;
+            padding: 15px 20px;
             background-color: #f0f0f0;
-            border-left: 4px solid #c41e3a;
+            border: 2px solid #c41e3a;
+            border-left: 6px solid #c41e3a;
+            color: #333;
+            text-align: left;
+            font-size: 1em;
+            font-family: Georgia, serif;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-radius: 4px;
         }
-        @media print {
-            .section {
-                page-break-after: always;
-                box-shadow: none;
-                margin: 0;
-            }
+        .choice-btn:hover {
+            background-color: #e0e0e0;
+            border-color: #a0172e;
+            border-left-color: #a0172e;
+            transform: translateX(5px);
+        }
+        .choice-btn:active {
+            background-color: #d0d0d0;
+        }
+        .section-body {
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
-`;
-    
-    for (const section of sortedSections) {
-        htmlContent += `<div class="section">\n${section.html}\n</div>\n\n`;
-    }
-    
-    htmlContent += `</body>
+    <div class="header">
+        <h1>Choose Your Own Christmas Adventure</h1>
+        <button id="reset-btn" onclick="resetGame()">Start Over</button>
+    </div>
+    <div class="section-container" id="section-container">
+        <p>Loading...</p>
+    </div>
+
+    <script>
+        // Game data embedded from compilation
+        const gameData = ${gameDataJson};
+        const STARTING_SECTION = '${startingSectionId}';
+        let currentSectionId = STARTING_SECTION;
+
+        function loadGameData() {
+            // Game data is already loaded from embedded JSON
+            showSection(STARTING_SECTION);
+        }
+
+        function showSection(sectionId) {
+            const section = gameData[sectionId];
+            if (!section) {
+                document.getElementById('section-container').innerHTML = 
+                    '<h1>Error</h1><p>Section not found: ' + sectionId + '</p>';
+                return;
+            }
+
+            currentSectionId = sectionId;
+            const container = document.getElementById('section-container');
+            
+            let html = '<h1>' + escapeHtml(section.title) + '</h1>';
+            html += '<div class="section-body">' + section.bodyHtml + '</div>';
+            
+            if (section.choices && section.choices.length > 0) {
+                html += '<div class="choices-container"><h2>Your Choices:</h2>';
+                for (let i = 0; i < section.choices.length; i++) {
+                    const choice = section.choices[i];
+                    const targetJson = JSON.stringify(choice.target);
+                    html += '<button class="choice-btn" onclick="makeChoice(' + 
+                            targetJson + ')">' + 
+                            escapeHtml(choice.text) + '</button>';
+                }
+                html += '</div>';
+            } else {
+                html += '<div class="choices-container"><p><em>The End</em></p></div>';
+            }
+            
+            container.innerHTML = html;
+            // Scroll to top when showing new section
+            window.scrollTo(0, 0);
+        }
+
+        function makeChoice(targetSectionId) {
+            if (gameData[targetSectionId]) {
+                showSection(targetSectionId);
+            } else {
+                alert('Invalid choice target: ' + targetSectionId);
+            }
+        }
+
+        function resetGame() {
+            showSection(STARTING_SECTION);
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Initialize game when page loads
+        window.addEventListener('DOMContentLoaded', loadGameData);
+    </script>
+</body>
 </html>`;
     
     fs.writeFileSync(outputFile, htmlContent, 'utf-8');
