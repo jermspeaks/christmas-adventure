@@ -6,6 +6,7 @@ Generates HTML, PDF, and EPUB outputs with page numbers and choice references.
 
 import os
 import json
+import re
 import yaml
 import markdown
 from pathlib import Path
@@ -59,6 +60,13 @@ def process_section(md_file, page_mapping):
     
     page_num = page_info['page']
     title = frontmatter.get('title', 'Untitled')
+    body = body.strip()
+    
+    # Remove the first heading from body if it matches the title (to avoid duplicate titles)
+    # Match heading with any number of #, optional quotes around title, and any trailing whitespace/newlines
+    title_heading_pattern = re.compile(r'^#+\s+["\']?' + re.escape(title) + r'["\']?\s*\n+', re.IGNORECASE)
+    if title_heading_pattern.match(body):
+        body = title_heading_pattern.sub('', body).strip()
     
     # Process choices and extract target section IDs
     choices = []

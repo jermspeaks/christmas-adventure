@@ -120,7 +120,16 @@ function processSection(mdFile, pageMapping) {
     
     const pageNum = pageInfo.page;
     const title = frontmatter.title || 'Untitled';
-    const body = parsed.body.trim();
+    let body = parsed.body.trim();
+    
+    // Remove the first heading from body if it matches the title (to avoid duplicate titles)
+    // Check if body starts with a heading that matches the title
+    const escapedTitle = title.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // Match heading with any number of #, optional quotes around title, and any trailing whitespace/newlines
+    const titleHeadingRegex = new RegExp(`^#+\\s+["']?${escapedTitle}["']?\\s*\\n+`, 'i');
+    if (titleHeadingRegex.test(body)) {
+        body = body.replace(titleHeadingRegex, '').trim();
+    }
     
     const choices = [];
     if (frontmatter.choices && Array.isArray(frontmatter.choices)) {
