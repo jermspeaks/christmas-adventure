@@ -1,0 +1,17 @@
+{
+  "name": "christmas-adventure",
+  "version": "1.0.0",
+  "description": "Choose Your Own Christmas Adventure book builder",
+  "scripts": {
+    "randomize": "node scripts/randomize.js",
+    "compile": "node scripts/compile.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
+
