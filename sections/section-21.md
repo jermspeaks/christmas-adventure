@@ -8,6 +8,14 @@ choices:
     target: section-30.md
   - text: "Use the Memory Keeper to unlock the vault"
     target: section-31.md
+  - text: "Try to take the magic for yourself"
+    target: section-412.md
+  - text: "Refuse to work with Kael"
+    target: section-413.md
+  - text: "Think you're opening together but not truly united"
+    target: section-455.md
+  - text: "Restore magic but Kael doesn't fully transform"
+    target: section-481.md
 ---
 
 # Restoring the Magic

@@ -8,6 +8,10 @@ choices:
     target: section-8.md
   - text: "Meet others who can help"
     target: section-9.md
+  - text: "Refuse to help - this isn't your problem"
+    target: section-401.md
+  - text: "Be overly skeptical and paranoid about everything"
+    target: section-402.md
 ---
 
 # Understanding the Problem

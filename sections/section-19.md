@@ -8,6 +8,10 @@ choices:
     target: section-20.md
   - text: "Show genuine Christmas spirit"
     target: section-20.md
+  - text: "Convince the guardian but rush the magic restoration"
+    target: section-480.md
+  - text: "Think the guardian is convinced"
+    target: section-453.md
 ---
 
 # The Guardian Appears

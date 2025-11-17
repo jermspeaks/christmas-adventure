@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "section-9.md",
+                "file": "section-352.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "section-9"
+              "title": "section-352"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "section-9.md",
+                "file": "section-352.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for section-9"
+              "title": "Backlinks for section-352"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "section-9.md",
+                "file": "section-352.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from section-9"
+              "title": "Outgoing links from section-352"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "section-9.md",
+                "file": "section-352.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of section-9"
+              "title": "Outline of section-352"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "9d7cb2dfa19ad339",
   "lastOpenFiles": [
+    "section-296.md",
+    "section-302.md",
+    "section-9.md",
     "section-189.md",
     "section-188.md",
     "section-187.md",
@@ -203,13 +206,10 @@
     "section-305.md",
     "section-304.md",
     "section-303.md",
-    "section-302.md",
     "section-301.md",
     "section-300.md",
     "section-297.md",
-    "section-296.md",
     "section-295.md",
-    "section-292.md",
-    "section-291.md"
+    "section-292.md"
   ]
 }

@@ -8,6 +8,8 @@ choices:
     target: section-15.md
   - text: "Head to the forest with what you know"
     target: section-16.md
+  - text: "Think the Memory Keeper told you everything"
+    target: section-452.md
 ---
 
 # The Last Memory Keeper

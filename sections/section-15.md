@@ -8,6 +8,10 @@ choices:
     target: section-17.md
   - text: "Check on the Memory Keeper"
     target: section-19.md
+  - text: "Ignore the Memory Keeper's warnings"
+    target: section-406.md
+  - text: "Think you're following the trail correctly"
+    target: section-451.md
 ---
 
 # The Trail of Fading Magic

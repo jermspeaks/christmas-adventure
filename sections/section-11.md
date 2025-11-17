@@ -8,6 +8,10 @@ choices:
     target: section-12.md
   - text: "Search for more Memory Keepers"
     target: section-14.md
+  - text: "Waste too much time gathering information"
+    target: section-404.md
+  - text: "Think you have enough information and rush ahead"
+    target: section-450.md
 ---
 
 # Gathering Information

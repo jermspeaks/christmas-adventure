@@ -8,6 +8,12 @@ choices:
     target: section-21.md
   - text: "Help them remember what Christmas used to mean"
     target: section-21.md
+  - text: "Dismiss the guardian's concerns as unimportant"
+    target: section-410.md
+  - text: "Try to force the vault open without understanding"
+    target: section-411.md
+  - text: "Think you understand Christmas spirit"
+    target: section-454.md
 ---
 
 # The True Meaning of Christmas

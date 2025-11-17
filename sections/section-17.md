@@ -8,6 +8,8 @@ choices:
     target: section-19.md
   - text: "Try to communicate with the trees"
     target: section-18.md
+  - text: "Completely ignore the tree warnings"
+    target: section-408.md
 ---
 
 # The Whispering Trees

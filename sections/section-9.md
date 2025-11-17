@@ -8,6 +8,10 @@ choices:
     target: section-10.md
   - text: "Take action based on what you found"
     target: section-10.md
+  - text: "Ignore the Memory Keeper's warning and dismiss it"
+    target: section-400.md
+  - text: "Investigate the ornament from a different angle"
+    target: section-522.md
 ---
 
 # A New Discovery

@@ -8,6 +8,12 @@ choices:
     target: section-9.md
   - text: "Talk to someone in the village"
     target: section-9.md
+  - text: "Ignore Lumina's warnings and rush ahead alone"
+    target: section-403.md
+  - text: "Explore cautiously, taking time to observe"
+    target: section-520.md
+  - text: "Rush recklessly into the village"
+    target: section-521.md
 ---
 
 # First Steps

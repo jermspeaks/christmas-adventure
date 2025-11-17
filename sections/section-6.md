@@ -8,6 +8,8 @@ choices:
     target: section-8.md
   - text: "Be skeptical and ask for proof"
     target: section-7.md
+  - text: "Dismiss Lumina as not helpful"
+    target: section-400.md
 ---
 
 # The Guide Appears

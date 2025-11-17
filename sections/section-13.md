@@ -8,6 +8,8 @@ choices:
     target: section-15.md
   - text: "Get supplies before heading to the forest"
     target: section-16.md
+  - text: "Take supplies but ignore Elara's warnings"
+    target: section-407.md
 ---
 
 # The Village Baker

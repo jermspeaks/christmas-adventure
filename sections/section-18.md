@@ -8,6 +8,8 @@ choices:
     target: section-19.md
   - text: "Rest and eat a star cookie"
     target: section-17.md
+  - text: "Rush into the clearing without caution"
+    target: section-409.md
 ---
 
 # A Clearing in the Forest

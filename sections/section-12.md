@@ -8,6 +8,8 @@ choices:
     target: section-13.md
   - text: "Ask Lumina to come with you"
     target: section-16.md
+  - text: "Enter the forest completely unprepared"
+    target: section-405.md
 ---
 
 # Toward the Frostwood Forest
