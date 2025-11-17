@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'preact/hooks';
+import dagre from 'dagre';
 
 export function Visualization() {
   const [gameData, setGameData] = useState(null);
@@ -10,7 +11,6 @@ export function Visualization() {
   const containerRef = useRef(null);
   const graphRef = useRef(null);
   const nodeRefs = useRef(new Map());
-  const animationFrameRef = useRef(null);
 
   useEffect(() => {
     fetch('/game-data.json')
@@ -82,138 +82,146 @@ export function Visualization() {
 
   const edges = buildEdges();
 
-  // Force-directed graph layout
+  // Layered graph layout using dagre
   useEffect(() => {
     if (!gameData || !graphRef.current) return;
 
-    const width = 2400;
-    const height = 1200;
-    setSvgDimensions({ width, height });
+    // Build graph structure for dagre
+    const g = new dagre.graphlib.Graph();
+    g.setGraph({
+      rankdir: 'TB', // Top to bottom
+      nodesep: 60,   // Minimum horizontal spacing between nodes (reduced for more compact layout)
+      ranksep: 200,  // Minimum vertical spacing between layers
+      marginx: 30,
+      marginy: 50,
+    });
+    g.setDefaultEdgeLabel(() => ({}));
 
-    // Initialize node positions
-    const positions = new Map();
-    const velocities = new Map();
-    const allSections = Object.values(gameData);
-    const startingSectionId = gameData['section-1'] ? 'section-1' : allSections[0]?.id;
-
-    // Initialize positions in a circle or grid
-    allSections.forEach((section, index) => {
-      const angle = (index / allSections.length) * Math.PI * 2;
-      const radius = Math.min(width, height) * 0.3;
-      const x = width / 2 + Math.cos(angle) * radius;
-      const y = height / 2 + Math.sin(angle) * radius;
-      
-      positions.set(section.id, { x, y });
-      velocities.set(section.id, { x: 0, y: 0 });
+    // Add nodes to graph
+    sections.forEach(section => {
+      // Estimate node size (will be updated after rendering)
+      g.setNode(section.id, {
+        width: 220,  // max-width from CSS
+        height: 150, // estimated height
+        label: section.title,
+      });
     });
 
-    // Place starting node in center
-    if (startingSectionId) {
-      positions.set(startingSectionId, { x: width / 2, y: height / 2 });
-    }
+    // Add edges to graph
+    edges.forEach(edge => {
+      g.setEdge(edge.from, edge.to, {
+        id: edge.id,
+        choiceIndex: edge.choiceIndex,
+      });
+    });
 
-    // Set initial positions immediately so nodes render
-    setNodePositions(new Map(positions));
+    // Run dagre layout
+    dagre.layout(g);
 
-    // Force-directed simulation parameters
-    const k = Math.sqrt((width * height) / allSections.length) * 4; // Optimal distance (increased for more spacing)
-    const repulsionStrength = k * k * 0.5; // Increased repulsion
-    const attractionStrength = 0.003; // Reduced attraction
-    const damping = 0.85;
-    const iterations = 500; // More iterations for better layout
-    let iteration = 0;
+    // Extract positions from dagre
+    const positions = new Map();
+    let maxX = 0;
+    let maxY = 0;
 
-    const simulate = () => {
-      if (iteration >= iterations) {
-        setNodePositions(new Map(positions));
+    g.nodes().forEach(nodeId => {
+      const node = g.node(nodeId);
+      positions.set(nodeId, {
+        x: node.x,
+        y: node.y,
+      });
+      maxX = Math.max(maxX, node.x + node.width / 2);
+      maxY = Math.max(maxY, node.y + node.height / 2);
+    });
+
+    // Update SVG dimensions based on graph bounds
+    const padding = 50;
+    setSvgDimensions({
+      width: Math.max(600, maxX + padding),
+      height: Math.max(600, maxY + padding),
+    });
+
+    // Set node positions
+    setNodePositions(positions);
+
+    // After nodes are rendered, update with actual dimensions and recalculate
+    const updateWithActualDimensions = () => {
+      // Get actual node dimensions
+      const actualDimensions = new Map();
+      let hasAllDimensions = true;
+
+      sections.forEach(section => {
+        const nodeEl = nodeRefs.current.get(section.id);
+        if (nodeEl) {
+          actualDimensions.set(section.id, {
+            width: nodeEl.offsetWidth || 220,
+            height: nodeEl.offsetHeight || 150,
+          });
+        } else {
+          hasAllDimensions = false;
+        }
+      });
+
+      if (!hasAllDimensions) {
+        // Retry after a short delay
+        setTimeout(updateWithActualDimensions, 50);
         return;
       }
 
-      // Calculate repulsion forces (all nodes repel each other)
-      const forces = new Map();
-      allSections.forEach(section => {
-        forces.set(section.id, { x: 0, y: 0 });
+      // Rebuild graph with actual dimensions
+      const g2 = new dagre.graphlib.Graph();
+      g2.setGraph({
+        rankdir: 'TB',
+        nodesep: 60,   // Minimum horizontal spacing between nodes (reduced for more compact layout)
+        ranksep: 200,
+        marginx: 30,
+        marginy: 50,
       });
+      g2.setDefaultEdgeLabel(() => ({}));
 
-      allSections.forEach((section1, i) => {
-        const pos1 = positions.get(section1.id);
-        allSections.slice(i + 1).forEach(section2 => {
-          const pos2 = positions.get(section2.id);
-          const dx = pos2.x - pos1.x;
-          const dy = pos2.y - pos1.y;
-          const distance = Math.sqrt(dx * dx + dy * dy) || 1;
-          const force = repulsionStrength / (distance * distance);
-          const fx = (dx / distance) * force;
-          const fy = (dy / distance) * force;
-
-          const force1 = forces.get(section1.id);
-          force1.x -= fx;
-          force1.y -= fy;
-          const force2 = forces.get(section2.id);
-          force2.x += fx;
-          force2.y += fy;
+      sections.forEach(section => {
+        const dims = actualDimensions.get(section.id);
+        g2.setNode(section.id, {
+          width: dims.width,
+          height: dims.height,
+          label: section.title,
         });
       });
 
-      // Calculate attraction forces (connected nodes attract)
       edges.forEach(edge => {
-        const pos1 = positions.get(edge.from);
-        const pos2 = positions.get(edge.to);
-        if (!pos1 || !pos2) return;
-
-        const dx = pos2.x - pos1.x;
-        const dy = pos2.y - pos1.y;
-        const distance = Math.sqrt(dx * dx + dy * dy) || 1;
-        const force = (distance / k) * attractionStrength;
-
-        const force1 = forces.get(edge.from);
-        force1.x += (dx / distance) * force;
-        force1.y += (dy / distance) * force;
-        const force2 = forces.get(edge.to);
-        force2.x -= (dx / distance) * force;
-        force2.y -= (dy / distance) * force;
+        g2.setEdge(edge.from, edge.to, {
+          id: edge.id,
+          choiceIndex: edge.choiceIndex,
+        });
       });
 
-      // Update velocities and positions
-      allSections.forEach(section => {
-        const vel = velocities.get(section.id);
-        const force = forces.get(section.id);
-        
-        vel.x = (vel.x + force.x) * damping;
-        vel.y = (vel.y + force.y) * damping;
-        
-        const pos = positions.get(section.id);
-        pos.x += vel.x;
-        pos.y += vel.y;
+      dagre.layout(g2);
 
-        // Keep nodes within bounds
-        pos.x = Math.max(50, Math.min(width - 50, pos.x));
-        pos.y = Math.max(50, Math.min(height - 50, pos.y));
+      const positions2 = new Map();
+      let maxX2 = 0;
+      let maxY2 = 0;
+
+      g2.nodes().forEach(nodeId => {
+        const node = g2.node(nodeId);
+        positions2.set(nodeId, {
+          x: node.x,
+          y: node.y,
+        });
+        maxX2 = Math.max(maxX2, node.x + node.width / 2);
+        maxY2 = Math.max(maxY2, node.y + node.height / 2);
       });
 
-      // Update positions periodically during simulation for smooth animation
-      if (iteration % 10 === 0) {
-        setNodePositions(new Map(positions));
-      }
+      const padding2 = 50;
+      setSvgDimensions({
+        width: Math.max(600, maxX2 + padding2),
+        height: Math.max(600, maxY2 + padding2),
+      });
 
-      iteration++;
-      animationFrameRef.current = requestAnimationFrame(simulate);
+      setNodePositions(positions2);
     };
 
-    // Start simulation after a brief delay to ensure initial render
-    const timeoutId = setTimeout(() => {
-      animationFrameRef.current = requestAnimationFrame(simulate);
-    }, 100);
-
-    return () => {
-      if (timeoutId) {
-        clearTimeout(timeoutId);
-      }
-      if (animationFrameRef.current) {
-        cancelAnimationFrame(animationFrameRef.current);
-      }
-    };
-  }, [gameData, edges]);
+    // Wait a bit for initial render, then update with actual dimensions
+    setTimeout(updateWithActualDimensions, 100);
+  }, [gameData, edges, sections]);
 
   // Calculate connection paths after positions are set
   useEffect(() => {
@@ -294,6 +302,19 @@ export function Visualization() {
             viewBox={`0 0 ${svgDimensions.width} ${svgDimensions.height}`}
             preserveAspectRatio="none"
           >
+            <defs>
+              <marker
+                id="arrowhead"
+                markerWidth="40"
+                markerHeight="40"
+                refX="35"
+                refY="10"
+                orient="auto"
+                markerUnits="userSpaceOnUse"
+              >
+                <polygon points="0 0, 40 10, 0 20" fill="#c41e3a" stroke="#c41e3a" strokeWidth="2" />
+              </marker>
+            </defs>
             {connections.map(conn => (
               <path
                 key={conn.id}
@@ -301,22 +322,10 @@ export function Visualization() {
                 stroke="#c41e3a"
                 strokeWidth="2"
                 fill="none"
-                opacity="0.4"
-                markerEnd="url(#arrowhead)"
+                opacity="0.6"
+                marker-end="url(#arrowhead)"
               />
             ))}
-            <defs>
-              <marker
-                id="arrowhead"
-                markerWidth="10"
-                markerHeight="10"
-                refX="9"
-                refY="3"
-                orient="auto"
-              >
-                <polygon points="0 0, 10 3, 0 6" fill="#c41e3a" opacity="0.4" />
-              </marker>
-            </defs>
           </svg>
         )}
 
