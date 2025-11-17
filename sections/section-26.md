@@ -3,11 +3,11 @@ id: section-26
 title: "Narrowing the Field"
 choices:
   - text: "Confront Marcus about the inconsistencies in his story"
-    target: section-27.md
+    target: section-47.md
   - text: "Search for where the silver button came from"
-    target: section-27.md
-  - text: "Piece together the timeline of what happened"
-    target: section-27.md
+    target: section-48.md
+  - text: "Investigate Alistair Finch's connection to the case"
+    target: section-49.md
 ---
 
 # Narrowing the Field
@@ -49,4 +49,3 @@ Yuzu stood up and trotted toward the office, then looked back at you, as if wait
 *Okay,* you thought. *Let's see what else you've found.*
 
 What do you do?
-

@@ -3,11 +3,11 @@ id: section-27
 title: "The Truth Emerges"
 choices:
   - text: "Confront Marcus with the evidence"
-    target: section-28.md
+    target: section-50.md
   - text: "Gather final proof before confronting anyone"
-    target: section-28.md
+    target: section-51.md
   - text: "Present everything to Officer Martinez"
-    target: section-28.md
+    target: section-52.md
 ---
 
 # The Truth Emerges

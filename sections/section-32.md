@@ -3,11 +3,11 @@ id: section-32
 title: "Ripples of Change"
 choices:
   - text: "Investigate the strange occurrences in Starlight Hollow"
-    target: section-34.md
+    target: section-150.md
   - text: "Help Kael understand their new role in the restored world"
-    target: section-34.md
+    target: section-156.md
   - text: "Follow the magic to see where it's going"
-    target: section-34.md
+    target: section-162.md
 ---
 
 # Ripples of Change

@@ -1,40 +1,31 @@
 ---
 id: section-23
-title: "The Investigation Begins"
+title: "Examining the Scene"
 choices:
-  - text: "Interview Marcus, the bookshop employee"
-    target: section-24.md
-  - text: "Search the storage room and back areas"
-    target: section-24.md
   - text: "Examine the torn note and letter opener more carefully"
-    target: section-25.md
+    target: section-38.md
+  - text: "Search the office for more physical evidence"
+    target: section-39.md
+  - text: "Document everything you see before the police arrive"
+    target: section-40.md
 ---
 
-# The Investigation Begins
+# Examining the Scene
 
-You found your phone in your pocket, your fingers fumbling as you dialed 911. The operator's voice was calm and professional, asking questions you answered automatically while your mind raced. *Eleanor Hartwell. Murdered. In her own bookshop. Three days before Christmas.*
+Your hands were shaking, but you forced yourself to focus. *I need to look at everything before the police arrive,* you thought. *Before the scene gets contaminated. Before someone moves something important.*
 
-*This can't be real,* you kept thinking, but Yuzu's presence—his warm body pressed against your leg, his soft whine—kept you grounded. He hadn't left your side since you'd found Eleanor, and you were grateful for it.
+Yuzu stayed close, his warm body pressed against your leg, as if he understood that you needed his presence to stay grounded. The office was small, cluttered in the way that bookshop offices always were—stacks of books, papers, invoices, and catalogs everywhere. But there was something else, something that made the space feel wrong.
 
-The police arrived quickly, their presence making the cozy bookshop feel suddenly official and cold. But before they could secure the scene completely, you'd already noticed things. The office was neat, almost too neat, except for the obvious. Eleanor's desk calendar was open to December 22nd, with several appointments crossed out. A half-finished cup of tea sat on the corner of her desk, still warm to the touch.
+The torn note fragment that Yuzu had found was still in your hand. You looked at it more carefully now, turning it over, examining the edges. The paper was expensive, cream-colored, the kind used for formal correspondence. The handwriting was sharp, angular, written in what looked like black ink. The words "...before Christmas Eve or else..." were all that remained.
+
+*Before Christmas Eve or else what?* You looked around the office, wondering if there were more pieces of this note somewhere.
+
+The letter opener was still on the floor where Yuzu had found it. You knelt down, careful not to touch it, and examined it. It was ornate, with an ivory handle carved into the shape of a book. The blade was dark with what you knew was blood. But something about it seemed off. It was part of a set—you could see the empty space on Eleanor's desk where the rest of the set should have been. A matching letter opener, a paper knife, maybe a pen holder.
+
+*Why would someone use Eleanor's own letter opener?* Unless they didn't plan it. Unless it was a crime of passion, something that happened in the moment.
+
+You looked around the office more carefully. Eleanor's desk calendar was open to December 22nd, with several appointments crossed out. A half-finished cup of tea sat on the corner of her desk, still warm to the touch.
 
 *Someone was here recently. Very recently.*
 
-As the police began their work, you found yourself talking to the people who'd been in the shop. Marcus Chen, Eleanor's assistant manager, was pale and shaken. He'd been working in the rare books section when it happened, he said, cataloging a new acquisition. His hands trembled as he spoke, and you noticed a fresh paper cut on his thumb.
-
-"I can't believe this," he kept saying. "Eleanor was... she was like family. Who would do this?"
-
-Then there was Beatrice Morrison, a regular customer who'd been browsing the mystery section (the irony wasn't lost on you). She was in her sixties, with perfectly styled gray hair and a cashmere coat that probably cost more than your entire wardrobe. She'd been there for over an hour, she said, looking for the perfect gift for her book club.
-
-"I saw Eleanor earlier," Beatrice said, her voice crisp and precise. "She seemed perfectly fine. A bit stressed, perhaps, but that's normal this time of year."
-
-You also met Officer Sarah Martinez, the detective who'd been assigned to the case. She was young, maybe in her early thirties, with sharp eyes that missed nothing. "I understand you found the body," she said, her tone professional but not unkind. "And the dog led you here?"
-
-"Yuzu," you said, and the dog in question looked up at the sound of his name, his tail giving a tentative wag. "He found the note. And the letter opener."
-
-Officer Martinez made a note. "We'll need to talk to everyone who was in the shop. But I have to ask—what were you doing here? And why did you follow the dog?"
-
-*Good question,* you thought. *Why did I follow the dog?* But you had, and now you were here, and something about the whole situation felt like it wasn't over yet.
-
 What do you do?
-

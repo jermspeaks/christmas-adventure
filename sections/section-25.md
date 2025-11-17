@@ -2,12 +2,12 @@
 id: section-25
 title: "Red Herrings"
 choices:
-  - text: "Confront Beatrice about what she took"
-    target: section-26.md
-  - text: "Investigate Alistair Finch, the rare book dealer"
-    target: section-26.md
-  - text: "Question your assumptions and look for what's missing"
-    target: section-26.md
+  - text: "Reconstruct the timeline of what happened"
+    target: section-44.md
+  - text: "Investigate the motives of each suspect"
+    target: section-45.md
+  - text: "Search for connections between the suspects"
+    target: section-46.md
 ---
 
 # Red Herrings
@@ -47,4 +47,3 @@ Yuzu nudged your hand, and you looked down to see he'd found something else—a 
 *Another clue,* you thought. *But what does it mean?*
 
 What do you do?
-

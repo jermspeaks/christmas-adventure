@@ -5,9 +5,9 @@ choices:
   - text: "Investigate the scene more closely"
     target: section-23.md
   - text: "Call for help or find other people in the shop"
-    target: section-23.md
+    target: section-36.md
   - text: "Follow Yuzu to see what else he's found"
-    target: section-24.md
+    target: section-37.md
 ---
 
 # Following Yuzu
@@ -33,4 +33,3 @@ Yuzu nudged something with his nose—a small, torn piece of paper that had been
 *Before Christmas Eve or else what?* You turned the paper over, but the other side was blank. Yuzu whined again and pawed at something else—a small, ornate letter opener with an ivory handle, its blade dark with something that definitely wasn't ink.
 
 What do you do?
-

@@ -2,12 +2,12 @@
 id: section-24
 title: "Gathering Clues"
 choices:
-  - text: "Search the storage room for more evidence"
-    target: section-25.md
   - text: "Re-interview Marcus about his alibi"
-    target: section-26.md
-  - text: "Check Eleanor's calendar and recent appointments"
-    target: section-25.md
+    target: section-41.md
+  - text: "Interview Beatrice about what she saw"
+    target: section-42.md
+  - text: "Talk to Officer Martinez about the investigation"
+    target: section-43.md
 ---
 
 # Gathering Clues
@@ -40,4 +40,3 @@ You also noticed something else. Beatrice Morrison was still there, still browsi
 *Everyone has secrets,* you realized. *The question is, which secrets are about murder?*
 
 What do you do?
-

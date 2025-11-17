@@ -3,11 +3,11 @@ id: section-33
 title: "A Different Kind of Magic"
 choices:
   - text: "Explore how the transformed magic has changed the world"
-    target: section-35.md
+    target: section-168.md
   - text: "Help others understand the new nature of Christmas magic"
-    target: section-35.md
+    target: section-174.md
   - text: "Celebrate with Kael and the restored community"
-    target: section-35.md
+    target: section-180.md
 ---
 
 # A Different Kind of Magic
@@ -37,4 +37,3 @@ The magic continued to spread, but now it carried with it Kael's transformation,
 *This is what it's all about,* you thought. *This is Christmas.*
 
 What do you do?
-
