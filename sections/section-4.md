@@ -3,7 +3,7 @@ id: section-4
 title: "The End of the Path"
 choices:
   - text: "Follow Yuzu"
-    target: section-11.md
+    target: section-22.md
   - text: "Open the book"
     target: section-5.md
 ---
