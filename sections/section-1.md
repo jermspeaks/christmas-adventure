@@ -10,7 +10,7 @@ choices:
 
 # The Christmas Adventure Begins
 
-It was December 22nd, three days before Christmas, and you'd been hiding in The Twinkling Pages for the better part of an hour. The bookshop café was your favorite escape from holiday chaos—a place where you could pretend you weren't procrastinating on finding the perfect gifts for your family. (You were, of course, but at least you were doing it with a warm cup of peppermint cocoa in hand.)
+It was December 22nd, three days before Christmas, and you'd been hiding in Tombs and Trinkets for the better part of an hour. The bookshop café was your favorite escape from holiday chaos—a place where you could pretend you weren't procrastinating on finding the perfect gifts for your family, especially your dad. (You were, of course, but at least you were doing it with a warm cup of peppermint cocoa in hand.)
 
 The café smelled of old books, cinnamon, and something else you couldn't quite name—something that made your skin tingle pleasantly, like the air before a thunderstorm. Soft Christmas carols played in the background, and fairy lights twinkled along the bookshelves that stretched toward the ceiling. You'd been browsing the fantasy section, running your fingers along spines that felt warm to the touch, when you noticed something odd.
 

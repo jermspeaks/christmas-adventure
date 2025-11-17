@@ -10,7 +10,7 @@ choices:
 
 # The End of the Path
 
-You'd reached the end of the twinkling lights path, and before you stood a magnificent Christmas tree, decorated with ornaments that seemed to glow with their own inner light. The air smelled of pine and something else—something warm and magical that made you feel like you'd stepped into a storybook.
+You'd reached the end of the Tombs and Trinkets path, and before you stood a magnificent Christmas tree, decorated with ornaments that seemed to glow with their own inner light. The air smelled of pine and something else—something warm and magical that made you feel like you'd stepped into a storybook.
 
 But it wasn't the tree that caught your attention first.
 

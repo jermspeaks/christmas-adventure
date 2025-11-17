@@ -1,12 +1,30 @@
 import { useState, useEffect } from 'preact/hooks';
 import { Header } from './components/Header';
 import { Section } from './components/Section';
+import { Visualization } from './components/Visualization';
 
 export function App() {
   const [gameData, setGameData] = useState(null);
   const [currentSectionId, setCurrentSectionId] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [currentView, setCurrentView] = useState('game');
+
+  // Handle hash-based routing
+  useEffect(() => {
+    const updateView = () => {
+      const hash = window.location.hash;
+      if (hash === '#/visualization') {
+        setCurrentView('visualization');
+      } else {
+        setCurrentView('game');
+      }
+    };
+
+    updateView();
+    window.addEventListener('hashchange', updateView);
+    return () => window.removeEventListener('hashchange', updateView);
+  }, []);
 
   useEffect(() => {
     // Load game data from JSON file
@@ -85,9 +103,36 @@ export function App() {
     );
   }
 
+  const handleNavigateToVisualization = () => {
+    window.location.hash = '#/visualization';
+  };
+
+  const handleNavigateToGame = () => {
+    window.location.hash = '#/';
+  };
+
+  if (currentView === 'visualization') {
+    return (
+      <>
+        <Header 
+          onReset={handleReset} 
+          currentView={currentView}
+          onNavigateToVisualization={handleNavigateToVisualization}
+          onNavigateToGame={handleNavigateToGame}
+        />
+        <Visualization />
+      </>
+    );
+  }
+
   return (
     <>
-      <Header onReset={handleReset} />
+      <Header 
+        onReset={handleReset} 
+        currentView={currentView}
+        onNavigateToVisualization={handleNavigateToVisualization}
+        onNavigateToGame={handleNavigateToGame}
+      />
       <Section 
         section={currentSection} 
         onChoice={handleChoice} 

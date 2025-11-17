@@ -16,7 +16,7 @@ As you approached, the air around the section seemed to shimmer, like heat risin
 
 *This is definitely magic,* you thought, and the realization didn't feel as surprising as it probably should have. Maybe you'd always suspected that places like this existed, tucked away in corners of the world where people weren't looking too closely.
 
-One book in particular caught your attention: a leather-bound volume with a spine that shifted between deep purple and midnight blue. Its title, embossed in gold letters that seemed to move when you looked at them, read *The Art of Cozy Magic: A Practical Guide to Holiday Enchantments*. Next to it sat another book—the one that appeared to be breathing—with a cover that looked like it was made of living moss and tiny, twinkling lights.
+One book in particular caught your attention: a leather-bound volume with a spine that shifted between deep purple and midnight blue. Its title, embossed in gold letters that seemed to move when you looked at them, read *The Art of Cozy Magic: A Practical Guide to Holiday Enchantments*. You gave the book a sniff. Yep, that was the smell of cloves and antique paper. Next to it sat another book—the one that appeared to be breathing—with a cover that looked like it was made of living moss and tiny, twinkling lights.
 
 The shelves seemed to stretch further than they should, disappearing into shadows that felt both inviting and slightly ominous. *Well, you've come this far.*
 
