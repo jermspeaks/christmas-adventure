@@ -3,11 +3,11 @@ id: section-21
 title: "Restoring the Magic"
 choices:
   - text: "Open the Memory Vault together"
-    target: section-22.md
+    target: section-29.md
   - text: "Help the guardian remember their own Christmas memories"
-    target: section-22.md
+    target: section-30.md
   - text: "Use the Memory Keeper to unlock the vault"
-    target: section-22.md
+    target: section-31.md
 ---
 
 # Restoring the Magic
@@ -41,4 +41,3 @@ Kael looked at you, their expression transformed. The coldness was gone, replace
 You smiled, feeling the magic flow through you, through the clearing, through the entire world. *This is what it's all about,* you thought. *This is Christmas.*
 
 What do you do?
-
