@@ -170,18 +170,6 @@ These sections have choices but are unreachable. They need to either:
 
 These sections have no choices (already terminated) but are unreachable. They may need to be connected to the story if they contain important content.
 
-### section-114.md - "True Ending: Partial Success"
-
-**Section ID:** `section-114`
-
-*This section has no choices and is already terminated.*
-
-### section-115.md - "True Ending: With Complications"
-
-**Section ID:** `section-115`
-
-*This section has no choices and is already terminated.*
-
 ### section-482.md - "Local Restoration"
 
 **Section ID:** `section-482`
@@ -198,7 +186,7 @@ These sections have no choices (already terminated) but are unreachable. They ma
 
 ## Summary
 
-Total island sections: **23**
+Total island sections: **21**
 
 - Islands with choices (need partial termination): **19**
-- Islands without choices (already terminated): **4**
+- Islands without choices (already terminated): **2**

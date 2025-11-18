@@ -101,39 +101,27 @@ Each section shows:
 
 ## section-50.md - "Confronting Marcus with Evidence"
 
-- Choice 1: "Present all your evidence to Marcus" → `section-80.md` ⚠️ **MISSING**
 - Choice 2: "Let Officer Martinez handle the confrontation" → `section-81.md` ⚠️ **MISSING**
-- Choice 3: "Try to get Marcus to confess" → `section-82.md` ⚠️ **MISSING**
 
 **Missing Targets:**
-- `section-80.md`
 - `section-81.md`
-- `section-82.md`
 
 ---
 
 ## section-51.md - "Gathering Final Proof"
 
-- Choice 1: "Search for more evidence to confirm your theory" → `section-83.md` ⚠️ **MISSING**
-- Choice 2: "Verify Marcus's financial records" → `section-84.md` ⚠️ **MISSING**
 - Choice 3: "Check the handwriting on the torn note" → `section-85.md` ⚠️ **MISSING**
 
 **Missing Targets:**
-- `section-83.md`
-- `section-84.md`
 - `section-85.md`
 
 ---
 
 ## section-52.md - "Presenting to Officer Martinez"
 
-- Choice 1: "Share all your evidence and theory" → `section-86.md` ⚠️ **MISSING**
-- Choice 2: "Let the police verify everything first" → `section-87.md` ⚠️ **MISSING**
 - Choice 3: "Ask to be part of the official investigation" → `section-88.md` ⚠️ **MISSING**
 
 **Missing Targets:**
-- `section-86.md`
-- `section-87.md`
 - `section-88.md`
 
 ---
@@ -507,6 +495,6 @@ Each section shows:
 
 Total sections with unfinished branches: **38**
 
-Total unfinished choice targets: **114**
+Total unfinished choice targets: **108**
 
-Unique missing target files: **114**
+Unique missing target files: **108**

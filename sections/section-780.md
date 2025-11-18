@@ -6,8 +6,8 @@ choices:
     target: section-781.md
   - text: "Help the townspeople see the pattern themselves"
     target: section-782.md
-  - text: "Work together to create a solution based on the stories"
-    target: section-783.md
+  - text: "Realize the stories reveal different solutions working in parallel"
+    target: section-784.md
 ---
 
 # Stories from the Townspeople
