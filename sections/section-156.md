@@ -5,9 +5,9 @@ choices:
   - text: "Ask Kvothe how they're feeling about the transformation"
     target: section-157.md
   - text: "Give Kvothe space to process on their own"
-    target: section-157.md
+    target: section-570.md
   - text: "Try to help Kvothe understand their new role immediately"
-    target: section-157.md
+    target: section-580.md
 ---
 
 # Kvothe's Struggle

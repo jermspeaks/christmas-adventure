@@ -5,9 +5,9 @@ choices:
   - text: "Help Kvothe process their transformation"
     target: section-33.md
   - text: "Ask Kvothe about their past and what led them here"
-    target: section-33.md
+    target: section-730.md
   - text: "Celebrate the return of the magic together"
-    target: section-33.md
+    target: section-740.md
 ---
 
 # Kvothe's Memories

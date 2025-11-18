@@ -5,9 +5,9 @@ choices:
   - text: "Explore the new properties of the transformed magic"
     target: section-169.md
   - text: "Try to use the magic the same way as before"
-    target: section-169.md
+    target: section-610.md
   - text: "Ask the Keepsake Keeper about the changes"
-    target: section-169.md
+    target: section-620.md
 ---
 
 # Experiencing Transformed Magic

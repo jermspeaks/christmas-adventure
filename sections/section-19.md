@@ -3,9 +3,9 @@ id: section-19
 title: "The Guardian Appears"
 choices:
   - text: "Try to reason with the guardian"
-    target: section-20.md
+    target: section-690.md
   - text: "Use the Keepsake Keeper's power"
-    target: section-20.md
+    target: section-700.md
   - text: "Show genuine Christmas spirit"
     target: section-20.md
   - text: "Convince the guardian but rush the magic restoration"

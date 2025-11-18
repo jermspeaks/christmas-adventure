@@ -5,9 +5,9 @@ choices:
   - text: "Share what you've learned about the transformed magic"
     target: section-175.md
   - text: "Try to teach everyone at once"
-    target: section-175.md
+    target: section-630.md
   - text: "Wait and see if people figure it out on their own"
-    target: section-175.md
+    target: section-640.md
 ---
 
 # Returning to Starlight Hollow

@@ -3,11 +3,11 @@ id: section-29
 title: "Opening Together"
 choices:
   - text: "Watch as the magic spreads across the world"
-    target: section-32.md
+    target: section-710.md
   - text: "Follow the magic back to Starlight Hollow"
     target: section-32.md
   - text: "Stay with Kvothe and help them adjust to the change"
-    target: section-32.md
+    target: section-720.md
 ---
 
 # Opening Together

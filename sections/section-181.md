@@ -5,9 +5,9 @@ choices:
   - text: "Take time to reflect on what you've learned"
     target: section-182.md
   - text: "Focus only on the celebration and ignore reflection"
-    target: section-182.md
+    target: section-670.md
   - text: "Try to control how others reflect"
-    target: section-182.md
+    target: section-680.md
 ---
 
 # Reflecting on the Journey

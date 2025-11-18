@@ -5,9 +5,9 @@ choices:
   - text: "Follow the magic streams to see where they're going"
     target: section-163.md
   - text: "Try to control where the magic flows"
-    target: section-163.md
+    target: section-590.md
   - text: "Let the magic flow naturally and just observe"
-    target: section-163.md
+    target: section-600.md
 ---
 
 # Following the Magic

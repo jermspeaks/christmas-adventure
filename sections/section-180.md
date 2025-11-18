@@ -5,9 +5,9 @@ choices:
   - text: "Join the celebration and enjoy the moment"
     target: section-181.md
   - text: "Stay alert for any problems that might arise"
-    target: section-181.md
+    target: section-650.md
   - text: "Try to control the celebration"
-    target: section-181.md
+    target: section-660.md
 ---
 
 # Celebration in Starlight Hollow
