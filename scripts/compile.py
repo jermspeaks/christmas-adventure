@@ -92,8 +92,8 @@ def process_section(md_file, page_mapping):
             else:
                 choices_html += f"- **{choice['text']}** → (Invalid target: {choice['target']})\n"
     
-    # Combine title, page number, body, and choices
-    full_content = f"# {title}\n\n**Page {page_num}**\n\n{body}{choices_html}"
+    # Combine title, body, and choices (no page number displayed)
+    full_content = f"# {title}\n\n{body}{choices_html}"
     
     return {
         'id': section_id,
@@ -324,7 +324,6 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         for i, section in enumerate(sorted_sections):
             if i > 0:
                 f.write("\\newpage\n\n")
-            f.write(f"\n\n---\n\n")
             f.write(section['content'])
             f.write("\n\n")
     
