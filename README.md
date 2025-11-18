@@ -17,6 +17,7 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 - `page-mapping.json` - Generated file mapping sections to random page numbers
 - `UNFINISHED_BRANCHES.md` - Documentation of choices pointing to non-existent sections
 - `DUPLICATE_CHOICES.md` - Documentation of sections with multiple choices leading to the same destination
+- `ISLANDS.md` - Documentation of sections with no incoming links (unreachable sections)
 - `CHARACTERS.md` - Reference guide listing all named characters in the story
 
 ## Quick Start
@@ -188,6 +189,43 @@ python scripts/analyze_choices.py sections DUPLICATE_CHOICES.md
 
 The script analyzes all section files and identifies cases where multiple choices in the same section point to the same destination file.
 
+### Islands
+
+The `ISLANDS.md` file documents all sections that are "islands" - sections that exist but have no incoming links from other sections. These sections are unreachable through normal gameplay and need to either be connected to the story or terminated.
+
+**What islands are:**
+- Sections that cannot be reached by following choices from other sections
+- They represent story branches that are disconnected from the main narrative
+- Sections with choices need partial termination (remove or modify choices to end the branch)
+- Sections without choices are already terminated but may need story connection if they contain important content
+
+**How to use it:**
+
+1. **Check for islands**: Open `ISLANDS.md` to see which sections are unreachable
+2. **Decide on action**: For each island, decide whether to:
+   - Connect it to the story by adding a choice from another section that points to it
+   - Terminate it by removing or modifying its choices (if it has choices)
+   - Leave it as-is if it's already terminated and doesn't need connection
+3. **Track your progress**: As you connect or terminate islands, regenerate the file to see updated results
+
+**How to generate it:**
+
+```bash
+# Generate ISLANDS.md using the analysis script
+uv run python scripts/find_islands.py sections ISLANDS.md
+# or
+python scripts/find_islands.py sections ISLANDS.md
+```
+
+The script analyzes all section files and identifies sections that exist but are never referenced as targets in other sections' choices. The starting section (`section-1.md`) is automatically excluded from the islands list.
+
+The file shows:
+- Islands with choices (need partial termination)
+- Islands without choices (already terminated but may need connection)
+- Summary statistics
+
+This makes it easy to identify disconnected story branches and ensure all sections are either reachable or properly terminated.
+
 ### Characters
 
 The `CHARACTERS.md` file provides a comprehensive reference of all named characters in the story (excluding the second-person protagonist "you"). It includes:
@@ -210,6 +248,10 @@ The following documentation files help track story progress and maintain consist
 - **`DUPLICATE_CHOICES.md`** - Documents sections with multiple choices leading to the same destination (see [Duplicate Choices](#duplicate-choices) above)
   ```bash
   uv run python scripts/analyze_choices.py sections DUPLICATE_CHOICES.md
+  ```
+- **`ISLANDS.md`** - Lists all sections with no incoming links (unreachable sections) (see [Islands](#islands) above)
+  ```bash
+  uv run python scripts/find_islands.py sections ISLANDS.md
   ```
 - **`CHARACTERS.md`** - Reference guide for all named characters in the story (see [Characters](#characters) above)
 
