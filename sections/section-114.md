@@ -16,19 +16,19 @@ A week later, you found yourself back at Tombs and Trinkets. The police had fini
 
 Yuzu was there, trotting up to greet you with his usual enthusiasm. But when he looked at you, you could see something in his eyes—not disappointment, exactly, but something. Like he knew you could have done more.
 
-"You solved it," Beatrice said, sitting at one of the café tables. "That's what matters. Marcus will pay for what he did."
+"You solved it," Velma said, sitting at one of the café tables. "That's what matters. Marcus will pay for what he did."
 
 *But did I solve it completely?* you wondered. *Did I find all the answers?*
 
 You sat down, and Yuzu jumped into your lap. "I keep thinking," you said, "that there were things I missed. Details I didn't follow up on. Questions I didn't ask."
 
-"That's always the way with investigations," Beatrice said. "You can't find everything. You can't answer every question. But you found enough. You found the truth. That's what matters."
+"That's always the way with investigations," Velma said. "You can't find everything. You can't answer every question. But you found enough. You found the truth. That's what matters."
 
 *Is it?* you thought. *Is finding part of the truth enough?*
 
 You looked at Yuzu, who was watching you with those bright, intelligent eyes. *He knows,* you thought. *He knows I could have done more.*
 
-But maybe Beatrice was right. Maybe finding the truth, even if it wasn't the complete truth, was enough. Maybe solving the case, even if you'd missed some details, was what mattered.
+But maybe Velma was right. Maybe finding the truth, even if it wasn't the complete truth, was enough. Maybe solving the case, even if you'd missed some details, was what mattered.
 
 The truth had been found, as much of it as you could find. Justice would be served. And Tombs and Trinkets would go on.
 

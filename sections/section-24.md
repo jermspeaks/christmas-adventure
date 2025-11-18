@@ -4,7 +4,7 @@ title: "Gathering Clues"
 choices:
   - text: "Re-interview Marcus about his alibi"
     target: section-41.md
-  - text: "Interview Beatrice about what she saw"
+  - text: "Interview Velma about what she saw"
     target: section-42.md
   - text: "Talk to Officer Martinez about the investigation"
     target: section-43.md
@@ -35,7 +35,7 @@ When you returned to the main shop, you overheard Marcus talking to Officer Mart
 
 *The rare book collection,* you thought, remembering Eleanor's journal entry. *Someone knows. Someone's been asking questions.*
 
-You also noticed something else. Beatrice Morrison was still there, still browsing, as if nothing had happened. But when she thought no one was looking, you saw her slip something into her purse—something small and rectangular that might have been a book, or might have been something else entirely.
+You also noticed something else. Velma Ousley was still there, still browsing, as if nothing had happened. But when she thought no one was looking, you saw her slip something into her purse—something small and rectangular that might have been a book, or might have been something else entirely.
 
 *Everyone has secrets,* you realized. *The question is, which secrets are about murder?*
 

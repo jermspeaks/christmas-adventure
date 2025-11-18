@@ -1,18 +1,18 @@
 ---
 id: section-57
-title: "The Book Beatrice Took"
+title: "The Book Velma Took"
 choices:
-  - text: "Verify that Beatrice actually paid for the book"
+  - text: "Verify that Velma actually paid for the book"
     target: section-107.md
   - text: "Check if the book is actually valuable"
     target: section-108.md
-  - text: "Investigate if Beatrice has a history of taking things"
+  - text: "Investigate if Velma has a history of taking things"
     target: section-109.md
 ---
 
-# The Book Beatrice Took
+# The Book Velma Took
 
-You asked Beatrice about the book she'd taken, and she showed you the receipt. It was dated that morning, for a first edition of *Murder on the Orient Express*. The receipt looked legitimate.
+You asked Velma about the book she'd taken, and she showed you the receipt. It was dated that morning, for a first edition of *Murder on the Orient Express*. The receipt looked legitimate.
 
 *But that doesn't mean she didn't take something else,* you thought. *Or that the book isn't important for some other reason.*
 
@@ -22,11 +22,11 @@ You looked at the book more carefully. It was a first edition, leather-bound, cl
 
 "Can I see the book?" you asked.
 
-Beatrice handed it to you, and you flipped through it carefully. Nothing. Just pages of text. No hidden notes, no clues, nothing unusual.
+Velma handed it to you, and you flipped through it carefully. Nothing. Just pages of text. No hidden notes, no clues, nothing unusual.
 
 *So it really was just a book,* you thought. *She really was just buying it. My suspicion was wrong.*
 
-But that didn't mean Beatrice was innocent. It just meant the book wasn't the key to the mystery.
+But that didn't mean Velma was innocent. It just meant the book wasn't the key to the mystery.
 
 *I need to look elsewhere,* you thought. *I need to find the real evidence.*
 

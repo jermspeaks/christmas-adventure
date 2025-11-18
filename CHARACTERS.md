@@ -72,9 +72,9 @@ First appears in: `section-36.md`
 
 - `section-36.md`, `section-37.md`, `section-39.md`, `section-41.md`, `section-43.md`, `section-44.md`, `section-45.md`, `section-46.md`, `section-47.md`, `section-48.md`, `section-49.md`, `section-50.md`, `section-51.md`, `section-52.md`, `section-53.md`, `section-54.md`, `section-55.md`, `section-90.md`, `section-91.md`, `section-92.md`, `section-93.md`, `section-94.md`, `section-113.md`, `section-114.md`, `section-115.md`
 
-## Beatrice Morrison
+## Velma Ousley
 
-An older woman who is a regular customer at Tombs and Trinkets. Beatrice wears a cashmere coat and has a carefully controlled expression. She has been a customer at the bookshop for over an hour, looking for a gift, and saw Eleanor earlier when she seemed fine, though perhaps a bit stressed, which Beatrice notes is normal for that time of year. Beatrice maintains a composed demeanor even in difficult circumstances.
+An older woman who is a regular customer at Tombs and Trinkets. Velma wears a cashmere coat and has a carefully controlled expression. She has been a customer at the bookshop for over an hour, looking for a gift, and saw Eleanor earlier when she seemed fine, though perhaps a bit stressed, which Velma notes is normal for that time of year. Velma maintains a composed demeanor even in difficult circumstances.
 
 First appears in: `section-36.md`
 

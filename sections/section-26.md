@@ -24,7 +24,7 @@ But wait. You'd seen the rare books section. It was pristine, organized, with ea
 
 *Unless he wasn't really working there,* you thought. *Unless that was just his alibi.*
 
-You also thought about the silver button Yuzu had found. You'd been carrying it in your pocket, and now you pulled it out, examining it more closely. It was small, decorative, the kind of button you might find on a nice coat or a cardigan. You'd seen Beatrice wearing a cashmere coat, but you hadn't noticed if it had buttons like this.
+You also thought about the silver button Yuzu had found. You'd been carrying it in your pocket, and now you pulled it out, examining it more closely. It was small, decorative, the kind of button you might find on a nice coat or a cardigan. You'd seen Velma wearing a cashmere coat, but you hadn't noticed if it had buttons like this.
 
 But Marcus—Marcus had been wearing a cardigan, a nice one, dark gray with silver buttons. You'd noticed it earlier, when you'd first talked to him, because one of the buttons had been loose, the thread visible.
 

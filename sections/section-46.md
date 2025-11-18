@@ -4,7 +4,7 @@ title: "Searching for Connections"
 choices:
   - text: "Look for connections between Marcus and Alistair"
     target: section-68.md
-  - text: "Investigate if Beatrice knew about the rare books"
+  - text: "Investigate if Velma knew about the rare books"
     target: section-69.md
   - text: "Search for other people who might be involved"
     target: section-70.md
@@ -20,7 +20,7 @@ You sat down with your notebook, trying to find connections between the suspects
 
 You thought about the business card you'd found—Alistair Finch's card, with a phone number written on the back in handwriting that wasn't Eleanor's. *Whose handwriting was it?* you wondered. *Could it be Marcus's?*
 
-*And Beatrice,* you thought. *She's a regular customer. She's been friends with Eleanor for twenty years. But what if she knew something? What if she'd seen something, or heard something, that made her a threat?*
+*And Velma,* you thought. *She's a regular customer. She's been friends with Eleanor for twenty years. But what if she knew something? What if she'd seen something, or heard something, that made her a threat?*
 
 You looked at the evidence you'd gathered. The torn note. The letter opener. The silver button Yuzu had found. Eleanor's journal. Alistair's letter. The business card.
 

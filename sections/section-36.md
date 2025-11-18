@@ -28,7 +28,7 @@ The young man looked up as you approached. "Is it true?" he asked, his voice tre
 
 You nodded, and his face crumpled. "I'm Marcus," he said. "Marcus Chen. I work here. I was in the rare books section when... when it happened. I can't believe this."
 
-The older woman stood up, her movements precise and controlled. "I'm Beatrice Morrison," she said. "I'm a regular customer. I've been here for over an hour, looking for a gift. I saw Eleanor earlier—she seemed fine. A bit stressed, perhaps, but that's normal this time of year."
+The older woman stood up, her movements precise and controlled. "I'm Velma Ousley," she said. "I'm a regular customer. I've been here for over an hour, looking for a gift. I saw Eleanor earlier—she seemed fine. A bit stressed, perhaps, but that's normal this time of year."
 
 *Both of them were here,* you thought. *Both of them could have done it. Or one of them. Or neither.*
 

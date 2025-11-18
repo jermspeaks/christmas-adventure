@@ -6,7 +6,7 @@ choices:
     target: section-65.md
   - text: "Look into Alistair Finch's business dealings"
     target: section-66.md
-  - text: "Investigate Beatrice's relationship with Eleanor"
+  - text: "Investigate Velma's relationship with Eleanor"
     target: section-67.md
 ---
 
@@ -26,7 +26,7 @@ You thought about what you'd learned. Eleanor's journal entry: *Marcus is acting
 
 *But what if he'd hired someone?* you thought. *What if he'd paid someone to kill Eleanor?*
 
-*And Beatrice,* you thought. *She's a regular customer. She's been friends with Eleanor for twenty years. But what if there was something more? What if there was a secret, something that would give her a motive?*
+*And Velma,* you thought. *She's a regular customer. She's been friends with Eleanor for twenty years. But what if there was something more? What if there was a secret, something that would give her a motive?*
 
 You needed to investigate each of these possibilities. You needed to find out who had the strongest motive, who had the most to gain from Eleanor's death.
 

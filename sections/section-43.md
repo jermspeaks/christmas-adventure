@@ -34,7 +34,7 @@ Officer Martinez's expression changed slightly. "Alistair Finch? We've been look
 
 *So Alistair Finch had motive,* you thought. *But he also had an alibi, according to what you'd heard. He was at an auction in the city, with dozens of witnesses.*
 
-"What about Marcus?" you asked. "Or Beatrice? They were both here when it happened."
+"What about Marcus?" you asked. "Or Velma? They were both here when it happened."
 
 "We're looking into everyone," Officer Martinez said. "But I need you to let us do our job. This is a murder investigation, not a game."
 

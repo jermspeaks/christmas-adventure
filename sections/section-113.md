@@ -18,19 +18,19 @@ The shop felt different without Eleanor—quieter, somehow, as if it was missing
 
 Yuzu was there, of course, trotting up to greet you with his usual enthusiasm, his red bow collar still perfectly tied. He'd been staying with one of Eleanor's neighbors, but it seemed like he'd claimed the bookshop as his own.
 
-"You're back," said a voice, and you turned to see Beatrice Morrison, sitting at one of the café tables with a cup of tea. "I thought you might be. Yuzu's been waiting for you."
+"You're back," said a voice, and you turned to see Velma Ousley, sitting at one of the café tables with a cup of tea. "I thought you might be. Yuzu's been waiting for you."
 
 "You've been coming here?" you asked.
 
-"Every day," Beatrice said. "Someone has to look after the place. And Yuzu, of course. Eleanor would have wanted that."
+"Every day," Velma said. "Someone has to look after the place. And Yuzu, of course. Eleanor would have wanted that."
 
 You sat down across from her, and Yuzu immediately jumped into your lap, settling down with a contented sigh. "What's going to happen to the shop?" you asked.
 
-"Eleanor's will left it to Marcus," Beatrice said, her voice tight. "But given the circumstances, that's being contested. Her lawyer thinks the shop should go to her niece, who lives out of state. But in the meantime..." She gestured around. "I'm keeping it running. With help, of course."
+"Eleanor's will left it to Marcus," Velma said, her voice tight. "But given the circumstances, that's being contested. Her lawyer thinks the shop should go to her niece, who lives out of state. But in the meantime..." She gestured around. "I'm keeping it running. With help, of course."
 
 You looked around the shop, at the books and the lights and the cozy atmosphere. *It's still here,* you thought. *Despite everything, it's still here.*
 
-"You know," Beatrice said, "Eleanor would have appreciated what you did. Finding the truth. She always said that books taught us that the truth matters, even when it's hard. Even when it hurts."
+"You know," Velma said, "Eleanor would have appreciated what you did. Finding the truth. She always said that books taught us that the truth matters, even when it's hard. Even when it hurts."
 
 You thought about that. About Eleanor, and Marcus, and the rare books, and the letter opener, and the button Yuzu had found. About how a cozy mystery had turned into something real, something tragic, but also something that had been solved.
 
@@ -40,7 +40,7 @@ Yuzu looked up at you, his bright eyes full of what could only be described as p
 
 "You're a good dog, Yuzu," you said, scratching behind his ears. "The best detective I've ever met."
 
-Yuzu's tail thumped against your leg, and you knew, somehow, that this wasn't the end of your story with Tombs and Trinkets. Maybe you'd come back. Maybe you'd help Beatrice keep the shop running. Maybe you'd just visit, sometimes, to see Yuzu and remember Eleanor and the mystery you'd solved together.
+Yuzu's tail thumped against your leg, and you knew, somehow, that this wasn't the end of your story with Tombs and Trinkets. Maybe you'd come back. Maybe you'd help Velma keep the shop running. Maybe you'd just visit, sometimes, to see Yuzu and remember Eleanor and the mystery you'd solved together.
 
 But for now, you sat in the cozy bookshop, with a dog in your lap and Christmas lights twinkling overhead, and you let yourself feel, for just a moment, like everything might be okay.
 

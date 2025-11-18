@@ -2,7 +2,7 @@
 id: section-48
 title: "Tracing the Button"
 choices:
-  - text: "Show the button to Beatrice and see if she recognizes it"
+  - text: "Show the button to Velma and see if she recognizes it"
     target: section-74.md
   - text: "Compare the button to Marcus's cardigan"
     target: section-75.md
@@ -20,7 +20,7 @@ You thought about who you'd seen wearing clothing with buttons. Marcus had been 
 
 *Could this be Marcus's button?* you wondered.
 
-But Beatrice had been wearing a cashmere coat. You hadn't noticed if it had buttons like this, but it was possible.
+But Velma had been wearing a cashmere coat. You hadn't noticed if it had buttons like this, but it was possible.
 
 *I need to find out where this button came from,* you thought.
 

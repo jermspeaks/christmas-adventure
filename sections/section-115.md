@@ -10,23 +10,23 @@ You'd solved the case, but not without consequences. In your eagerness to find t
 
 Still, you'd found the truth. Marcus Chen had killed Eleanor Hartwell. He'd been arrested, charged, and the case was closed.
 
-But the damage was done. Beatrice's reputation had been damaged by your early suspicions. Alistair Finch had been investigated unnecessarily. The police had wasted time following your false leads.
+But the damage was done. Velma's reputation had been damaged by your early suspicions. Alistair Finch had been investigated unnecessarily. The police had wasted time following your false leads.
 
-A week later, you found yourself back at Tombs and Trinkets. The shop was open again, but things were different. Beatrice was there, but she was distant, still hurt by your accusations. Yuzu was there, but even he seemed to look at you differently, as if he knew you'd made mistakes.
+A week later, you found yourself back at Tombs and Trinkets. The shop was open again, but things were different. Velma was there, but she was distant, still hurt by your accusations. Yuzu was there, but even he seemed to look at you differently, as if he knew you'd made mistakes.
 
-"You solved it," Beatrice said, her voice cool. "That's what matters, I suppose."
+"You solved it," Velma said, her voice cool. "That's what matters, I suppose."
 
 *But at what cost?* you thought. *I solved the case, but I hurt people in the process. I found the truth, but I created problems.*
 
 You sat down, and Yuzu came over, but he didn't jump into your lap. He just sat nearby, watching you, as if he was waiting to see what you would do.
 
-"I'm sorry," you said to Beatrice. "For suspecting you. For accusing you. I was wrong, and I'm sorry."
+"I'm sorry," you said to Velma. "For suspecting you. For accusing you. I was wrong, and I'm sorry."
 
-Beatrice was silent for a long moment. Then she said, "You were trying to solve a murder. I understand that. But you could have been more careful. You could have gathered more evidence before you started accusing people."
+Velma was silent for a long moment. Then she said, "You were trying to solve a murder. I understand that. But you could have been more careful. You could have gathered more evidence before you started accusing people."
 
 *She's right,* you thought. *I could have been more careful. I could have been more thorough. I could have avoided the mistakes.*
 
-"You found the truth," Beatrice said. "That's what matters. But next time—if there is a next time—be more careful. Think before you accuse. Gather evidence before you jump to conclusions."
+"You found the truth," Velma said. "That's what matters. But next time—if there is a next time—be more careful. Think before you accuse. Gather evidence before you jump to conclusions."
 
 *Next time,* you thought. *Will there be a next time?*
 
