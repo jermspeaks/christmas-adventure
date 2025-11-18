@@ -5,9 +5,7 @@ choices:
   - text: "Ask about specific problems they're experiencing"
     target: section-152.md
   - text: "Try to help fix the immediate problems you can see"
-    target: section-152.md
-  - text: "Explain what's happening with the magic"
-    target: section-152.md
+    target: section-560.md
 ---
 
 # The People of Starlight Hollow

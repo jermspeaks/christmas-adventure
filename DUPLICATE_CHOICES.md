@@ -9,17 +9,6 @@ Each section shows:
 
 ---
 
-## section-151.md - "The People of Starlight Hollow"
-
-- Choice 1: "Ask about specific problems they're experiencing" → `section-152.md` ⚠️ **DUPLICATE**
-- Choice 2: "Try to help fix the immediate problems you can see" → `section-152.md` ⚠️ **DUPLICATE**
-- Choice 3: "Explain what's happening with the magic" → `section-152.md` ⚠️ **DUPLICATE**
-
-**Duplicate Targets:**
-- `section-152.md` appears in choices: 1, 2, 3
-
----
-
 ## section-152.md - "The Root of the Problem"
 
 - Choice 1: "Try to redistribute the magic yourself using the Keepsake Keeper" → `section-153.md` ⚠️ **DUPLICATE**
@@ -212,6 +201,6 @@ Each section shows:
 
 ## Summary
 
-Total sections with duplicate choice targets: **17**
+Total sections with duplicate choice targets: **16**
 
-Total duplicate target groups: **17**
+Total duplicate target groups: **16**
