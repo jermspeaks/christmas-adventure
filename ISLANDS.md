@@ -67,13 +67,6 @@ These sections have choices but are unreachable. They need to either:
 - Choice 1: "Accept that the magic is flowing correctly" → `section-271.md`
 - Choice 2: "Investigate - something feels off" → `section-272.md`
 
-### section-28.md - "Aftermath"
-
-**Section ID:** `section-28`
-
-**Choices:**
-- Choice 1: "Reflect on the investigation" → `section-113.md`
-
 ### section-280.md - "Surface Mastery"
 
 **Section ID:** `section-280`
@@ -242,15 +235,6 @@ These sections have incoming links but are only reachable through unreachable (i
 **Choices:**
 - Choice 1: "Address the underlying issues while celebrating" → `section-305.md`
 
-### section-113.md - "True Ending: Complete Investigation"
-
-**Section ID:** `section-113`
-
-**Referenced by unreachable sections:**
-- `section-28.md` (choice: "Reflect on the investigation")
-
-*This section has no choices and is already terminated.*
-
 ### section-255.md - "The Explosion"
 
 **Section ID:** `section-255`
@@ -336,12 +320,12 @@ These sections have incoming links but are only reachable through unreachable (i
 
 ## Summary
 
-Total island sections: **18**
+Total island sections: **17**
 
-- Islands with choices (need partial termination): **18**
+- Islands with choices (need partial termination): **17**
 - Islands without choices (already terminated): **0**
 
-Total unknown start sections: **17**
+Total unknown start sections: **16**
 
 - Unknown starts with choices: **7**
-- Unknown starts without choices (already terminated): **10**
+- Unknown starts without choices (already terminated): **9**

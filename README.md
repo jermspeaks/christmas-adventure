@@ -18,6 +18,7 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 - `UNFINISHED_BRANCHES.md` - Documentation of choices pointing to non-existent sections
 - `DUPLICATE_CHOICES.md` - Documentation of sections with multiple choices leading to the same destination
 - `ISLANDS.md` - Documentation of sections with no incoming links (unreachable sections)
+- `UNNECESSARY_CONNECTIONS.md` - Documentation of sections with more than 3 incoming connections
 - `CHARACTERS.md` - Reference guide listing all named characters in the story
 
 ## Quick Start
@@ -225,6 +226,46 @@ The file shows:
 - Summary statistics
 
 This makes it easy to identify disconnected story branches and ensure all sections are either reachable or properly terminated.
+
+### Unnecessary Connections
+
+The `UNNECESSARY_CONNECTIONS.md` file documents all sections that have more than 3 incoming connections, violating the "at most 3 loops back" rule for choose-your-own-adventure stories.
+
+**The Rule:** At most, we can loop back 3 times. Any more, and the "choose your own adventure" no longer feels like a choice. This rule can be broken only if it makes sense for the story.
+
+**What this means:**
+- Sections with more than 3 incoming connections may need some connections terminated or redirected
+- Redundant connections (similar choice text, duplicate paths) are prime candidates for removal
+- Connections from unreachable/island sections should be considered for termination
+
+**How to use it:**
+
+1. **Check for over-connected sections**: Open `UNNECESSARY_CONNECTIONS.md` to see which sections have too many incoming connections
+2. **Review redundancy analysis**: The report identifies exact duplicate choice texts and similar choice texts that might be redundant
+3. **Decide on action**: For each over-connected section, decide which connections to:
+   - Terminate (remove the choice from the source section)
+   - Redirect (change the choice target to a different section)
+   - Keep (if it makes narrative sense to break the rule)
+4. **Track your progress**: As you fix over-connected sections, regenerate the file to see updated results
+
+**How to generate it:**
+
+```bash
+# Generate UNNECESSARY_CONNECTIONS.md using the analysis script
+uv run python scripts/find_over_connected.py sections UNNECESSARY_CONNECTIONS.md
+# or
+python scripts/find_over_connected.py sections UNNECESSARY_CONNECTIONS.md
+```
+
+The script analyzes all section files and identifies sections with more than 3 incoming connections. It also performs redundancy analysis to identify potentially unnecessary connections.
+
+The file shows:
+- Each over-connected section with its total incoming connection count
+- Complete list of all sections pointing to it (with choice text)
+- Redundancy analysis highlighting exact duplicates and similar choice texts
+- Summary statistics
+
+This makes it easy to identify sections that violate the "3 loops back" rule and find redundant connections that can be removed or redirected.
 
 ### Characters
 
