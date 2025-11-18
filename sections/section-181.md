@@ -16,11 +16,11 @@ As the celebration continued, you found a quiet moment to reflect. You thought a
 
 *This has been quite a journey,* you thought. *I've learned so much. About magic, about connection, about what Christmas really means. About myself, about others, about the world.*
 
-You thought about Kael, about their transformation, about how they'd gone from locking magic away to helping it flow. You thought about Lumina, about their wisdom, about their connection to the natural world. You thought about the Memory Keeper, about its guidance, about its understanding.
+You thought about Kvothe, about their transformation, about how they'd gone from locking magic away to helping it flow. You thought about Lumina, about their wisdom, about their connection to the natural world. You thought about the Memory Keeper, about its guidance, about its understanding.
 
 *I've learned that Christmas isn't about perfection,* you realized. *It's about connection, about trying, about finding joy even when things aren't perfect. It's about memory, about emotion, about understanding that we're not alone.*
 
-Kael approached, their expression thoughtful. "I've been thinking," they said. "About everything that's happened, about what I've learned, about who I am now. I'm not the guardian of shadows anymore. I'm... I'm someone who helps magic flow, who helps people find joy, who helps the world remember what Christmas really means."
+Kvothe approached, their expression thoughtful. "I've been thinking," they said. "About everything that's happened, about what I've learned, about who I am now. I'm not the guardian of shadows anymore. I'm... I'm someone who helps magic flow, who helps people find joy, who helps the world remember what Christmas really means."
 
 *They're reflecting too,* you thought. *They're thinking about their journey, about their transformation, about who they are now.*
 

@@ -24,7 +24,7 @@ Yuzu stopped at the doorway and whined softly—a sound that was nothing like hi
 
 You pushed the door open slowly, and that's when you saw her.
 
-Eleanor Hartwell, the owner of Tombs and Trinkets, was lying on the floor behind her desk. Her silver hair, usually perfectly coiffed, was disheveled, and her reading glasses had fallen to the floor beside her. The Christmas sweater she'd been wearing—a cheerful red knit with tiny book ornaments—was stained dark in a way that made your stomach turn.
+Eleanor Shellstrop, the owner of Tombs and Trinkets, was lying on the floor behind her desk. Her silver hair, usually perfectly coiffed, was disheveled, and her reading glasses had fallen to the floor beside her. The Christmas sweater she'd been wearing—a cheerful red knit with tiny book ornaments—was stained dark in a way that made your stomach turn.
 
 *This is real. This is actually happening.* You'd read enough mysteries to know what you were looking at, but nothing could have prepared you for the reality of it.
 

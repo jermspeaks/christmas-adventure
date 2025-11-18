@@ -42,9 +42,9 @@ First appears in: `section-13.md`
 
 - `section-13.md`, `section-14.md`, `section-16.md`, `section-151.md`, `section-152.md`, `section-153.md`, `section-155.md`, `section-175.md`, `section-176.md`, `section-177.md`, `section-407.md`
 
-## Kael
+## Kvothe
 
-The guardian of the Memory Vault, initially introduced as a mysterious figure cloaked in shadows that seem to move independently, with their face hidden beneath a hood. Kael has the coldest, emptiest eyes, and their presence creates an intense feeling of emptiness, like standing in a void where nothing exists, not even hope. Initially, Kael believes Christmas is a waste and that the magic is better off locked away to protect people from disappointment. However, through the story, Kael transforms from this cold, shadowy guardian into a warm, human person who remembers what Christmas really means. After their transformation, Kael becomes the guardian of balanced magic, helping magic flow and helping people find joy. Kael's transformation is central to the story's resolution.
+The guardian of the Memory Vault, initially introduced as a mysterious figure cloaked in shadows that seem to move independently, with their face hidden beneath a hood. Kvothe has the coldest, emptiest eyes, and their presence creates an intense feeling of emptiness, like standing in a void where nothing exists, not even hope. Initially, Kvothe believes Christmas is a waste and that the magic is better off locked away to protect people from disappointment. However, through the story, Kvothe transforms from this cold, shadowy guardian into a warm, human person who remembers what Christmas really means. After their transformation, Kvothe becomes the guardian of balanced magic, helping magic flow and helping people find joy. Kvothe's transformation is central to the story's resolution.
 
 First appears in: `section-19.md` (introduced as "the guardian"), named in `section-21.md`
 
@@ -52,7 +52,7 @@ First appears in: `section-19.md` (introduced as "the guardian"), named in `sect
 
 - `section-21.md`, `section-29.md`, `section-30.md`, `section-31.md`, `section-32.md`, `section-33.md`, `section-150.md`, `section-152.md`, `section-153.md`, `section-154.md`, `section-155.md`, `section-156.md`, `section-157.md`, `section-158.md`, `section-159.md`, `section-160.md`, `section-161.md`, `section-168.md`, `section-180.md`, `section-181.md`, `section-182.md`, `section-183.md`, `section-184.md`, `section-185.md`, `section-207.md`, `section-208.md`, `section-209.md`, `section-210.md`, `section-211.md`, `section-212.md`, `section-213.md`, `section-214.md`, `section-215.md`, `section-216.md`, `section-260.md`, `section-261.md`, `section-262.md`, `section-301.md`, `section-351.md`, `section-391.md`, `section-392.md`, `section-394.md`, `section-395.md`, `section-413.md`, `section-455.md`, `section-456.md`, `section-481.md`, `section-483.md`
 
-## Eleanor Hartwell
+## Eleanor Shellstrop
 
 The owner of Tombs and Trinkets bookshop. Eleanor has silver hair that is usually perfectly coiffed, though it becomes disheveled in tragic circumstances. She wears reading glasses and a cheerful red knit Christmas sweater with tiny book ornaments. Eleanor is discovered in her office under tragic circumstances, having been a central figure in the bookshop that serves as the entry point to the magical adventure.
 

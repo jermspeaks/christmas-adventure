@@ -16,7 +16,7 @@ You returned to Starlight Hollow, and the town was alive with celebration. The m
 
 *This is beautiful,* you thought, watching as people celebrated, as they shared memories, as they connected. *This is what Christmas should be. Not perfect, but real. Not flawless, but true.*
 
-Kael stood beside you, their expression warm and genuine. They looked different now—human, alive, connected. They were no longer the guardian of shadows, locking magic away. They were part of the celebration, part of the joy, part of the connection.
+Kvothe stood beside you, their expression warm and genuine. They looked different now—human, alive, connected. They were no longer the guardian of shadows, locking magic away. They were part of the celebration, part of the joy, part of the connection.
 
 "Thank you," they said, their voice filled with emotion. "Thank you for showing me that Christmas isn't about perfection—it's about connection, about trying, about finding joy even when things aren't perfect. Thank you for helping me remember who I am."
 

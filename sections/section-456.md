@@ -6,7 +6,7 @@ choices: []
 
 # The Collapse
 
-You continued, thinking you were working together, but the false unity couldn't hold. The magic began to flow, but it was unstable, chaotic, dangerous. The connection between you and Kael broke, and the magic collapsed.
+You continued, thinking you were working together, but the false unity couldn't hold. The magic began to flow, but it was unstable, chaotic, dangerous. The connection between you and Kvothe broke, and the magic collapsed.
 
 *It's not working,* you thought, but it was too late.
 

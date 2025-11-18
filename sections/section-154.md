@@ -12,9 +12,9 @@ choices:
 
 # Guiding the Magic Together
 
-You, Kael, and the townspeople worked together, and slowly, carefully, you began to guide the magic. It wasn't about forcing it—it was about showing it. You walked through the town, pointing out the places that needed magic, sharing stories about new traditions, helping the magic understand that Christmas wasn't just about the past, but about the present and future too.
+You, Kvothe, and the townspeople worked together, and slowly, carefully, you began to guide the magic. It wasn't about forcing it—it was about showing it. You walked through the town, pointing out the places that needed magic, sharing stories about new traditions, helping the magic understand that Christmas wasn't just about the past, but about the present and future too.
 
-The Memory Keeper glowed steadily in your hands, and you could feel it helping, channeling your intent, your connection with the people around you. Kael walked beside you, their understanding of the magic's nature helping to guide it. Lumina trotted ahead, their presence calming, their connection to the natural world helping the magic find its place.
+The Memory Keeper glowed steadily in your hands, and you could feel it helping, channeling your intent, your connection with the people around you. Kvothe walked beside you, their understanding of the magic's nature helping to guide it. Lumina trotted ahead, their presence calming, their connection to the natural world helping the magic find its place.
 
 *This is working,* you thought, watching as the lights began to steady, as the magic began to find balance. *Slowly, but it's working.*
 

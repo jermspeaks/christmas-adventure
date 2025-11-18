@@ -8,7 +8,7 @@ choices: []
 
 You'd solved the case, but not without consequences. In your eagerness to find the truth, you'd made mistakes. You'd accused the wrong people, you'd jumped to conclusions, you'd created problems that wouldn't have existed if you'd been more careful.
 
-Still, you'd found the truth. Marcus Chen had killed Eleanor Hartwell. He'd been arrested, charged, and the case was closed.
+Still, you'd found the truth. Marcus Chen had killed Eleanor Shellstrop. He'd been arrested, charged, and the case was closed.
 
 But the damage was done. Velma's reputation had been damaged by your early suspicions. Alistair Finch had been investigated unnecessarily. The police had wasted time following your false leads.
 

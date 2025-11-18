@@ -6,7 +6,7 @@ choices:
     target: section-200.md
   - text: "Try to hoard magic for yourself to control it better"
     target: section-201.md
-  - text: "Work with Kael and the townspeople to guide the magic gently"
+  - text: "Work with Kvothe and the townspeople to guide the magic gently"
     target: section-154.md
   - text: "Rush to fix everything at once without understanding"
     target: section-202.md
@@ -22,7 +22,7 @@ Elara nodded, and the townspeople began to spread out, calling to their neighbor
 
 *This is a lot of pressure,* you thought. *But it's the right thing to do. We need to do this together.*
 
-You felt a presence beside you and turned to see Kael approaching, their expression thoughtful. "I felt the imbalance," they said. "The magic is trying to restore itself, but it's remembering the old world, not understanding the new one. We need to help it see that the world has changed, but that doesn't mean it's worse—just different."
+You felt a presence beside you and turned to see Kvothe approaching, their expression thoughtful. "I felt the imbalance," they said. "The magic is trying to restore itself, but it's remembering the old world, not understanding the new one. We need to help it see that the world has changed, but that doesn't mean it's worse—just different."
 
 Lumina trotted forward, their antlers catching the light. "The magic needs to learn that Christmas isn't about perfection," they said. "It's about connection. About sharing. About finding joy together, even when things aren't perfect."
 

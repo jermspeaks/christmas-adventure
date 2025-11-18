@@ -20,7 +20,7 @@ You watched as the community flourished, as they celebrated, as they helped each
 
 *The magic is flourishing,* you realized. *It's flourishing because it's built on connection, on memory, on emotion. It's stronger, more powerful, because it's shared, because it's connected, because it's understood. And the community is flourishing too, because it's finding balance—celebrating, but also addressing challenges, helping, supporting, working together.*
 
-Kael stood beside you, their expression warm and genuine. "This is what Christmas magic really is," they said. "Not perfection, but connection. Not flawless, but true. Not power, but sharing. Not control, but understanding. This is what we've been working toward, what we've been building, what we've been creating."
+Kvothe stood beside you, their expression warm and genuine. "This is what Christmas magic really is," they said. "Not perfection, but connection. Not flawless, but true. Not power, but sharing. Not control, but understanding. This is what we've been working toward, what we've been building, what we've been creating."
 
 Lumina trotted forward, their eyes bright. "The magic is flourishing," they said. "The community is flourishing. Everything is flourishing, because it's built on connection, on memory, on emotion. Because it's shared, because it's connected, because it's understood."
 

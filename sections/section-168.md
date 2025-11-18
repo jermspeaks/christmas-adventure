@@ -22,7 +22,7 @@ You watched as the trees around you didn't just sparkle—they seemed to remembe
 
 Lumina trotted forward, their eyes bright with wonder. "The magic feels different," they said. "It feels... complete. Like it's not just magic anymore—it's memory, it's connection, it's the understanding that Christmas is about people, not perfection."
 
-The Memory Keeper pulsed warmly in your hands. "The magic has been transformed," it said. "It's been changed by Kael's understanding, by their memories, by their realization that Christmas is about connection, not perfection. This magic is stronger, more resilient, because it's built on truth, not on the illusion of perfection."
+The Memory Keeper pulsed warmly in your hands. "The magic has been transformed," it said. "It's been changed by Kvothe's understanding, by their memories, by their realization that Christmas is about connection, not perfection. This magic is stronger, more resilient, because it's built on truth, not on the illusion of perfection."
 
 You reached out and touched a tree branch, and immediately, you felt a memory—not your own, but someone else's. A child placing a star on a tree. A family singing carols together. The warmth of togetherness, the joy of connection.
 

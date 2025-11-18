@@ -20,7 +20,7 @@ You looked around, and you could see the problems. A group of people trying to u
 
 *We can't ignore these problems,* you thought. *We need to address them, to help, to support. But we also can't let them ruin the celebration. We need to find balance.*
 
-Kael approached, their expression concerned. "I see the problems too," they said. "People struggling, places unbalanced, connections fragile. But we can't ignore them. We need to help, to support, to address them. But we also can't let them ruin the celebration. We need to find balance."
+Kvothe approached, their expression concerned. "I see the problems too," they said. "People struggling, places unbalanced, connections fragile. But we can't ignore them. We need to help, to support, to address them. But we also can't let them ruin the celebration. We need to find balance."
 
 *They see it too,* you thought. *They understand that we need to address the problems, but we also need to celebrate, to find balance.*
 

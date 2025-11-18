@@ -18,7 +18,7 @@ The places with too much magic began to share, their excess flowing to the place
 
 *This is what it should be,* you thought, watching as the town began to feel normal again, but with that extra sparkle of magic that made everything feel special. *Not perfect, but balanced. Not chaotic, but stable.*
 
-Kael stood beside you, their expression thoughtful. "The magic is learning," they said. "It's remembering that Christmas isn't about perfection—it's about connection, about sharing, about finding joy together. And it's learning that the world has changed, but that's okay. Change isn't bad—it's just different."
+Kvothe stood beside you, their expression thoughtful. "The magic is learning," they said. "It's remembering that Christmas isn't about perfection—it's about connection, about sharing, about finding joy together. And it's learning that the world has changed, but that's okay. Change isn't bad—it's just different."
 
 Elara approached, Maya holding her hand. "Thank you," she said. "The magic feels right now. Not too much, not too little. Just... right."
 

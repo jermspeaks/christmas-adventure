@@ -10,11 +10,11 @@ choices:
 
 # False Unity
 
-You thought you were opening the vault together, that you and Kael were united, that you were working as one. You placed your hands on the archway together, feeling the connection, the unity, the shared purpose.
+You thought you were opening the vault together, that you and Kvothe were united, that you were working as one. You placed your hands on the archway together, feeling the connection, the unity, the shared purpose.
 
 *We're doing this together,* you thought. *We're united.*
 
-But as the magic began to flow, you realized something was wrong. The connection felt weak, the unity felt false, the shared purpose wasn't truly shared. You and Kael weren't truly united—you were just going through the motions, pretending to work together.
+But as the magic began to flow, you realized something was wrong. The connection felt weak, the unity felt false, the shared purpose wasn't truly shared. You and Kvothe weren't truly united—you were just going through the motions, pretending to work together.
 
 *This isn't working,* you thought. *We're not truly united.*
 

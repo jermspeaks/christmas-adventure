@@ -6,7 +6,7 @@ choices:
     target: section-151.md
   - text: "Use the Memory Keeper to try to stabilize the magic"
     target: section-151.md
-  - text: "Find Kael and ask for their help"
+  - text: "Find Kvothe and ask for their help"
     target: section-151.md
 ---
 

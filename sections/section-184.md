@@ -20,7 +20,7 @@ You watched as the community worked together, as they celebrated, as they helped
 
 *The magic is flourishing,* you realized. *It's flourishing because it's built on connection, on memory, on emotion. It's stronger, more powerful, because it's shared, because it's connected, because it's understood. And the community is flourishing too, because it's finding balance—celebrating, but also addressing challenges, helping, supporting, working together.*
 
-Kael stood beside you, their expression warm and genuine. "This is what it should be," they said. "A celebration that's also about connection, about support, about working together. A celebration that finds balance—celebrating what's been accomplished, but also addressing what still needs to be done."
+Kvothe stood beside you, their expression warm and genuine. "This is what it should be," they said. "A celebration that's also about connection, about support, about working together. A celebration that finds balance—celebrating what's been accomplished, but also addressing what still needs to be done."
 
 Lumina trotted forward, their eyes bright. "The community is flourishing," they said. "People are celebrating, connecting, sharing, but they're also addressing challenges, helping each other, supporting each other. They're finding balance, and the magic is flourishing with them."
 

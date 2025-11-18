@@ -6,7 +6,7 @@ choices: []
 
 # True Ending: Complete Investigation
 
-You had done it. You'd gathered all the evidence, verified everything, and solved the case. Marcus Chen had killed Eleanor Hartwell. He'd been stealing rare books from the collection, selling them to pay off his debts. When Eleanor found out and confronted him, he'd panicked and killed her with her own letter opener.
+You had done it. You'd gathered all the evidence, verified everything, and solved the case. Marcus Chen had killed Eleanor Shellstrop. He'd been stealing rare books from the collection, selling them to pay off his debts. When Eleanor found out and confronted him, he'd panicked and killed her with her own letter opener.
 
 The evidence was overwhelming. The silver button from his cardigan, found near Eleanor's desk. The inconsistencies in his alibi. The letter from Alistair Finch that proved Marcus had been stealing. The torn note that matched Marcus's handwriting. Eleanor's journal entries that showed she was going to confront him.
 

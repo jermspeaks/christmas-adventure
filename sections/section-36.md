@@ -12,7 +12,7 @@ choices:
 
 # Calling for Help
 
-Your hands shook as you pulled out your phone, your fingers fumbling with the buttons. *911. I need to call 911.* The operator's voice was calm and professional, asking questions you answered automatically while your mind raced. *Eleanor Hartwell. Murdered. In her own bookshop. Three days before Christmas.*
+Your hands shook as you pulled out your phone, your fingers fumbling with the buttons. *911. I need to call 911.* The operator's voice was calm and professional, asking questions you answered automatically while your mind raced. *Eleanor Shellstrop. Murdered. In her own bookshop. Three days before Christmas.*
 
 *This can't be real,* you kept thinking, but Yuzu's presence—his warm body pressed against your leg, his soft whine—kept you grounded. He hadn't left your side since you'd found Eleanor, and you were grateful for it.
 

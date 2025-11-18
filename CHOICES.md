@@ -24,7 +24,7 @@ Each section shows:
 
 - Choice 1: "Talk to the townspeople to understand what's happening" → `section-151.md` ⚠️ **DUPLICATE**
 - Choice 2: "Use the Memory Keeper to try to stabilize the magic" → `section-151.md` ⚠️ **DUPLICATE**
-- Choice 3: "Find Kael and ask for their help" → `section-151.md` ⚠️ **DUPLICATE**
+- Choice 3: "Find Kvothe and ask for their help" → `section-151.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
 - `section-151.md` appears in choices: 1, 2, 3
@@ -45,7 +45,7 @@ Each section shows:
 ## section-152.md - "The Root of the Problem"
 
 - Choice 1: "Try to redistribute the magic yourself using the Memory Keeper" → `section-153.md` ⚠️ **DUPLICATE**
-- Choice 2: "Ask Kael to help balance the magic flow" → `section-153.md` ⚠️ **DUPLICATE**
+- Choice 2: "Ask Kvothe to help balance the magic flow" → `section-153.md` ⚠️ **DUPLICATE**
 - Choice 3: "Work with the townspeople to create a solution together" → `section-153.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
@@ -53,11 +53,11 @@ Each section shows:
 
 ---
 
-## section-156.md - "Kael's Struggle"
+## section-156.md - "Kvothe's Struggle"
 
-- Choice 1: "Ask Kael how they're feeling about the transformation" → `section-157.md` ⚠️ **DUPLICATE**
-- Choice 2: "Give Kael space to process on their own" → `section-157.md` ⚠️ **DUPLICATE**
-- Choice 3: "Try to help Kael understand their new role immediately" → `section-157.md` ⚠️ **DUPLICATE**
+- Choice 1: "Ask Kvothe how they're feeling about the transformation" → `section-157.md` ⚠️ **DUPLICATE**
+- Choice 2: "Give Kvothe space to process on their own" → `section-157.md` ⚠️ **DUPLICATE**
+- Choice 3: "Try to help Kvothe understand their new role immediately" → `section-157.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
 - `section-157.md` appears in choices: 1, 2, 3
@@ -161,17 +161,17 @@ Each section shows:
 
 - Choice 1: "Watch as the magic spreads across the world" → `section-32.md` ⚠️ **DUPLICATE**
 - Choice 2: "Follow the magic back to Starlight Hollow" → `section-32.md` ⚠️ **DUPLICATE**
-- Choice 3: "Stay with Kael and help them adjust to the change" → `section-32.md` ⚠️ **DUPLICATE**
+- Choice 3: "Stay with Kvothe and help them adjust to the change" → `section-32.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
 - `section-32.md` appears in choices: 1, 2, 3
 
 ---
 
-## section-30.md - "Kael's Memories"
+## section-30.md - "Kvothe's Memories"
 
-- Choice 1: "Help Kael process their transformation" → `section-33.md` ⚠️ **DUPLICATE**
-- Choice 2: "Ask Kael about their past and what led them here" → `section-33.md` ⚠️ **DUPLICATE**
+- Choice 1: "Help Kvothe process their transformation" → `section-33.md` ⚠️ **DUPLICATE**
+- Choice 2: "Ask Kvothe about their past and what led them here" → `section-33.md` ⚠️ **DUPLICATE**
 - Choice 3: "Celebrate the return of the magic together" → `section-33.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**

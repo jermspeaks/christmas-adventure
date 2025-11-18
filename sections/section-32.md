@@ -4,7 +4,7 @@ title: "Ripples of Change"
 choices:
   - text: "Investigate the strange occurrences in Starlight Hollow"
     target: section-150.md
-  - text: "Help Kael understand their new role in the restored world"
+  - text: "Help Kvothe understand their new role in the restored world"
     target: section-156.md
   - text: "Follow the magic to see where it's going"
     target: section-162.md
@@ -26,7 +26,7 @@ As if in answer, you heard a sound from the direction of Starlight Hollow—not 
 
 Lumina's ears perked up, and they looked toward the town with concern. "Something's wrong," they said. "The magic is back, but... it's doing things. Strange things. I can feel it from here."
 
-Kael, who had been watching the magic flow with a look of wonder, suddenly frowned. "The magic is too strong in some places," they said. "And too weak in others. It's like... it's like it doesn't know where to go, or how much to give. The world has changed since the magic was locked away. It's not the same place it was before."
+Kvothe, who had been watching the magic flow with a look of wonder, suddenly frowned. "The magic is too strong in some places," they said. "And too weak in others. It's like... it's like it doesn't know where to go, or how much to give. The world has changed since the magic was locked away. It's not the same place it was before."
 
 You looked at the Memory Keeper, which was now pulsing in a pattern you didn't recognize. "What's happening?" you asked.
 
