@@ -110,20 +110,6 @@ Each section shows:
 
 ---
 
-## section-20.md - "The True Meaning of Christmas"
-
-- Choice 1: "Share a memory of Christmas joy" → `section-21.md` ⚠️ **DUPLICATE**
-- Choice 2: "Give the guardian something meaningful" → `section-21.md` ⚠️ **DUPLICATE**
-- Choice 3: "Help them remember what Christmas used to mean" → `section-21.md` ⚠️ **DUPLICATE**
-- Choice 4: "Dismiss the guardian's concerns as unimportant" → `section-410.md`
-- Choice 5: "Try to force the vault open without understanding" → `section-411.md`
-- Choice 6: "Think you understand Christmas spirit" → `section-454.md`
-
-**Duplicate Targets:**
-- `section-21.md` appears in choices: 1, 2, 3
-
----
-
 ## section-29.md - "Opening Together"
 
 - Choice 1: "Watch as the magic spreads across the world" → `section-32.md` ⚠️ **DUPLICATE**
@@ -201,6 +187,6 @@ Each section shows:
 
 ## Summary
 
-Total sections with duplicate choice targets: **16**
+Total sections with duplicate choice targets: **15**
 
-Total duplicate target groups: **16**
+Total duplicate target groups: **15**

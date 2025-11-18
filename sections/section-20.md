@@ -2,10 +2,6 @@
 id: section-20
 title: "The True Meaning of Christmas"
 choices:
-  - text: "Share a memory of Christmas joy"
-    target: section-21.md
-  - text: "Give the guardian something meaningful"
-    target: section-21.md
   - text: "Help them remember what Christmas used to mean"
     target: section-21.md
   - text: "Dismiss the guardian's concerns as unimportant"
