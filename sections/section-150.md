@@ -4,10 +4,8 @@ title: "Chaos in Starlight Hollow"
 choices:
   - text: "Talk to the townspeople to understand what's happening"
     target: section-151.md
-  - text: "Use the Keepsake Keeper to try to stabilize the magic"
-    target: section-151.md
   - text: "Find Kvothe and ask for their help"
-    target: section-151.md
+    target: section-550.md
 ---
 
 # Chaos in Starlight Hollow
@@ -25,4 +23,3 @@ You stepped into the town square, and that's when you saw the people. They were 
 *They don't know what to do,* you thought. *They're scared, but they're also... hopeful? Like they want this to work, but they don't know how to make it work right.*
 
 What do you do?
-

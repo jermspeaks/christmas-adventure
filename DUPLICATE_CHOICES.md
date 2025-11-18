@@ -9,17 +9,6 @@ Each section shows:
 
 ---
 
-## section-150.md - "Chaos in Starlight Hollow"
-
-- Choice 1: "Talk to the townspeople to understand what's happening" → `section-151.md` ⚠️ **DUPLICATE**
-- Choice 2: "Use the Keepsake Keeper to try to stabilize the magic" → `section-151.md` ⚠️ **DUPLICATE**
-- Choice 3: "Find Kvothe and ask for their help" → `section-151.md` ⚠️ **DUPLICATE**
-
-**Duplicate Targets:**
-- `section-151.md` appears in choices: 1, 2, 3
-
----
-
 ## section-151.md - "The People of Starlight Hollow"
 
 - Choice 1: "Ask about specific problems they're experiencing" → `section-152.md` ⚠️ **DUPLICATE**
@@ -223,6 +212,6 @@ Each section shows:
 
 ## Summary
 
-Total sections with duplicate choice targets: **18**
+Total sections with duplicate choice targets: **17**
 
-Total duplicate target groups: **18**
+Total duplicate target groups: **17**
