@@ -5,7 +5,7 @@ choices:
   - text: "Slow down and help Kvothe process one memory at a time"
     target: section-581.md
   - text: "Continue trying to explain everything quickly"
-    target: section-582.md
+    target: section-786.md
   - text: "Realize the mistake and step back"
     target: section-583.md
 ---

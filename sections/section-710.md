@@ -7,7 +7,7 @@ choices:
   - text: "Focus on helping the world adjust to the changes"
     target: section-712.md
   - text: "Return to Starlight Hollow to address local issues"
-    target: section-713.md
+    target: section-785.md
 ---
 
 # Global Perspective
