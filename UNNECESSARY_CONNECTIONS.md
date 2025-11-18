@@ -11,36 +11,85 @@ This file documents all sections that have more than 3 incoming connections, vio
 
 ---
 
-## section-9.md - "A New Discovery"
+## section-8.md - "First Steps"
 
-**Section ID:** `section-9`
+**Section ID:** `section-8`
 
 **Total Incoming Connections:** **7** (exceeds limit of 3)
 
 ### All Incoming Connections
 
-1. From `section-520.md` - "Cautious Exploration"
-   - Choice text: "Decide you've observed enough and proceed"
-2. From `section-523.md` - "Careful Observation"
-   - Choice text: "Decide you've learned enough and proceed"
-3. From `section-527.md` - "Deep Understanding"
-   - Choice text: "Apply what you've learned"
-4. From `section-531.md` - "Master Understanding"
-   - Choice text: "Apply your deep understanding"
-5. From `section-534.md` - "Over-Learning"
-   - Choice text: "Realize you've learned enough"
-6. From `section-7.md` - "Understanding the Problem"
-   - Choice text: "Meet others who can help"
-7. From `section-8.md` - "First Steps"
-   - Choice text: "Follow the path toward the village"
+1. From `section-5.md` - "Into the Book"
+   - Choice text: "Explore the world on your own"
+2. From `section-520.md` - "Cautious Exploration"
+   - Choice text: "Enter the village and explore"
+3. From `section-521.md` - "Reckless Rush"
+   - Choice text: "Realize you're being too reckless"
+4. From `section-523.md` - "Careful Observation"
+   - Choice text: "Enter the village and explore"
+5. From `section-524.md` - "Too Reckless"
+   - Choice text: "Realize you need to slow down"
+6. From `section-6.md` - "The Guide Appears"
+   - Choice text: "Accept the guide's help"
+7. From `section-7.md` - "Understanding the Problem"
+   - Choice text: "Start the quest immediately"
 
 ### Redundancy Analysis
 
-**Similar Choice Texts (potential redundancy):**
+**Exact Duplicate Choice Texts:**
 
-- Similar choices (representative: "Decide you've observed enough and proceed") appear 2 times from:
+- Choice text "Enter the village and explore" appears 2 times from:
   - `section-520.md`
   - `section-523.md`
+
+**Similar Choice Texts (potential redundancy):**
+
+- Similar choices (representative: "Enter the village and explore") appear 2 times from:
+  - `section-520.md`
+  - `section-523.md`
+
+---
+
+## section-404.md - "Time Wasted"
+
+**Section ID:** `section-404`
+
+**Total Incoming Connections:** **6** (exceeds limit of 3)
+
+### All Incoming Connections
+
+1. From `section-11.md` - "Gathering Information"
+   - Choice text: "Waste too much time gathering information"
+2. From `section-520.md` - "Cautious Exploration"
+   - Choice text: "Become too cautious and hesitate"
+3. From `section-520.md` - "Cautious Exploration"
+   - Choice text: "Continue observing obsessively"
+4. From `section-522.md` - "Different Investigation"
+   - Choice text: "Continue investigating obsessively"
+5. From `section-523.md` - "Careful Observation"
+   - Choice text: "Continue observing obsessively"
+6. From `section-525.md` - "Pattern Recognition"
+   - Choice text: "Continue investigating obsessively"
+
+### Redundancy Analysis
+
+**Exact Duplicate Choice Texts:**
+
+- Choice text "Continue observing obsessively" appears 2 times from:
+  - `section-520.md`
+  - `section-523.md`
+
+- Choice text "Continue investigating obsessively" appears 2 times from:
+  - `section-522.md`
+  - `section-525.md`
+
+**Similar Choice Texts (potential redundancy):**
+
+- Similar choices (representative: "Continue observing obsessively") appear 4 times from:
+  - `section-520.md`
+  - `section-522.md`
+  - `section-523.md`
+  - `section-525.md`
 
 ---
 
@@ -89,41 +138,6 @@ This file documents all sections that have more than 3 incoming connections, vio
 
 ---
 
-## section-404.md - "Time Wasted"
-
-**Section ID:** `section-404`
-
-**Total Incoming Connections:** **5** (exceeds limit of 3)
-
-### All Incoming Connections
-
-1. From `section-11.md` - "Gathering Information"
-   - Choice text: "Waste too much time gathering information"
-2. From `section-520.md` - "Cautious Exploration"
-   - Choice text: "Become too cautious and hesitate"
-3. From `section-522.md` - "Different Investigation"
-   - Choice text: "Continue investigating obsessively"
-4. From `section-525.md` - "Pattern Recognition"
-   - Choice text: "Continue investigating obsessively"
-5. From `section-534.md` - "Over-Learning"
-   - Choice text: "Continue learning - you think you need more"
-
-### Redundancy Analysis
-
-**Exact Duplicate Choice Texts:**
-
-- Choice text "Continue investigating obsessively" appears 2 times from:
-  - `section-522.md`
-  - `section-525.md`
-
-**Similar Choice Texts (potential redundancy):**
-
-- Similar choices (representative: "Continue investigating obsessively") appear 2 times from:
-  - `section-522.md`
-  - `section-525.md`
-
----
-
 ## section-19.md - "The Guardian Appears"
 
 **Section ID:** `section-19`
@@ -142,31 +156,6 @@ This file documents all sections that have more than 3 incoming connections, vio
    - Choice text: "Continue following the Keepsake Keeper's guidance"
 5. From `section-453.md` - "The Test"
    - Choice text: "Realize the guardian is testing you"
-
-### Redundancy Analysis
-
-*No obvious redundancy patterns detected.*
-
----
-
-## section-8.md - "First Steps"
-
-**Section ID:** `section-8`
-
-**Total Incoming Connections:** **5** (exceeds limit of 3)
-
-### All Incoming Connections
-
-1. From `section-5.md` - "Into the Book"
-   - Choice text: "Explore the world on your own"
-2. From `section-521.md` - "Reckless Rush"
-   - Choice text: "Realize you're being too reckless"
-3. From `section-524.md` - "Too Reckless"
-   - Choice text: "Realize you need to slow down"
-4. From `section-6.md` - "The Guide Appears"
-   - Choice text: "Accept the guide's help"
-5. From `section-7.md` - "Understanding the Problem"
-   - Choice text: "Start the quest immediately"
 
 ### Redundancy Analysis
 
@@ -291,14 +280,14 @@ This file documents all sections that have more than 3 incoming connections, vio
 
 ## Summary
 
-Total over-connected sections: **10**
+Total over-connected sections: **9**
 
 **Distribution by connection count:**
 - 7 connections: **1** sections
-- 6 connections: **1** sections
-- 5 connections: **3** sections
+- 6 connections: **2** sections
+- 5 connections: **1** sections
 - 4 connections: **5** sections
 
 **Potential redundant connections:**
-- Exact duplicate choice texts: **6** connections could be removed
-- Similar choice texts: **7** connections might be redundant
+- Exact duplicate choice texts: **8** connections could be removed
+- Similar choice texts: **9** connections might be redundant
