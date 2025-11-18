@@ -2,8 +2,6 @@
 id: section-7
 title: "Understanding the Problem"
 choices:
-  - text: "Ask more questions"
-    target: section-8.md
   - text: "Start the quest immediately"
     target: section-8.md
   - text: "Meet others who can help"
@@ -31,4 +29,3 @@ Cheshire's voice grew more urgent, though still warm. "The consequences, if we f
 They stood up, shaking snow from their fur. "But we have three days. Three days to find where the magic is being kept and restore it. It's not much time, but it's enough. If we work together."
 
 What do you do?
-

@@ -6,8 +6,6 @@ choices:
     target: section-7.md
   - text: "Accept the guide's help"
     target: section-8.md
-  - text: "Be skeptical and ask for proof"
-    target: section-7.md
   - text: "Dismiss Cheshire as not helpful"
     target: section-400.md
 ---

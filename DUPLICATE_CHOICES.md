@@ -132,36 +132,8 @@ Each section shows:
 
 ---
 
-## section-6.md - "The Guide Appears"
-
-- Choice 1: "Ask specific questions about the world" → `section-7.md` ⚠️ **DUPLICATE**
-- Choice 2: "Accept the guide's help" → `section-8.md`
-- Choice 3: "Be skeptical and ask for proof" → `section-7.md` ⚠️ **DUPLICATE**
-- Choice 4: "Dismiss Cheshire as not helpful" → `section-400.md`
-
-**Duplicate Targets:**
-- `section-7.md` appears in choices: 1, 3
-
----
-
-## section-7.md - "Understanding the Problem"
-
-- Choice 1: "Ask more questions" → `section-8.md` ⚠️ **DUPLICATE**
-- Choice 2: "Start the quest immediately" → `section-8.md` ⚠️ **DUPLICATE**
-- Choice 3: "Meet others who can help" → `section-9.md`
-- Choice 4: "Refuse to help - this isn't your problem" → `section-401.md`
-- Choice 5: "Be overly skeptical and paranoid about everything" → `section-402.md`
-
-**Duplicate Targets:**
-- `section-8.md` appears in choices: 1, 2
-
----
-
-
-
-
 ## Summary
 
-Total sections with duplicate choice targets: **13**
+Total sections with duplicate choice targets: **11**
 
-Total duplicate target groups: **13**
+Total duplicate target groups: **11**
