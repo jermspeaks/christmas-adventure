@@ -2,6 +2,7 @@ import { useState, useEffect } from 'preact/hooks';
 import { Header } from './components/Header';
 import { Section } from './components/Section';
 import { Visualization } from './components/Visualization';
+import { Branches } from './components/Branches';
 
 export function App() {
   const [gameData, setGameData] = useState(null);
@@ -16,6 +17,8 @@ export function App() {
       const hash = window.location.hash;
       if (hash === '#/visualization') {
         setCurrentView('visualization');
+      } else if (hash === '#/branches') {
+        setCurrentView('branches');
       } else {
         setCurrentView('game');
       }
@@ -111,6 +114,10 @@ export function App() {
     window.location.hash = '#/';
   };
 
+  const handleNavigateToBranches = () => {
+    window.location.hash = '#/branches';
+  };
+
   if (currentView === 'visualization') {
     return (
       <>
@@ -119,8 +126,24 @@ export function App() {
           currentView={currentView}
           onNavigateToVisualization={handleNavigateToVisualization}
           onNavigateToGame={handleNavigateToGame}
+          onNavigateToBranches={handleNavigateToBranches}
         />
         <Visualization />
+      </>
+    );
+  }
+
+  if (currentView === 'branches') {
+    return (
+      <>
+        <Header 
+          onReset={handleReset} 
+          currentView={currentView}
+          onNavigateToVisualization={handleNavigateToVisualization}
+          onNavigateToGame={handleNavigateToGame}
+          onNavigateToBranches={handleNavigateToBranches}
+        />
+        <Branches />
       </>
     );
   }
@@ -132,6 +155,7 @@ export function App() {
         currentView={currentView}
         onNavigateToVisualization={handleNavigateToVisualization}
         onNavigateToGame={handleNavigateToGame}
+        onNavigateToBranches={handleNavigateToBranches}
       />
       <Section 
         section={currentSection} 
