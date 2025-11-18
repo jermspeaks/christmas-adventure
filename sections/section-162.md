@@ -16,7 +16,7 @@ You decided to follow the magic, to see where it was going, to understand how it
 
 *It's beautiful,* you thought, watching as the magic flowed, as it spread across the world. *But where is it going? What is it doing?*
 
-Lumina trotted beside you, their eyes bright with wonder. "I can feel it," they said. "The magic is flowing, spreading, trying to reach every place that needs it. But it's not balanced. Some places are getting too much, others too little."
+Cheshire trotted beside you, their eyes bright with wonder. "I can feel it," they said. "The magic is flowing, spreading, trying to reach every place that needs it. But it's not balanced. Some places are getting too much, others too little."
 
 You followed the streams of light, and as you walked, you began to see patterns. The magic was flowing toward places with strong Christmas memories—towns with long traditions, homes with generations of celebration, places where Christmas had always been special. But it was avoiding newer places, places without those memories, places that didn't know how to hold magic yet.
 

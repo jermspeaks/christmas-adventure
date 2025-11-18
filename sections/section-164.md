@@ -18,7 +18,7 @@ As you investigated the places where magic was gathering, you discovered somethi
 
 The Keepsake Keeper pulsed urgently in your hands. "The magic is building up," it said, its voice worried. "It's not flowing, not sharing. It's accumulating, and if it keeps building, it will become unstable. It could cause a backlash, could destroy the town, could damage the magic itself."
 
-Lumina's ears perked up, and they looked at the gathering magic with concern. "We need to do something," they said. "But we can't just force it. The magic needs to learn to flow, to share, to balance itself. If we force it, it might rebel, might become even more unstable."
+Cheshire's ears perked up, and they looked at the gathering magic with concern. "We need to do something," they said. "But we can't just force it. The magic needs to learn to flow, to share, to balance itself. If we force it, it might rebel, might become even more unstable."
 
 *So we have a problem,* you realized. *The magic is building up dangerously, but we can't just force it to flow. We need to guide it, to help it understand that it needs to share, that it can't hoard all the magic for itself.*
 

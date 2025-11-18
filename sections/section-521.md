@@ -16,7 +16,7 @@ You decided to rush recklessly into the village, thinking speed was more importa
 
 *I need to move fast,* you thought. *I don't have time to be careful.*
 
-Lumina tried to keep up, their expression worried. "Slow down!" they called. "You're going too fast! You're not paying attention!"
+Cheshire tried to keep up, their expression worried. "Slow down!" they called. "You're going too fast! You're not paying attention!"
 
 But you didn't listen. You rushed ahead, thinking you could handle whatever you found, that speed was everything, that caution was a waste of time.
 

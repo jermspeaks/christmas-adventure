@@ -24,7 +24,7 @@ You closed your eyes and thought about your favorite Christmas memory—a moment
 
 *That's how it works,* you realized. *The magic responds to memories, to emotions, to connections. It doesn't respond to control—it responds to connection.*
 
-Lumina trotted forward, their eyes bright. "The magic is different now," they said. "It's not about power anymore. It's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
+Cheshire trotted forward, their eyes bright. "The magic is different now," they said. "It's not about power anymore. It's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
 
 The Keepsake Keeper pulsed warmly. "The magic has been transformed," it said. "It's been changed by understanding, by memory, by connection. It's stronger now, more resilient, because it's built on truth, not on the illusion of perfection. But it works differently. It requires connection, memory, emotion. It can't be controlled—it must be shared."
 

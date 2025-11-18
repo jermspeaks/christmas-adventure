@@ -18,7 +18,7 @@ But your recklessness was causing problems. You were making mistakes. You were m
 
 *This isn't working,* you thought, but you kept rushing anyway.
 
-Lumina tried to catch up, their expression worried. "You're being too reckless!" they called. "You need to slow down! You're making mistakes!"
+Cheshire tried to catch up, their expression worried. "You're being too reckless!" they called. "You need to slow down! You're making mistakes!"
 
 *Maybe they're right,* you thought. *Maybe I am being too reckless.*
 

@@ -22,7 +22,7 @@ You watched as the community worked together, as they celebrated, as they helped
 
 Kvothe stood beside you, their expression warm and genuine. "This is what it should be," they said. "A celebration that's also about connection, about support, about working together. A celebration that finds balance—celebrating what's been accomplished, but also addressing what still needs to be done."
 
-Lumina trotted forward, their eyes bright. "The community is flourishing," they said. "People are celebrating, connecting, sharing, but they're also addressing challenges, helping each other, supporting each other. They're finding balance, and the magic is flourishing with them."
+Cheshire trotted forward, their eyes bright. "The community is flourishing," they said. "People are celebrating, connecting, sharing, but they're also addressing challenges, helping each other, supporting each other. They're finding balance, and the magic is flourishing with them."
 
 The Keepsake Keeper pulsed warmly. "The magic has been restored," it said. "Transformed, strengthened, built on truth. And the community is flourishing, finding balance, working together. This is good. This is what it should be."
 

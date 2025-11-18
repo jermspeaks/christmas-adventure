@@ -12,9 +12,9 @@ First appears in: `section-4.md`
 
 - `section-4.md`, `section-22.md`, `section-23.md`, `section-24.md`, `section-25.md`, `section-26.md`, `section-27.md`, `section-36.md`, `section-37.md`, `section-38.md`, `section-39.md`, `section-40.md`, `section-41.md`, `section-42.md`, `section-43.md`, `section-44.md`, `section-45.md`, `section-46.md`, `section-47.md`, `section-48.md`, `section-49.md`, `section-50.md`, `section-90.md`, `section-91.md`, `section-92.md`, `section-93.md`, `section-94.md`, `section-113.md`, `section-114.md`, `section-115.md`
 
-## Lumina
+## Cheshire
 
-A guide character who appears as a creature that looks like a cross between a fox and a cat. Lumina has fur the color of autumn leaves and eyes that sparkle with ancient wisdom and gentle humor. Their voice is warm and musical, like wind chimes on a breezy day. Lumina moves with grace and has been serving as a guide for a very long time. They are knowledgeable about the magical world and the fading Christmas magic, providing crucial information and guidance to help restore it. Lumina is patient, wise, and has a hint of amusement in their voice, though they can become serious when discussing urgent matters.
+A guide character who appears as a creature that looks like a cross between a fox and a cat. Cheshire has fur the color of autumn leaves and eyes that sparkle with ancient wisdom and gentle humor. Their voice is warm and musical, like wind chimes on a breezy day. Cheshire moves with grace and has been serving as a guide for a very long time. They are knowledgeable about the magical world and the fading Christmas magic, providing crucial information and guidance to help restore it. Cheshire is patient, wise, and has a hint of amusement in their voice, though they can become serious when discussing urgent matters.
 
 First appears in: `section-6.md`
 

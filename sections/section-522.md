@@ -20,7 +20,7 @@ The Keepsake Keeper's light pulsed in your hands, and you noticed something you 
 
 *There's a pattern here,* you realized. *If I can understand it, I might learn something new.*
 
-Lumina trotted closer, their eyes bright with curiosity. "What are you doing?" they asked. "You're looking at it differently. That's interesting."
+Cheshire trotted closer, their eyes bright with curiosity. "What are you doing?" they asked. "You're looking at it differently. That's interesting."
 
 *I am looking at it differently,* you thought. *And maybe that's what I needed to do.*
 

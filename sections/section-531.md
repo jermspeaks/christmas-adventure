@@ -14,7 +14,7 @@ You continued learning, and your understanding became masterful. You saw connect
 
 *I understand deeply now,* you thought. *I see how everything connects, how everything works.*
 
-Lumina watched you, their expression impressed. "You understand," they said. "Really understand. Not just surface knowledge, but deep, masterful understanding. That will help you help better."
+Cheshire watched you, their expression impressed. "You understand," they said. "Really understand. Not just surface knowledge, but deep, masterful understanding. That will help you help better."
 
 *I do understand,* you realized. *Deeply. Masterfully. And that understanding will make me more effective.*
 

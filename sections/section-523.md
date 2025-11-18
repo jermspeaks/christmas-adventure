@@ -14,7 +14,7 @@ You continued observing carefully, taking time to understand, to learn, to see p
 
 *I'm learning,* you thought. *I'm understanding. This is good.*
 
-Lumina stayed beside you, their expression thoughtful. "You're being very careful," they said. "That's good. But remember—time is running out. The magic is fading, and Christmas Eve is approaching."
+Cheshire stayed beside you, their expression thoughtful. "You're being very careful," they said. "That's good. But remember—time is running out. The magic is fading, and Christmas Eve is approaching."
 
 *I know,* you thought. *I need to balance observation with action. I need to learn, but I also need to act.*
 

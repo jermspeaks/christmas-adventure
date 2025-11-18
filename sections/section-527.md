@@ -14,7 +14,7 @@ You continued observing and learning, and your understanding deepened. You began
 
 *I'm understanding more,* you thought. *I'm seeing connections. This is good.*
 
-Lumina watched you, their expression thoughtful. "You're learning," they said. "Really learning. Not just surface knowledge, but deep understanding. That's important."
+Cheshire watched you, their expression thoughtful. "You're learning," they said. "Really learning. Not just surface knowledge, but deep understanding. That's important."
 
 *I am learning,* you realized. *Deeply. And that understanding will help me help better.*
 

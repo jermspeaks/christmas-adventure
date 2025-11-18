@@ -28,7 +28,7 @@ Elara closed her eyes, and you watched as she thought about a memory. Slowly, th
 
 *It's working,* you thought. *She's getting it. She's understanding how to connect, how to remember, how to share.*
 
-Lumina trotted forward, their eyes bright. "You're learning," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
+Cheshire trotted forward, their eyes bright. "You're learning," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
 
 The Keepsake Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion."
 

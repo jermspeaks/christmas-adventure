@@ -10,7 +10,7 @@ You became overly skeptical and paranoid about everything. You questioned every 
 
 *This is all a trick,* you thought. *They're trying to manipulate me. I can't trust them.*
 
-But your paranoia made you unable to work with anyone. Lumina tried to help, but you pushed them away. The Keepsake Keeper tried to guide you, but you dismissed it. The villagers tried to assist, but you distrusted them all.
+But your paranoia made you unable to work with anyone. Cheshire tried to help, but you pushed them away. The Keepsake Keeper tried to guide you, but you dismissed it. The villagers tried to assist, but you distrusted them all.
 
 *I can't trust anyone,* you thought, but that meant you couldn't do anything.
 

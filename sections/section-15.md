@@ -22,7 +22,7 @@ You decided to follow the Keepsake Keeper's guidance and track the trail of fadi
 
 The Keepsake Keeper's light flickered in your hands, pulsing in a pattern that seemed to guide you forward. "This way," it whispered. "The magic has been pulled in this direction. Follow the emptiness, and you'll find where it's being stored."
 
-Lumina trotted alongside you, their usual cheerful demeanor replaced with something more serious. "I don't like this," they said quietly. "The forest used to be beautiful. Full of life, full of magic. Now it's just... empty."
+Cheshire trotted alongside you, their usual cheerful demeanor replaced with something more serious. "I don't like this," they said quietly. "The forest used to be beautiful. Full of life, full of magic. Now it's just... empty."
 
 As you entered the Frostwood Forest, the change was immediate. The trees here were ancient, their branches heavy with snow that didn't sparkle at all. The path beneath your feet was dark, the magical glow you'd seen earlier completely gone. And the silence—the silence was the worst part. No birds singing, no wind rustling through the branches, no magical sounds of any kind. Just... quiet.
 

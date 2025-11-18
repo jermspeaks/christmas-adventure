@@ -13,7 +13,7 @@ Each section shows:
 
 - Choice 1: "Continue toward the Frostwood Forest" → `section-12.md`
 - Choice 2: "Try a different approach - gather more information first" → `section-11.md` ⚠️ **DUPLICATE**
-- Choice 3: "Return to Lumina to share what you've learned" → `section-11.md` ⚠️ **DUPLICATE**
+- Choice 3: "Return to Cheshire to share what you've learned" → `section-11.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
 - `section-11.md` appears in choices: 2, 3
@@ -184,7 +184,7 @@ Each section shows:
 - Choice 1: "Ask specific questions about the world" → `section-7.md` ⚠️ **DUPLICATE**
 - Choice 2: "Accept the guide's help" → `section-8.md`
 - Choice 3: "Be skeptical and ask for proof" → `section-7.md` ⚠️ **DUPLICATE**
-- Choice 4: "Dismiss Lumina as not helpful" → `section-400.md`
+- Choice 4: "Dismiss Cheshire as not helpful" → `section-400.md`
 
 **Duplicate Targets:**
 - `section-7.md` appears in choices: 1, 3
@@ -209,7 +209,7 @@ Each section shows:
 - Choice 1: "Follow the path toward the village" → `section-9.md` ⚠️ **DUPLICATE**
 - Choice 2: "Investigate the flickering lights" → `section-9.md` ⚠️ **DUPLICATE**
 - Choice 3: "Talk to someone in the village" → `section-9.md` ⚠️ **DUPLICATE**
-- Choice 4: "Ignore Lumina's warnings and rush ahead alone" → `section-403.md`
+- Choice 4: "Ignore Cheshire's warnings and rush ahead alone" → `section-403.md`
 - Choice 5: "Explore cautiously, taking time to observe" → `section-520.md`
 - Choice 6: "Rush recklessly into the village" → `section-521.md`
 
@@ -221,7 +221,7 @@ Each section shows:
 ## section-9.md - "A New Discovery"
 
 - Choice 1: "Continue investigating the ornament" → `section-10.md` ⚠️ **DUPLICATE**
-- Choice 2: "Share the discovery with Lumina" → `section-10.md` ⚠️ **DUPLICATE**
+- Choice 2: "Share the discovery with Cheshire" → `section-10.md` ⚠️ **DUPLICATE**
 - Choice 3: "Take action based on what you found" → `section-10.md` ⚠️ **DUPLICATE**
 - Choice 4: "Ignore the Keepsake Keeper's warning and dismiss it" → `section-400.md`
 - Choice 5: "Investigate the ornament from a different angle" → `section-522.md`

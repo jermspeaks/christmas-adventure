@@ -40,7 +40,7 @@ The trees around the clearing began to sparkle. The snow started to glow. The st
 
 *It's working,* you realized. *The magic is being restored.*
 
-Lumina, who had been waiting at the edge of the clearing, trotted forward, their eyes bright with joy. "You did it," they said, their voice filled with wonder. "You actually did it. The magic is flowing again."
+Cheshire, who had been waiting at the edge of the clearing, trotted forward, their eyes bright with joy. "You did it," they said, their voice filled with wonder. "You actually did it. The magic is flowing again."
 
 The Keepsake Keeper's light was so bright now that you could barely look at it, but you could feel its joy, its relief. "Thank you," it said. "Thank you for believing. Thank you for remembering what Christmas really means."
 

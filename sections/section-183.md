@@ -20,7 +20,7 @@ The community responded, and you could see them working together, helping each o
 
 *This is what it should be,* you thought. *A community that celebrates, but also addresses challenges. A community that finds joy, but also helps, supports, addresses problems. A community that finds balance.*
 
-Kvothe worked beside you, helping, supporting, guiding. Lumina trotted around, offering wisdom, connection, support. The Keepsake Keeper pulsed warmly, channeling your intent, your connection, your shared purpose.
+Kvothe worked beside you, helping, supporting, guiding. Cheshire trotted around, offering wisdom, connection, support. The Keepsake Keeper pulsed warmly, channeling your intent, your connection, your shared purpose.
 
 *We're working together,* you realized. *We're celebrating, but we're also addressing challenges. We're finding balance—finding joy, but also helping, supporting, addressing problems.*
 

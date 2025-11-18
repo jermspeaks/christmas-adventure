@@ -18,7 +18,7 @@ As you continued working together, you could see Kvothe growing, changing, becom
 
 *That's perfect,* you thought. *That's exactly who they should be. Not a guardian who hides things, but a guardian who helps things find balance.*
 
-Lumina trotted forward, their eyes bright. "You're becoming who you were meant to be," they said. "Not someone who protects people from disappointment, but someone who helps them find strength. Not someone who locks magic away, but someone who helps it flow."
+Cheshire trotted forward, their eyes bright. "You're becoming who you were meant to be," they said. "Not someone who protects people from disappointment, but someone who helps them find strength. Not someone who locks magic away, but someone who helps it flow."
 
 The Keepsake Keeper pulsed warmly, and you could feel its approval. "Balance," it said. "That's what you're learning. Not perfection, but balance. Not hiding from problems, but facing them together. Not protecting people from disappointment, but helping them find joy anyway."
 

@@ -30,7 +30,7 @@ You looked down at the ornament, its light warm against your palm. "You do?"
 
 *Well, that's encouraging,* you thought. *Not.*
 
-Lumina looked at you, their expression serious. "This is it," they said. "This is what we've been waiting for. But you need to be careful. The Frostwood Forest isn't what it used to be. The magic there has been corrupted."
+Cheshire looked at you, their expression serious. "This is it," they said. "This is what we've been waiting for. But you need to be careful. The Frostwood Forest isn't what it used to be. The magic there has been corrupted."
 
 You held the Keepsake Keeper carefully, feeling its warmth pulse against your skin. *This is real. This is actually happening. And I'm the one who has to fix it.*
 

@@ -20,7 +20,7 @@ You could feel the magic flowing through you, warm and steady, responding to you
 
 *This is what it should be,* you thought. *This is what Christmas magic should be. Not perfect, but real. Not controlled, but shared. Not power, but connection.*
 
-Lumina trotted forward, their eyes bright. "You're ready," they said. "Ready to help others understand, ready to guide them, ready to help them learn to connect, to remember, to share. Ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be."
+Cheshire trotted forward, their eyes bright. "You're ready," they said. "Ready to help others understand, ready to guide them, ready to help them learn to connect, to remember, to share. Ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be."
 
 The Keepsake Keeper pulsed warmly. "You've mastered the new magic," it said. "You understand that it's about connection, about memory, about emotion. You understand that it can't be controlled—it must be shared. And you're ready to help others understand, to guide them, to help them learn. You're ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be."
 

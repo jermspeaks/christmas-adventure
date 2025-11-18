@@ -24,7 +24,7 @@ You approached the gathered townspeople, and they turned to look at you with a m
 
 The townspeople looked at you with confusion, and you could see they didn't understand. *This is going to be harder than I thought,* you realized. *They're used to the old way, and the new way is completely different.*
 
-Lumina trotted forward, their eyes bright. "The magic has changed," they said. "It's not about control anymore—it's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
+Cheshire trotted forward, their eyes bright. "The magic has changed," they said. "It's not about control anymore—it's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
 
 The Keepsake Keeper pulsed warmly. "The magic has been transformed," it said. "It's been changed by understanding, by memory, by connection. It's stronger now, more resilient, because it's built on truth, not on the illusion of perfection. But it works differently. It requires connection, memory, emotion. It can't be controlled—it must be shared."
 

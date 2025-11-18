@@ -28,7 +28,7 @@ You could see it happening in real time. The trees around the clearing began to 
 
 *It's working,* you thought. *It's really working.*
 
-Lumina trotted forward, their eyes wide with wonder. "I can feel it," they said, their voice filled with awe. "The magic is flowing back. The forest is coming alive again."
+Cheshire trotted forward, their eyes wide with wonder. "I can feel it," they said, their voice filled with awe. "The magic is flowing back. The forest is coming alive again."
 
 Kvothe looked at you, their expression transformed. The coldness was completely gone, replaced with something warm and bright. "Thank you," they said. "I thought I was protecting the world by locking the magic away. But you showed me that the real protection comes from sharing it, from letting it flow freely."
 

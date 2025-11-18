@@ -26,7 +26,7 @@ You stepped closer, and immediately, you felt a wave of... something. Not cold, 
 
 *This is the source,* you realized. *This is where all the magic is being kept. And it's wrong. It's all wrong.*
 
-Lumina stayed at the edge of the clearing, their fur standing on end. "I can't go any closer," they said, their voice strained. "The emptiness... it's too strong. It's draining what little magic I have left."
+Cheshire stayed at the edge of the clearing, their fur standing on end. "I can't go any closer," they said, their voice strained. "The emptiness... it's too strong. It's draining what little magic I have left."
 
 You looked at the archway, at the fading carvings, at the way the world around it felt so empty. *This is it. This is what we came to find. But how do we fix it? How do we release the magic?*
 

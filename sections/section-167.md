@@ -22,7 +22,7 @@ But you also knew that this was delicate. The magic was still learning, still fi
 
 The Keepsake Keeper pulsed thoughtfully in your hands. "The magic is learning," it said. "But learning takes time. It needs guidance, patience, understanding. It needs someone to help it find balance, to help it learn to share, to help it remember that the strongest magic is the magic that's connected, that's balanced, that's shared."
 
-Lumina trotted forward, their eyes bright. "The magic is finding its way," they said. "But it's not there yet. It still needs help, still needs guidance. It still needs someone to show it the way."
+Cheshire trotted forward, their eyes bright. "The magic is finding its way," they said. "But it's not there yet. It still needs help, still needs guidance. It still needs someone to show it the way."
 
 *So we need to keep helping,* you thought. *We need to keep guiding, keep showing the magic how to share, how to flow, how to balance. We need to be patient, to understand that this is going to take time.*
 

@@ -28,7 +28,7 @@ You looked toward Starlight Hollow, and you could see the difference. The lights
 
 *This is better,* you thought. *This is what Christmas magic should be. Not perfect, but real. Not flawless, but true.*
 
-Lumina trotted forward, their eyes bright with understanding. "The magic feels different," they said. "It feels... complete. Like it's not just magic anymore—it's memory, it's connection, it's the understanding that Christmas is about people, not perfection."
+Cheshire trotted forward, their eyes bright with understanding. "The magic feels different," they said. "It feels... complete. Like it's not just magic anymore—it's memory, it's connection, it's the understanding that Christmas is about people, not perfection."
 
 Kvothe smiled, and it was a real smile, warm and genuine. "I thought I was protecting people by locking the magic away," they said. "But you showed me that the real protection comes from sharing it, from letting it flow freely, from understanding that Christmas magic is about connection, not perfection. Thank you."
 

@@ -22,9 +22,9 @@ Elara's cottage smelled of cinnamon, vanilla, and something else—something tha
 
 "Have a seat," Elara said, gesturing to a chair by the fireplace. "I'll make us some cocoa. It won't be as good as it used to be, but it's still warm."
 
-Lumina settled by the fire, their tail swishing. "Elara knows more about the magic than most," they explained. "They've been studying it for years, trying to understand how it works."
+Cheshire settled by the fire, their tail swishing. "Elara knows more about the magic than most," they explained. "They've been studying it for years, trying to understand how it works."
 
-Elara returned with three mugs of cocoa—one for you, one for themselves, and one tiny one for Lumina, which you found both adorable and slightly concerning. (How did Lumina drink from a mug? You decided not to ask.)
+Elara returned with three mugs of cocoa—one for you, one for themselves, and one tiny one for Cheshire, which you found both adorable and slightly concerning. (How did Cheshire drink from a mug? You decided not to ask.)
 
 "The magic has always been here," Elara said, settling into a chair. "It flows through everything—the snow, the lights, the decorations, even the food. But about three weeks ago, we started noticing it was fading. At first, it was small things. A light that wouldn't stay lit. A decoration that lost its sparkle. But then the Keepsake Keepers started disappearing."
 

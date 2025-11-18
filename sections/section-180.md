@@ -22,7 +22,7 @@ Kvothe stood beside you, their expression warm and genuine. They looked differen
 
 *They're happy,* you realized. *They're truly happy, for the first time in a long time. They're part of something, connected, sharing, understanding.*
 
-Lumina trotted forward, their eyes bright. "This is what it should be," they said. "A celebration of connection, of memory, of emotion. A celebration of what Christmas really means—not perfection, but connection. Not flawless, but true."
+Cheshire trotted forward, their eyes bright. "This is what it should be," they said. "A celebration of connection, of memory, of emotion. A celebration of what Christmas really means—not perfection, but connection. Not flawless, but true."
 
 The Keepsake Keeper pulsed warmly in your hands. "The magic has been restored," it said. "Transformed, strengthened, built on truth, not on the illusion of perfection. And the people are celebrating, connecting, sharing. This is good. This is what it should be."
 

@@ -18,7 +18,7 @@ But as you walked deeper into the forest, you began to realize something was wro
 
 *This doesn't feel right,* you thought, but you weren't sure.
 
-Lumina, who had been following you, looked concerned. "Are you sure this is the right way?" they asked. "The trail seems... off. Like it's leading us away from the vault, not toward it."
+Cheshire, who had been following you, looked concerned. "Are you sure this is the right way?" they asked. "The trail seems... off. Like it's leading us away from the vault, not toward it."
 
 *What if they're right?* you wondered. *What if I'm going the wrong way?*
 

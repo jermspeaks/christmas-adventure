@@ -20,7 +20,7 @@ You watched as people helped each other, as they shared memories, as they connec
 
 *The magic is flourishing,* you realized. *It's flourishing because it's built on connection, on memory, on emotion. It's stronger, more powerful, because it's shared, because it's connected, because it's understood.*
 
-Lumina trotted forward, their eyes bright. "The community is flourishing," they said. "People are connecting, they're sharing, they're understanding. The magic is flourishing too, because it's built on connection, on memory, on emotion. It's stronger, more powerful, because it's shared, because it's connected, because it's understood."
+Cheshire trotted forward, their eyes bright. "The community is flourishing," they said. "People are connecting, they're sharing, they're understanding. The magic is flourishing too, because it's built on connection, on memory, on emotion. It's stronger, more powerful, because it's shared, because it's connected, because it's understood."
 
 The Keepsake Keeper pulsed warmly. "You've built a community," it said. "A community connected, sharing, learning together. A community that understands that the magic isn't about control—it's about connection, about memory, about emotion. And the magic is flourishing. It's stronger, more powerful, because it's built on connection, on memory, on emotion."
 

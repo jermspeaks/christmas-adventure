@@ -8,7 +8,7 @@ choices: []
 
 You refused to help. "This isn't my problem," you said. "I didn't ask for this. I don't want to be involved."
 
-Lumina's expression fell, and you saw disappointment in their eyes. "I understand," they said quietly. "But the magic will fade. Christmas will disappear. Not just here, but everywhere. And there's no one else who can help."
+Cheshire's expression fell, and you saw disappointment in their eyes. "I understand," they said quietly. "But the magic will fade. Christmas will disappear. Not just here, but everywhere. And there's no one else who can help."
 
 *That's not my problem,* you thought, turning away.
 

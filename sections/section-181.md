@@ -16,7 +16,7 @@ As the celebration continued, you found a quiet moment to reflect. You thought a
 
 *This has been quite a journey,* you thought. *I've learned so much. About magic, about connection, about what Christmas really means. About myself, about others, about the world.*
 
-You thought about Kvothe, about their transformation, about how they'd gone from locking magic away to helping it flow. You thought about Lumina, about their wisdom, about their connection to the natural world. You thought about the Keepsake Keeper, about its guidance, about its understanding.
+You thought about Kvothe, about their transformation, about how they'd gone from locking magic away to helping it flow. You thought about Cheshire, about their wisdom, about their connection to the natural world. You thought about the Keepsake Keeper, about its guidance, about its understanding.
 
 *I've learned that Christmas isn't about perfection,* you realized. *It's about connection, about trying, about finding joy even when things aren't perfect. It's about memory, about emotion, about understanding that we're not alone.*
 
@@ -24,7 +24,7 @@ Kvothe approached, their expression thoughtful. "I've been thinking," they said.
 
 *They're reflecting too,* you thought. *They're thinking about their journey, about their transformation, about who they are now.*
 
-Lumina trotted forward, their eyes bright. "We've all learned something," they said. "We've all grown, all changed, all become something more. We've learned that Christmas isn't about perfection—it's about connection, about trying, about finding joy even when things aren't perfect."
+Cheshire trotted forward, their eyes bright. "We've all learned something," they said. "We've all grown, all changed, all become something more. We've learned that Christmas isn't about perfection—it's about connection, about trying, about finding joy even when things aren't perfect."
 
 The Keepsake Keeper pulsed warmly. "The journey has been long," it said. "But it's been worth it. We've learned, we've grown, we've become something more. We've learned that magic isn't about control—it's about connection, about memory, about emotion. We've learned that Christmas isn't about perfection—it's about connection, about trying, about finding joy even when things aren't perfect."
 

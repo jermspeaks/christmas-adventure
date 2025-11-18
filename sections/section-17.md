@@ -24,7 +24,7 @@ You paused, listening more carefully. The whispers were hard to make out, but yo
 
 *Turn back?* you thought. *That's not helpful.*
 
-Lumina stopped beside you, their ears twitching as they tried to hear the whispers. "They're warning us," they said quietly. "The trees remember what the forest used to be. They know what's happening, and they're trying to help."
+Cheshire stopped beside you, their ears twitching as they tried to hear the whispers. "They're warning us," they said quietly. "The trees remember what the forest used to be. They know what's happening, and they're trying to help."
 
 You stepped closer to one of the trees—an ancient oak with bark that looked like it had seen centuries pass. You placed your hand against its trunk, and immediately, you felt something. A faint pulse, like a heartbeat, but so weak it was barely there.
 
@@ -36,7 +36,7 @@ The whispers grew slightly louder, and you could make out more words: "...the pa
 
 The Keepsake Keeper's light brightened slightly. "They're telling us the way," it said. "Follow the light. Trust me. The vault is close, but there's something guarding it. Something that doesn't want the magic restored."
 
-You looked at Lumina, who looked back at you with an expression that was equal parts determination and concern. "Well," you said, "at least we know we're on the right track."
+You looked at Cheshire, who looked back at you with an expression that was equal parts determination and concern. "Well," you said, "at least we know we're on the right track."
 
 *And that there's a guardian waiting for us,* you added silently. *Which is definitely not concerning at all.*
 

@@ -24,7 +24,7 @@ Kvothe approached, their expression concerned. "I see the problems too," they sa
 
 *They see it too,* you thought. *They understand that we need to address the problems, but we also need to celebrate, to find balance.*
 
-Lumina trotted forward, their eyes bright. "There are always challenges," they said. "Always problems, always things that need to be addressed. But that doesn't mean we can't celebrate. It means we need to find balance—to celebrate what we've accomplished, but also to address what still needs to be done."
+Cheshire trotted forward, their eyes bright. "There are always challenges," they said. "Always problems, always things that need to be addressed. But that doesn't mean we can't celebrate. It means we need to find balance—to celebrate what we've accomplished, but also to address what still needs to be done."
 
 The Keepsake Keeper pulsed thoughtfully. "The magic has been restored," it said. "Transformed, strengthened, built on truth. But the world is still adjusting, still learning, still finding its way. There are still challenges, still problems, still things that need to be addressed. But that's okay. That's part of the journey. That's part of growth."
 

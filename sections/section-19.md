@@ -30,9 +30,9 @@ The guardian stepped closer, and you felt the emptiness intensify. It was like s
 
 *Oh,* you thought. *So this is a "Christmas is too commercial and fake" situation. That's... actually kind of sad.*
 
-Lumina, still at the edge of the clearing, called out, "You're wrong! Christmas isn't about the gifts or the commercialism. It's about connection, about joy, about coming together. The magic isn't a lie—it's real, and it matters!"
+Cheshire, still at the edge of the clearing, called out, "You're wrong! Christmas isn't about the gifts or the commercialism. It's about connection, about joy, about coming together. The magic isn't a lie—it's real, and it matters!"
 
-The guardian turned toward Lumina, and you saw their expression shift—just for a moment, there was something there. Not warmth, exactly, but... recognition? "You don't understand," they said, their voice softer now, almost sad. "I've seen what happens when the magic fades. I've seen the disappointment, the loneliness. It's better this way. Better to have no magic than to have magic that fails."
+The guardian turned toward Cheshire, and you saw their expression shift—just for a moment, there was something there. Not warmth, exactly, but... recognition? "You don't understand," they said, their voice softer now, almost sad. "I've seen what happens when the magic fades. I've seen the disappointment, the loneliness. It's better this way. Better to have no magic than to have magic that fails."
 
 *They're protecting people from disappointment,* you realized. *They think they're helping. But they're wrong.*
 

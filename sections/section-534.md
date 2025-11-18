@@ -18,7 +18,7 @@ But as you continued learning, you began to realize you might be learning too mu
 
 *Am I learning too much?* you wondered. *Am I spending too much time?*
 
-Lumina watched you, their expression concerned. "You've learned a lot," they said. "Maybe enough. Maybe it's time to act, not just learn."
+Cheshire watched you, their expression concerned. "You've learned a lot," they said. "Maybe enough. Maybe it's time to act, not just learn."
 
 *Maybe they're right,* you thought. *Maybe I've learned enough.*
 

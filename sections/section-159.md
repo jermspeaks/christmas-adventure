@@ -20,7 +20,7 @@ Kvothe's expression softened, and you saw relief in their eyes. "You'd do that?"
 
 "You locked the magic away because you were trying to protect people," you said. "You made a mistake, but your heart was in the right place. And now you're trying to fix it, to do better. That's what matters. Not the past, but what you do now."
 
-Lumina trotted forward, their antlers catching the light. "We're all learning," they said. "We're all trying to figure out how to do this right. The important thing is that we're trying together, not alone."
+Cheshire trotted forward, their antlers catching the light. "We're all learning," they said. "We're all trying to figure out how to do this right. The important thing is that we're trying together, not alone."
 
 The Keepsake Keeper pulsed warmly, and you could feel its approval. "Connection," it said. "That's what this is about. Not doing things alone, but doing them together. Not hiding from mistakes, but learning from them. Not protecting people from disappointment, but helping them find strength."
 

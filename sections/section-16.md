@@ -6,7 +6,7 @@ choices:
     target: section-17.md
   - text: "Learn more about the forest's dangers"
     target: section-18.md
-  - text: "Set off immediately with Lumina"
+  - text: "Set off immediately with Cheshire"
     target: section-19.md
 ---
 
@@ -20,9 +20,9 @@ Elara's eyes lit up. "Oh! Yes, actually. I have just the thing." They disappeare
 
 *Star cookies that provide warmth and light?* you thought. *This world is amazing.*
 
-They also handed you a small lantern that, when you lit it, glowed with a warm, golden light. "This will help guide you through the forest," they said. "It's not as bright as it used to be, but it should be enough. And take this." They pressed a small, silver bell into your hand. "Ring it if you get lost. The sound will help Lumina find you, even in the darkest parts of the forest."
+They also handed you a small lantern that, when you lit it, glowed with a warm, golden light. "This will help guide you through the forest," they said. "It's not as bright as it used to be, but it should be enough. And take this." They pressed a small, silver bell into your hand. "Ring it if you get lost. The sound will help Cheshire find you, even in the darkest parts of the forest."
 
-Lumina looked pleased. "Good thinking," they said. "The forest can be disorienting, especially now that the magic is so thin. Having a way to find each other is important."
+Cheshire looked pleased. "Good thinking," they said. "The forest can be disorienting, especially now that the magic is so thin. Having a way to find each other is important."
 
 You packed the supplies carefully—the star cookies in a small pouch, the lantern hanging from your belt, the bell tucked safely in your pocket. The Keepsake Keeper ornament you held in your hand, its light still pulsing gently.
 

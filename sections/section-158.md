@@ -18,7 +18,7 @@ As Kvothe processed their memories, one at a time, you could see them beginning 
 
 *They're getting it,* you thought. *They're understanding who they are, what they want to be.*
 
-Lumina trotted forward, their eyes bright. "You were protecting people from the wrong thing," they said. "You were protecting them from disappointment, but you ended up protecting them from joy, too. That's not protection—that's fear."
+Cheshire trotted forward, their eyes bright. "You were protecting people from the wrong thing," they said. "You were protecting them from disappointment, but you ended up protecting them from joy, too. That's not protection—that's fear."
 
 Kvothe nodded slowly. "I was afraid," they admitted. "Afraid of seeing people disappointed, afraid of watching the magic fail. But you showed me that failure isn't the end. That disappointment isn't the worst thing. The worst thing is not trying at all."
 

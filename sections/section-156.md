@@ -18,7 +18,7 @@ You found Kvothe sitting at the edge of the clearing, their back to the vault, s
 
 You approached slowly, and Kvothe looked up at you, their eyes filled with a mixture of gratitude and confusion. "I don't know what to do," they said quietly. "I've been the guardian for so long. I knew my purpose, my role. But now... now I'm just me. And I don't know who that is."
 
-Lumina trotted forward and settled beside Kvothe, their presence calming. "You're still you," Lumina said gently. "You're just... more you than you were before. The shadows were hiding who you really are, not replacing you."
+Cheshire trotted forward and settled beside Kvothe, their presence calming. "You're still you," Cheshire said gently. "You're just... more you than you were before. The shadows were hiding who you really are, not replacing you."
 
 Kvothe looked at their hands, turning them over, studying them. "I remember things," they said. "Memories I'd forgotten. My family. My childhood. The way I used to feel about Christmas, before I became the guardian. But they feel... distant. Like they belong to someone else."
 

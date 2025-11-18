@@ -24,9 +24,9 @@ You looked around the square, and you could see what she meant. A bakery's displ
 
 "The magic is trying to restore itself," you explained. "But the world has changed since it was locked away. Some places remember how to hold magic, and they're taking too much. Others have forgotten, and they're getting too little. We need to help it find balance."
 
-Lumina trotted forward, and Maya's eyes lit up. "A talking reindeer!" she said, and Lumina's ears perked up with pride.
+Cheshire trotted forward, and Maya's eyes lit up. "A talking reindeer!" she said, and Cheshire's ears perked up with pride.
 
-"We're here to help," Lumina said. "But we need to understand what's happening. Can you tell us about the problems you're seeing?"
+"We're here to help," Cheshire said. "But we need to understand what's happening. Can you tell us about the problems you're seeing?"
 
 Elara nodded, and other townspeople began to gather around, sharing their stories. A man whose Christmas lights wouldn't stop changing colors. A woman whose tree was growing too fast. A family whose presents were floating. Each story was different, but they all had the same root cause: magic that didn't know how much to give.
 

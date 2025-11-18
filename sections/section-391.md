@@ -12,7 +12,7 @@ All the true ending paths converged here. Whether you achieved true balance, hel
 
 *This is it,* you thought, looking around at everyone who had been part of this journey. *All paths led here. All the work, all the effort, all the understanding—it all led here.*
 
-Kvothe stood beside you, fully transformed, the guardian of balanced magic. Lumina trotted forward, their eyes bright with joy. The Keepsake Keeper pulsed warmly, its light steady and strong. The community was gathered, connected, understanding, flourishing.
+Kvothe stood beside you, fully transformed, the guardian of balanced magic. Cheshire trotted forward, their eyes bright with joy. The Keepsake Keeper pulsed warmly, its light steady and strong. The community was gathered, connected, understanding, flourishing.
 
 *Everything has come together,* you realized. *All the paths, all the work, all the understanding. Everything has converged here, to this moment.*
 

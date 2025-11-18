@@ -16,7 +16,7 @@ You decided to explore cautiously, taking time to observe, to understand, to lea
 
 *I need to understand before I act,* you thought. *I need to see what's happening.*
 
-Lumina trotted beside you, their expression approving. "Good thinking," they said. "Rushing in without understanding rarely ends well. Take your time. Observe. Learn. Then act."
+Cheshire trotted beside you, their expression approving. "Good thinking," they said. "Rushing in without understanding rarely ends well. Take your time. Observe. Learn. Then act."
 
 You watched the village, and you began to notice patterns. The lights flickered in a specific rhythm. The villagers moved in certain ways. The magic seemed to be flowing—or not flowing—in particular directions.
 

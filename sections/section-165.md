@@ -24,7 +24,7 @@ The magic pulsed, and you could feel its uncertainty, its resistance. It wanted 
 
 *It's fighting itself,* you realized. *It wants to stay, but it knows it needs to go. It wants to be strong, but it knows it needs to share.*
 
-Lumina trotted forward, their presence calming. "The magic is scared," they said. "It's been locked away for so long, and now it's free, and it's trying to hold on, to make sure it doesn't get locked away again. But holding on too tightly is what's making it dangerous."
+Cheshire trotted forward, their presence calming. "The magic is scared," they said. "It's been locked away for so long, and now it's free, and it's trying to hold on, to make sure it doesn't get locked away again. But holding on too tightly is what's making it dangerous."
 
 The Keepsake Keeper pulsed thoughtfully. "The magic needs to understand that sharing doesn't mean losing," it said. "That flowing doesn't mean fading. That balance doesn't mean weakness. It needs to learn that the strongest magic is the magic that's shared, that's connected, that's balanced."
 

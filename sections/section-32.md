@@ -24,7 +24,7 @@ But then you noticed something. The Keepsake Keeper's light, which had been so b
 
 As if in answer, you heard a sound from the direction of Starlight Hollow—not the joyful sounds of celebration you'd expected, but something else. Shouts. Confusion. The sound of things happening that shouldn't be happening.
 
-Lumina's ears perked up, and they looked toward the town with concern. "Something's wrong," they said. "The magic is back, but... it's doing things. Strange things. I can feel it from here."
+Cheshire's ears perked up, and they looked toward the town with concern. "Something's wrong," they said. "The magic is back, but... it's doing things. Strange things. I can feel it from here."
 
 Kvothe, who had been watching the magic flow with a look of wonder, suddenly frowned. "The magic is too strong in some places," they said. "And too weak in others. It's like... it's like it doesn't know where to go, or how much to give. The world has changed since the magic was locked away. It's not the same place it was before."
 

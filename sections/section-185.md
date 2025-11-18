@@ -22,7 +22,7 @@ You watched as the community flourished, as they celebrated, as they helped each
 
 Kvothe stood beside you, their expression warm and genuine. "This is what Christmas magic really is," they said. "Not perfection, but connection. Not flawless, but true. Not power, but sharing. Not control, but understanding. This is what we've been working toward, what we've been building, what we've been creating."
 
-Lumina trotted forward, their eyes bright. "The magic is flourishing," they said. "The community is flourishing. Everything is flourishing, because it's built on connection, on memory, on emotion. Because it's shared, because it's connected, because it's understood."
+Cheshire trotted forward, their eyes bright. "The magic is flourishing," they said. "The community is flourishing. Everything is flourishing, because it's built on connection, on memory, on emotion. Because it's shared, because it's connected, because it's understood."
 
 The Keepsake Keeper pulsed warmly. "The magic has been restored," it said. "Transformed, strengthened, built on truth. And the community is flourishing, finding balance, working together. This is true Christmas magic. Not perfection, but connection. Not flawless, but true."
 

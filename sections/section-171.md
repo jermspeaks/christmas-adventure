@@ -20,7 +20,7 @@ The magic began to feel natural, like it was part of you, like it was an extensi
 
 *This is what it should be,* you thought. *This is what Christmas magic should be. Not perfect, but real. Not controlled, but shared. Not power, but connection.*
 
-Lumina trotted forward, their eyes bright. "You're mastering it," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
+Cheshire trotted forward, their eyes bright. "You're mastering it," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
 
 The Keepsake Keeper pulsed warmly. "You're becoming a bridge," it said. "A bridge between the old magic and the new. You understand the old way, but you're learning the new way. You can help others understand, help them learn, help them connect. You can help the magic spread, help it grow, help it become what it's meant to be."
 

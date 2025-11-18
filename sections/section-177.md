@@ -20,7 +20,7 @@ You watched as Elara helped others, as she shared what she'd learned, as she gui
 
 *This is how it should be,* you thought. *Not one person controlling everything, but everyone learning, everyone sharing, everyone connecting. Not power, but connection. Not control, but understanding.*
 
-Lumina trotted forward, their eyes bright. "The understanding is spreading," they said. "People are learning, they're connecting, they're sharing. They're understanding that the magic isn't about control—it's about connection, about memory, about emotion."
+Cheshire trotted forward, their eyes bright. "The understanding is spreading," they said. "People are learning, they're connecting, they're sharing. They're understanding that the magic isn't about control—it's about connection, about memory, about emotion."
 
 The Keepsake Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion. And they're learning. They're understanding. They're connecting."
 
