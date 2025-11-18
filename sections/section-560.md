@@ -7,7 +7,7 @@ choices:
   - text: "Continue trying to fix problems as they appear"
     target: section-561.md
   - text: "Ask the townspeople to help you understand the pattern"
-    target: section-152.md
+    target: section-780.md
 ---
 
 # Attempting Quick Fixes

@@ -3,9 +3,9 @@ id: section-152
 title: "The Root of the Problem"
 choices:
   - text: "Try to redistribute the magic yourself using the Keepsake Keeper"
-    target: section-153.md
+    target: section-750.md
   - text: "Ask Kvothe to help balance the magic flow"
-    target: section-153.md
+    target: section-760.md
   - text: "Work with the townspeople to create a solution together"
     target: section-153.md
 ---

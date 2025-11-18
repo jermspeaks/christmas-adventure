@@ -5,7 +5,7 @@ choices:
   - text: "Investigate the places where magic is gathering"
     target: section-164.md
   - text: "Investigate the places where magic is avoiding"
-    target: section-164.md
+    target: section-770.md
   - text: "Try to force magic to go to the empty places"
     target: section-217.md
 ---
