@@ -14,7 +14,7 @@ But forcing the magic only made things worse. It became corrupted, unstable, dan
 
 *What have I done?* you thought. *I forced it, and I broke it.*
 
-The Memory Keeper's light dimmed. "You forced the magic," it said, its voice sad. "You tried to control where it flowed, but magic must flow naturally. It cannot be forced. You forced it, and it became corrupted, unstable, dangerous. The magic flow is now permanently broken."
+The Keepsake Keeper's light dimmed. "You forced the magic," it said, its voice sad. "You tried to control where it flowed, but magic must flow naturally. It cannot be forced. You forced it, and it became corrupted, unstable, dangerous. The magic flow is now permanently broken."
 
 *I forced it,* you realized. *I broke the magic flow.*
 

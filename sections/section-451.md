@@ -14,7 +14,7 @@ You thought you were following the trail correctly, confident that you knew wher
 
 *I'm on the right track,* you thought. *This is definitely the way.*
 
-But as you walked deeper into the forest, you began to realize something was wrong. The trail seemed to be leading you in circles. The Memory Keeper's light was getting dimmer, not brighter. The path felt wrong, like you were going the opposite direction from where you needed to be.
+But as you walked deeper into the forest, you began to realize something was wrong. The trail seemed to be leading you in circles. The Keepsake Keeper's light was getting dimmer, not brighter. The path felt wrong, like you were going the opposite direction from where you needed to be.
 
 *This doesn't feel right,* you thought, but you weren't sure.
 

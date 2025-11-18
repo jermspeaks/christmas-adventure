@@ -14,7 +14,7 @@ But forgetting to celebrate only made the magic lose its joy, becoming work, bur
 
 *The magic is losing joy,* you thought. *It's becoming work.*
 
-The Memory Keeper's light dimmed. "You forgot to celebrate," it said, its voice sad. "But magic requires joy, celebration, appreciation. You forgot, and the magic lost its joy, becoming work, burden, obligation."
+The Keepsake Keeper's light dimmed. "You forgot to celebrate," it said, its voice sad. "But magic requires joy, celebration, appreciation. You forgot, and the magic lost its joy, becoming work, burden, obligation."
 
 *I forgot,* you realized. *I lost the magic.*
 

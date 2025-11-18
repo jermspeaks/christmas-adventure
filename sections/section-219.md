@@ -14,7 +14,7 @@ But trying to control all the magic only made it rebel. It rejected you complete
 
 *What have I done?* you thought. *I tried to control it all, and I lost everything.*
 
-The Memory Keeper's light died completely. "You tried to control all the magic," it said, its voice fading. "But magic cannot be controlled. It must be shared, connected, balanced. You tried to control it all, and it rebelled, rejecting you, rejecting the world. Magic is lost forever."
+The Keepsake Keeper's light died completely. "You tried to control all the magic," it said, its voice fading. "But magic cannot be controlled. It must be shared, connected, balanced. You tried to control it all, and it rebelled, rejecting you, rejecting the world. Magic is lost forever."
 
 *I tried to control it all,* you realized. *I lost magic forever.*
 

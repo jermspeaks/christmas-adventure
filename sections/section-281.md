@@ -6,7 +6,7 @@ choices: []
 
 # Shallow Understanding
 
-You accepted that you'd mastered the magic, thinking everything was complete. You celebrated, thinking you were in control. But the Memory Keeper was right—you'd only learned the surface, not truly mastered it.
+You accepted that you'd mastered the magic, thinking everything was complete. You celebrated, thinking you were in control. But the Keepsake Keeper was right—you'd only learned the surface, not truly mastered it.
 
 As time passed, your shallow understanding began to fail. The magic stopped responding as well. You couldn't use it as effectively. The connection was weak, shallow, meaningless.
 

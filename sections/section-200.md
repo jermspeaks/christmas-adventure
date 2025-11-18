@@ -6,7 +6,7 @@ choices: []
 
 # Magic Backlash
 
-You decided to use the Memory Keeper to force the magic to redistribute, to make it balance itself. You held it up, focusing all your will, all your power, trying to control the magic, to make it do what you wanted.
+You decided to use the Keepsake Keeper to force the magic to redistribute, to make it balance itself. You held it up, focusing all your will, all your power, trying to control the magic, to make it do what you wanted.
 
 *I can do this,* you thought. *I can force the magic to balance. I can make it work the way I want it to.*
 
@@ -14,7 +14,7 @@ But the magic resisted. It didn't want to be forced, didn't want to be controlle
 
 *No,* you thought. *I can't let it resist. I have to make it work.*
 
-You pushed with everything you had, forcing the magic, trying to control it. And that's when it happened. The magic rebelled, exploding outward in a wave of chaotic energy. The Memory Keeper shattered in your hands, its light dying. The magic rushed out, uncontrolled, wild, destroying everything in its path.
+You pushed with everything you had, forcing the magic, trying to control it. And that's when it happened. The magic rebelled, exploding outward in a wave of chaotic energy. The Keepsake Keeper shattered in your hands, its light dying. The magic rushed out, uncontrolled, wild, destroying everything in its path.
 
 *Oh no,* you thought. *What have I done?*
 

@@ -22,7 +22,7 @@ The magic began to feel natural, like it was part of you, like it was an extensi
 
 Lumina trotted forward, their eyes bright. "You're mastering it," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
 
-The Memory Keeper pulsed warmly. "You're becoming a bridge," it said. "A bridge between the old magic and the new. You understand the old way, but you're learning the new way. You can help others understand, help them learn, help them connect. You can help the magic spread, help it grow, help it become what it's meant to be."
+The Keepsake Keeper pulsed warmly. "You're becoming a bridge," it said. "A bridge between the old magic and the new. You understand the old way, but you're learning the new way. You can help others understand, help them learn, help them connect. You can help the magic spread, help it grow, help it become what it's meant to be."
 
 *A bridge,* you thought. *Between the old and the new. That's what I can be. Someone who understands both, who can help others understand, who can help the magic spread, grow, become what it's meant to be.*
 

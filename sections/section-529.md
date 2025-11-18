@@ -14,7 +14,7 @@ You continued investigating the pattern, and you began to decode it. The rhythm,
 
 *I'm understanding it,* you thought. *The pattern is revealing its secrets.*
 
-The Memory Keeper's light brightened, and you heard its voice, excited. "You're decoding it!" it said. "The pattern. The message. You're understanding what I've been trying to tell you!"
+The Keepsake Keeper's light brightened, and you heard its voice, excited. "You're decoding it!" it said. "The pattern. The message. You're understanding what I've been trying to tell you!"
 
 *So there is a message,* you realized. *And I'm understanding it.*
 

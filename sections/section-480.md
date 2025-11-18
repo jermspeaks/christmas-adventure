@@ -14,7 +14,7 @@ But as the magic flowed, you realized something was wrong. It wasn't flowing com
 
 *It's only partially restored,* you realized. *Some of the magic is still locked away.*
 
-The Memory Keeper's light flickered, and you heard its voice, concerned. "The restoration is partial," it said. "You rushed it, and some of the magic remains locked away. The world will have magic again, but not all of it. Not completely."
+The Keepsake Keeper's light flickered, and you heard its voice, concerned. "The restoration is partial," it said. "You rushed it, and some of the magic remains locked away. The world will have magic again, but not all of it. Not completely."
 
 *I should have taken my time,* you thought. *I should have done it properly.*
 

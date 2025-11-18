@@ -6,7 +6,7 @@ choices: []
 
 # Problems Emerge
 
-You accepted that the celebration was perfect, thinking everything was resolved. You celebrated, thinking the problems were solved. But the Memory Keeper was right—the problems were only being ignored, not truly addressed.
+You accepted that the celebration was perfect, thinking everything was resolved. You celebrated, thinking the problems were solved. But the Keepsake Keeper was right—the problems were only being ignored, not truly addressed.
 
 When the celebration ended, the problems emerged. They were worse than before, having grown in the shadows, having been ignored. Everything fell apart, and the celebration ended in disaster.
 

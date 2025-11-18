@@ -14,7 +14,7 @@ But ignoring the danger only made things worse. The magic buildup grew, becoming
 
 *I should have dealt with it,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed. "You ignored the danger," it said, its voice sad. "You thought it wasn't that dangerous, but magic buildup is always dangerous. You ignored it, and it exploded, destroying everything."
+The Keepsake Keeper's light dimmed. "You ignored the danger," it said, its voice sad. "You thought it wasn't that dangerous, but magic buildup is always dangerous. You ignored it, and it exploded, destroying everything."
 
 *I ignored it,* you realized. *I destroyed everything.*
 

@@ -18,7 +18,7 @@ But as time passed, you began to notice something. The magic wasn't really balan
 
 *Something's not right,* you thought, but you weren't sure what. *The magic seems... quiet. Too quiet.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "The magic is suppressed," it said, its voice worried. "It's not balanced—it's being held back. This is not a solution. This is a delay. The magic will eventually break free, and when it does, it will be worse than before."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "The magic is suppressed," it said, its voice worried. "It's not balanced—it's being held back. This is not a solution. This is a delay. The magic will eventually break free, and when it does, it will be worse than before."
 
 *Oh no,* you realized. *I didn't fix it. I just suppressed it. And when it breaks free, it will be worse.*
 

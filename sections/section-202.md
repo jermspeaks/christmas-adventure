@@ -18,7 +18,7 @@ You tried harder, rushing faster, trying to fix more things at once. But it only
 
 *What have I done?* you thought. *I rushed, and I broke everything.*
 
-The Memory Keeper's light flickered, and you could feel its disappointment. "You rushed," it said, its voice sad. "You tried to fix everything at once, without understanding, without learning, without guiding. But magic cannot be rushed. It must be understood, learned, guided. You rushed, and you broke it. The magic is now permanently chaotic, unstable, unpredictable. It will never find balance, never stabilize, never work properly."
+The Keepsake Keeper's light flickered, and you could feel its disappointment. "You rushed," it said, its voice sad. "You tried to fix everything at once, without understanding, without learning, without guiding. But magic cannot be rushed. It must be understood, learned, guided. You rushed, and you broke it. The magic is now permanently chaotic, unstable, unpredictable. It will never find balance, never stabilize, never work properly."
 
 *I rushed,* you realized. *I tried to fix everything at once, and I broke it. I created permanent chaos.*
 

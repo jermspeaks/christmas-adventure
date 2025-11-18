@@ -18,7 +18,7 @@ But as time passed, you began to notice something. They didn't really understand
 
 *Something's not right,* you thought, but you weren't sure what. *The understanding seems... fragile. Like it could break at any moment.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "The understanding is shallow," it said, its voice worried. "They've only learned the surface, not truly connected. This is not true understanding. This is fragile, ready to crumble. When it does, everything will fall apart."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "The understanding is shallow," it said, its voice worried. "They've only learned the surface, not truly connected. This is not true understanding. This is fragile, ready to crumble. When it does, everything will fall apart."
 
 *Oh no,* you realized. *They don't truly understand. They've only learned the surface. And when it crumbles, everything will fall apart.*
 

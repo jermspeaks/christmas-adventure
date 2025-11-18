@@ -14,7 +14,7 @@ But using magic to control others only made them resist, rebel, reject you. The 
 
 *They're resisting,* you thought. *The magic is rejecting me.*
 
-The Memory Keeper's light died. "You tried to control others," it said, its voice fading. "But magic is about connection, sharing, togetherness. It cannot be used to control. You tried, and everyone rejected you, the magic rejected you. You lost everything."
+The Keepsake Keeper's light died. "You tried to control others," it said, its voice fading. "But magic is about connection, sharing, togetherness. It cannot be used to control. You tried, and everyone rejected you, the magic rejected you. You lost everything."
 
 *I tried to control them,* you realized. *I lost everything.*
 

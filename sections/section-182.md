@@ -26,7 +26,7 @@ Kvothe approached, their expression concerned. "I see the problems too," they sa
 
 Lumina trotted forward, their eyes bright. "There are always challenges," they said. "Always problems, always things that need to be addressed. But that doesn't mean we can't celebrate. It means we need to find balance—to celebrate what we've accomplished, but also to address what still needs to be done."
 
-The Memory Keeper pulsed thoughtfully. "The magic has been restored," it said. "Transformed, strengthened, built on truth. But the world is still adjusting, still learning, still finding its way. There are still challenges, still problems, still things that need to be addressed. But that's okay. That's part of the journey. That's part of growth."
+The Keepsake Keeper pulsed thoughtfully. "The magic has been restored," it said. "Transformed, strengthened, built on truth. But the world is still adjusting, still learning, still finding its way. There are still challenges, still problems, still things that need to be addressed. But that's okay. That's part of the journey. That's part of growth."
 
 *So we need to find balance,* you thought. *To celebrate what we've accomplished, but also to address what still needs to be done. To find joy, but also to help, to support, to address the challenges.*
 

@@ -24,7 +24,7 @@ Kvothe stood beside you, their expression warm and genuine. "This is what Christ
 
 Lumina trotted forward, their eyes bright. "The magic is flourishing," they said. "The community is flourishing. Everything is flourishing, because it's built on connection, on memory, on emotion. Because it's shared, because it's connected, because it's understood."
 
-The Memory Keeper pulsed warmly. "The magic has been restored," it said. "Transformed, strengthened, built on truth. And the community is flourishing, finding balance, working together. This is true Christmas magic. Not perfection, but connection. Not flawless, but true."
+The Keepsake Keeper pulsed warmly. "The magic has been restored," it said. "Transformed, strengthened, built on truth. And the community is flourishing, finding balance, working together. This is true Christmas magic. Not perfection, but connection. Not flawless, but true."
 
 *This is true Christmas magic,* you thought. *Not perfection, but connection. Not flawless, but true. Not power, but sharing. Not control, but understanding.*
 

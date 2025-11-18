@@ -14,7 +14,7 @@ But trying to be perfect only made you never help anyone. You kept waiting, kept
 
 *I'm not perfect yet,* you thought. *I can't help.*
 
-The Memory Keeper's light dimmed. "You tried to be perfect," it said, its voice sad. "But perfection is impossible. Meanwhile, people needed help, and you weren't there. You waited, and you never helped anyone."
+The Keepsake Keeper's light dimmed. "You tried to be perfect," it said, its voice sad. "But perfection is impossible. Meanwhile, people needed help, and you weren't there. You waited, and you never helped anyone."
 
 *I tried to be perfect,* you realized. *I never helped anyone.*
 

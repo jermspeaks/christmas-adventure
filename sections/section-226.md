@@ -14,7 +14,7 @@ But the new magic rejected the old ways completely. It refused to respond to con
 
 *It won't respond,* you thought. *The old ways don't work anymore.*
 
-The Memory Keeper's light dimmed. "You tried to force the old ways," it said, its voice sad. "But the magic has changed. It requires connection, memory, emotion. It cannot be controlled. You tried to force it, and it rejected you, locking you out permanently."
+The Keepsake Keeper's light dimmed. "You tried to force the old ways," it said, its voice sad. "But the magic has changed. It requires connection, memory, emotion. It cannot be controlled. You tried to force it, and it rejected you, locking you out permanently."
 
 *I tried to force the old ways,* you realized. *I lost the magic forever.*
 

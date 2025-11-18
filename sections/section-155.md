@@ -22,7 +22,7 @@ Kvothe stood beside you, their expression thoughtful. "The magic is learning," t
 
 Elara approached, Maya holding her hand. "Thank you," she said. "The magic feels right now. Not too much, not too little. Just... right."
 
-The Memory Keeper pulsed warmly in your hands, and you could feel its satisfaction. "The magic has found balance," it said. "Not perfect balance, but stable balance. The kind that can last, that can grow, that can adapt. This is good."
+The Keepsake Keeper pulsed warmly in your hands, and you could feel its satisfaction. "The magic has found balance," it said. "Not perfect balance, but stable balance. The kind that can last, that can grow, that can adapt. This is good."
 
 *But is it enough?* you wondered. *The magic is balanced here, in Starlight Hollow. But what about the rest of the world? What about the other places where magic is flowing, where it might be causing the same problems?*
 

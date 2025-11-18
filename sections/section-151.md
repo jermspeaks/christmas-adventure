@@ -12,7 +12,7 @@ choices:
 
 # The People of Starlight Hollow
 
-You approached the nearest group of townspeople, and they turned to look at you with a mixture of hope and uncertainty. The Memory Keeper in your hands seemed to pulse a little brighter, and you saw their eyes widen.
+You approached the nearest group of townspeople, and they turned to look at you with a mixture of hope and uncertainty. The Keepsake Keeper in your hands seemed to pulse a little brighter, and you saw their eyes widen.
 
 "You're the one," a woman said, stepping forward. She had silver hair and kind eyes, and she was holding a small child's hand. "You're the one who brought the magic back. We saw the lights, we felt it... but it's not working right, is it?"
 

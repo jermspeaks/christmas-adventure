@@ -12,7 +12,7 @@ You helped everyone go deeper, and the community fully understood. Not just some
 
 *Everyone understands,* you thought, joy flooding through you. *The community is fully flourishing. The magic is fully restored. Everything is perfect.*
 
-The Memory Keeper pulsed brightly. "The community fully understands," it said, its voice filled with joy. "Not just some people, but everyone. The magic is fully restored, fully flourishing through connection. This is true success."
+The Keepsake Keeper pulsed brightly. "The community fully understands," it said, its voice filled with joy. "Not just some people, but everyone. The magic is fully restored, fully flourishing through connection. This is true success."
 
 *Everything is perfect,* you realized. *Everyone understands. This is what we worked for.*
 

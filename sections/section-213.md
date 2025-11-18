@@ -13,7 +13,7 @@ But taking control only made things worse. Kvothe felt dismissed, unheard, contr
 
 *Maybe I shouldn't have taken control,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You took control," it said, its voice sad. "You dismissed Kvothe, made them follow your lead, but partnership requires trust, requires respect, requires working together. You took control, and Kvothe lost trust, the connection broke, the magic faded."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You took control," it said, its voice sad. "You dismissed Kvothe, made them follow your lead, but partnership requires trust, requires respect, requires working together. You took control, and Kvothe lost trust, the connection broke, the magic faded."
 
 *I took control,* you realized. *I broke the trust, and I lost everything.*
 

@@ -18,7 +18,7 @@ But it was too late. Kvothe reverted completely, becoming the guardian of shadow
 
 *I pushed too hard,* you realized. *I tried to make them remember everything at once, and I broke them. I lost them.*
 
-The Memory Keeper's light dimmed, and you could feel its sadness. "You pushed too hard," it said, its voice sad. "You tried to make Kvothe remember everything at once, but transformation takes time. It must be gentle, patient, understanding. You pushed too hard, and Kvothe reverted, becoming the guardian of shadows again, locking the magic away permanently."
+The Keepsake Keeper's light dimmed, and you could feel its sadness. "You pushed too hard," it said, its voice sad. "You tried to make Kvothe remember everything at once, but transformation takes time. It must be gentle, patient, understanding. You pushed too hard, and Kvothe reverted, becoming the guardian of shadows again, locking the magic away permanently."
 
 *I pushed too hard,* you realized. *I lost Kvothe, and I lost the magic.*
 

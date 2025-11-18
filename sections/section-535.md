@@ -14,7 +14,7 @@ You continued decoding to ensure the message was complete, to verify you underst
 
 *I need to be sure,* you thought. *I need to verify everything is complete.*
 
-The Memory Keeper's light pulsed, and you heard its voice, patient. "You've decoded most of it," it said. "Maybe all of it. But if you need to verify, that's okay. Take your time."
+The Keepsake Keeper's light pulsed, and you heard its voice, patient. "You've decoded most of it," it said. "Maybe all of it. But if you need to verify, that's okay. Take your time."
 
 *I do need to verify,* you thought. *I need to be absolutely sure.*
 

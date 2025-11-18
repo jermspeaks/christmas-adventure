@@ -14,7 +14,7 @@ But the old magic was gone, transformed, changed forever. There was no way to ge
 
 *There's no old magic,* you thought. *I have nothing.*
 
-The Memory Keeper's light dimmed. "You gave up on the new magic," it said, its voice sad. "But the old magic is gone, transformed forever. There is no way to get it back. You gave up, and now you have nothing."
+The Keepsake Keeper's light dimmed. "You gave up on the new magic," it said, its voice sad. "But the old magic is gone, transformed forever. There is no way to get it back. You gave up, and now you have nothing."
 
 *I gave up,* you realized. *I have nothing.*
 

@@ -6,7 +6,7 @@ choices: []
 
 # The Explosion
 
-You accepted the suppressed magic as the solution, thinking everything was fixed. You celebrated, thinking the problem was solved. But the Memory Keeper was right—the magic was only suppressed, not balanced.
+You accepted the suppressed magic as the solution, thinking everything was fixed. You celebrated, thinking the problem was solved. But the Keepsake Keeper was right—the magic was only suppressed, not balanced.
 
 Weeks passed, and the suppression began to weaken. The magic started to build up, pressure growing, tension increasing. And then, one day, it exploded.
 

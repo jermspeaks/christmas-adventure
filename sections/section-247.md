@@ -14,7 +14,7 @@ But trying to solve everything alone only made things worse. You became overwhel
 
 *I can't handle it all,* you thought. *Everything is falling apart.*
 
-The Memory Keeper's light dimmed. "You tried to do it alone," it said, its voice sad. "But problems require working together, connection, support. You tried alone, and became overwhelmed, everything fell apart."
+The Keepsake Keeper's light dimmed. "You tried to do it alone," it said, its voice sad. "But problems require working together, connection, support. You tried alone, and became overwhelmed, everything fell apart."
 
 *I tried alone,* you realized. *I destroyed everything.*
 

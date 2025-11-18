@@ -14,7 +14,7 @@ But rushing only made everyone overwhelmed, confused, unable to learn. The teach
 
 *They're all overwhelmed,* you thought. *They can't learn.*
 
-The Memory Keeper's light dimmed. "You rushed," it said, its voice sad. "But teaching takes time, patience, individual attention. You rushed, and everyone became overwhelmed, unable to learn. The teaching was ineffective."
+The Keepsake Keeper's light dimmed. "You rushed," it said, its voice sad. "But teaching takes time, patience, individual attention. You rushed, and everyone became overwhelmed, unable to learn. The teaching was ineffective."
 
 *I rushed,* you realized. *I failed to teach them.*
 

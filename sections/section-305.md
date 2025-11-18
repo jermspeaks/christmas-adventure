@@ -10,7 +10,7 @@ You addressed the underlying issues while celebrating, and the celebration was g
 
 *It's a good celebration,* you thought, joy mixed with realism. *Not perfect, but good. Some issues remain, but that's okay. Good is enough, and we can keep working.*
 
-The Memory Keeper pulsed warmly. "The celebration is good," it said, its voice thoughtful. "Not perfect, but good. Some issues remain unresolved, but that's okay. Good is enough, and you can keep working. The celebration is real, and that's what matters."
+The Keepsake Keeper pulsed warmly. "The celebration is good," it said, its voice thoughtful. "Not perfect, but good. Some issues remain unresolved, but that's okay. Good is enough, and you can keep working. The celebration is real, and that's what matters."
 
 *It's a good celebration,* you realized. *Not perfect, but good. And that's enough.*
 

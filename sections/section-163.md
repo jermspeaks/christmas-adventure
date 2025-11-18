@@ -26,7 +26,7 @@ You then approached one of the avoiding places—a newer town, one that had been
 
 *This is too little,* you thought. *This place needs magic too. It deserves Christmas magic, even if it doesn't have the memories yet.*
 
-The Memory Keeper pulsed in your hands, and you could feel its concern. "The magic is unbalanced," it said. "It's remembering the old world, going to the places it knows, avoiding the places it doesn't. But the world has changed. New places need magic too. Old places don't need all of it."
+The Keepsake Keeper pulsed in your hands, and you could feel its concern. "The magic is unbalanced," it said. "It's remembering the old world, going to the places it knows, avoiding the places it doesn't. But the world has changed. New places need magic too. Old places don't need all of it."
 
 *So we need to help the magic find balance,* you thought. *We need to help it understand that new places deserve magic too, and that old places don't need all of it.*
 

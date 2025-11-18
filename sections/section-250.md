@@ -14,7 +14,7 @@ But ignoring problems only made them worse, hidden beneath the celebration. Even
 
 *The problems exploded,* you thought. *Everything is destroyed.*
 
-The Memory Keeper's light dimmed. "You ignored the problems," it said, its voice sad. "But problems don't disappear when ignored. They grow, hidden, until they explode. You ignored them, and they destroyed everything."
+The Keepsake Keeper's light dimmed. "You ignored the problems," it said, its voice sad. "But problems don't disappear when ignored. They grow, hidden, until they explode. You ignored them, and they destroyed everything."
 
 *I ignored them,* you realized. *I destroyed everything.*
 

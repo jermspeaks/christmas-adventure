@@ -6,7 +6,7 @@ choices: []
 
 # The Crumble
 
-You accepted that everyone understood, thinking everything was complete. You celebrated, thinking the problem was solved. But the Memory Keeper was right—the understanding was only shallow, not truly deep.
+You accepted that everyone understood, thinking everything was complete. You celebrated, thinking the problem was solved. But the Keepsake Keeper was right—the understanding was only shallow, not truly deep.
 
 As time passed, the shallow understanding began to crumble. People started to struggle, to fail, to lose connection. The magic began to fade, becoming weaker, less responsive.
 

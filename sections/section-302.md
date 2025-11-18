@@ -10,7 +10,7 @@ You worked to truly balance the magic flow, and it stabilized. It wasn't perfect
 
 *It's working,* you thought, relief mixed with acceptance. *The magic flow is stable. Not perfectly balanced, but stable. Some areas have changed, but that's okay. Change isn't bad—it's just different.*
 
-The Memory Keeper pulsed warmly. "The magic flow is stable," it said, its voice thoughtful. "Not perfectly balanced, but stable. Some areas have changed permanently, but that's okay. Change isn't bad—it's just different. The magic is flowing, and that's what matters."
+The Keepsake Keeper pulsed warmly. "The magic flow is stable," it said, its voice thoughtful. "Not perfectly balanced, but stable. Some areas have changed permanently, but that's okay. Change isn't bad—it's just different. The magic is flowing, and that's what matters."
 
 *The magic is flowing,* you realized. *Not perfectly, but stably. And that's what matters.*
 

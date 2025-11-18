@@ -14,7 +14,7 @@ But trying to control everything only made everyone resist, rebel, reject you. T
 
 *They're all resisting,* you thought. *The magic is rejecting me.*
 
-The Memory Keeper's light died. "You tried to control everything," it said, its voice fading. "But magic and community require freedom, connection, sharing. You tried to control it all, and everyone rejected you, the magic rejected you. You lost everything."
+The Keepsake Keeper's light died. "You tried to control everything," it said, its voice fading. "But magic and community require freedom, connection, sharing. You tried to control it all, and everyone rejected you, the magic rejected you. You lost everything."
 
 *I tried to control it all,* you realized. *I lost everything.*
 

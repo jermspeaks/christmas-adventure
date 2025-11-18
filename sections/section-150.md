@@ -4,7 +4,7 @@ title: "Chaos in Starlight Hollow"
 choices:
   - text: "Talk to the townspeople to understand what's happening"
     target: section-151.md
-  - text: "Use the Memory Keeper to try to stabilize the magic"
+  - text: "Use the Keepsake Keeper to try to stabilize the magic"
     target: section-151.md
   - text: "Find Kvothe and ask for their help"
     target: section-151.md
@@ -12,7 +12,7 @@ choices:
 
 # Chaos in Starlight Hollow
 
-You made your way toward Starlight Hollow, the Memory Keeper warm in your hands, Lumina trotting at your side. The closer you got to the town, the more obvious the chaos became. Lights flickered wildly—some so bright they hurt to look at, others dimming to almost nothing before flaring back to life. The air itself seemed to shimmer and pulse, and you could feel the magic like a current running through everything, unstable and unpredictable.
+You made your way toward Starlight Hollow, the Keepsake Keeper warm in your hands, Lumina trotting at your side. The closer you got to the town, the more obvious the chaos became. Lights flickered wildly—some so bright they hurt to look at, others dimming to almost nothing before flaring back to life. The air itself seemed to shimmer and pulse, and you could feel the magic like a current running through everything, unstable and unpredictable.
 
 *This is worse than I thought,* you realized. *The magic isn't just back—it's out of control.*
 

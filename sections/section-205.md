@@ -14,7 +14,7 @@ But forcing magic only made things worse. The weak areas couldn't handle the sud
 
 *What have I done?* you thought. *I forced it, and I broke everything.*
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You forced it," it said, its voice sad. "You tried to speed things up by forcing magic, but magic cannot be forced. It must be guided, learned, understood. You forced it, and you broke it. The magic is now permanently imbalanced, with no way to fix it."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You forced it," it said, its voice sad. "You tried to speed things up by forcing magic, but magic cannot be forced. It must be guided, learned, understood. You forced it, and you broke it. The magic is now permanently imbalanced, with no way to fix it."
 
 *I forced it,* you realized. *I tried to make it work faster, and I broke it. I created permanent imbalance.*
 

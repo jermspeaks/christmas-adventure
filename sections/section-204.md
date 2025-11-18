@@ -18,7 +18,7 @@ But it didn't. The magic became permanently unstable, chaotic, dangerous. It wou
 
 *I gave up,* you realized. *I walked away, and I abandoned the magic. I abandoned everyone who needed help.*
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You gave up," it said, its voice sad. "You walked away, abandoned the magic, abandoned everyone who needed help. But magic needs guidance, needs help, needs someone to show it the way. Without that guidance, it became permanently unstable, chaotic, dangerous. It will never find balance, never stabilize, never work properly. And you gave up, walked away, abandoned it."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You gave up," it said, its voice sad. "You walked away, abandoned the magic, abandoned everyone who needed help. But magic needs guidance, needs help, needs someone to show it the way. Without that guidance, it became permanently unstable, chaotic, dangerous. It will never find balance, never stabilize, never work properly. And you gave up, walked away, abandoned it."
 
 *I gave up,* you realized. *I abandoned everything, and I lost everything.*
 

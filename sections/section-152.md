@@ -2,7 +2,7 @@
 id: section-152
 title: "The Root of the Problem"
 choices:
-  - text: "Try to redistribute the magic yourself using the Memory Keeper"
+  - text: "Try to redistribute the magic yourself using the Keepsake Keeper"
     target: section-153.md
   - text: "Ask Kvothe to help balance the magic flow"
     target: section-153.md
@@ -20,7 +20,7 @@ As you listened to the townspeople's stories, a pattern began to emerge. The pla
 
 Elara nodded slowly. "That makes sense. The bakery has been in my family for three generations. We've always made the same cookies, always decorated the same way. But the new shops on the other side of town... they don't have those memories yet."
 
-The Memory Keeper pulsed in your hands, and you felt its warmth spreading through you. "The magic needs to learn balance," it said, its voice thoughtful. "It needs to remember that Christmas isn't just about the places that have always had it—it's about spreading joy to new places, too. But it can't do that on its own. It needs guidance."
+The Keepsake Keeper pulsed in your hands, and you felt its warmth spreading through you. "The magic needs to learn balance," it said, its voice thoughtful. "It needs to remember that Christmas isn't just about the places that have always had it—it's about spreading joy to new places, too. But it can't do that on its own. It needs guidance."
 
 *So we need to help the magic find balance,* you thought. *We need to show it that new places deserve magic too, and that old places don't need all of it.*
 

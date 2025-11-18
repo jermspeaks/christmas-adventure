@@ -18,7 +18,7 @@ You tried harder, pulling, gathering, hoarding. But the magic only pulled away m
 
 *What's happening?* you thought. *Why won't it respond?*
 
-The Memory Keeper's light dimmed, and you could feel it pulling away from you too. "The magic has rejected you," it said, its voice sad. "You tried to hoard it, to control it, to keep it for yourself. But magic is meant to be shared, to be connected, to flow freely. It cannot be hoarded, cannot be controlled. It has rejected you, and it will not respond to you again."
+The Keepsake Keeper's light dimmed, and you could feel it pulling away from you too. "The magic has rejected you," it said, its voice sad. "You tried to hoard it, to control it, to keep it for yourself. But magic is meant to be shared, to be connected, to flow freely. It cannot be hoarded, cannot be controlled. It has rejected you, and it will not respond to you again."
 
 *No,* you thought. *This can't be happening.*
 

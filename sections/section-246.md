@@ -14,7 +14,7 @@ But ignoring problems only made them worse, escalating, threatening the magic. E
 
 *The problems are getting worse,* you thought. *Everything is falling apart.*
 
-The Memory Keeper's light dimmed. "You ignored the problems," it said, its voice sad. "But problems don't go away when ignored. They escalate, threatening everything. You ignored them, and everything fell apart."
+The Keepsake Keeper's light dimmed. "You ignored the problems," it said, its voice sad. "But problems don't go away when ignored. They escalate, threatening everything. You ignored them, and everything fell apart."
 
 *I ignored them,* you realized. *I destroyed everything.*
 

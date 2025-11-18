@@ -10,7 +10,7 @@ You restored the magic to Starlight Hollow, but not to the wider world. The magi
 
 *Starlight Hollow has magic again,* you thought, satisfaction mixed with concern. *But the rest of the world doesn't.*
 
-The Memory Keeper's light pulsed softly. "The magic is restored to Starlight Hollow," it said. "But not to the wider world. The magic flowed back to the village, but it didn't spread. The rest of the world remains without magic."
+The Keepsake Keeper's light pulsed softly. "The magic is restored to Starlight Hollow," it said. "But not to the wider world. The magic flowed back to the village, but it didn't spread. The rest of the world remains without magic."
 
 *I should have ensured it spread,* you thought. *I should have made sure the whole world got magic back.*
 

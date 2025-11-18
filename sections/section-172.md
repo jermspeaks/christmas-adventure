@@ -22,7 +22,7 @@ You could feel the magic flowing through you, warm and steady, responding to you
 
 Lumina trotted forward, their eyes bright. "You're becoming a bridge," they said. "A bridge between the old magic and the new. You understand both, and you can help others understand. You can help the magic spread, help it grow, help it become what it's meant to be."
 
-The Memory Keeper pulsed warmly. "You're ready," it said. "Ready to help others understand, ready to help them learn, ready to help them connect. Ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be."
+The Keepsake Keeper pulsed warmly. "You're ready," it said. "Ready to help others understand, ready to help them learn, ready to help them connect. Ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be."
 
 *I'm ready,* you thought. *Ready to help others understand, ready to help them learn, ready to help them connect. Ready to be a bridge, a guide, someone who can help the magic spread, grow, become what it's meant to be.*
 

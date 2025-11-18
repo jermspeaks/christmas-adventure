@@ -6,7 +6,7 @@ choices: []
 
 # The Collapse
 
-You accepted that the magic was flowing correctly, thinking everything was fixed. You celebrated, thinking the problem was solved. But the Memory Keeper was right—the magic was only draining, not truly balanced.
+You accepted that the magic was flowing correctly, thinking everything was fixed. You celebrated, thinking the problem was solved. But the Keepsake Keeper was right—the magic was only draining, not truly balanced.
 
 Weeks passed, and the drained places became completely empty. The magic started to collapse, pulling from everywhere, creating chaos. And then, one day, it all fell apart.
 

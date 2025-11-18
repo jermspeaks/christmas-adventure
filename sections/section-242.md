@@ -14,7 +14,7 @@ But trying to control the community only made them resist, rebel, reject you. Th
 
 *They're resisting,* you thought. *The magic is losing power.*
 
-The Memory Keeper's light dimmed. "You tried to control the community," it said, its voice sad. "But understanding requires freedom, connection, trust. You tried to control them, and they resisted, the magic lost its connection power. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You tried to control the community," it said, its voice sad. "But understanding requires freedom, connection, trust. You tried to control them, and they resisted, the magic lost its connection power. Everything fell apart."
 
 *I tried to control them,* you realized. *I destroyed everything.*
 

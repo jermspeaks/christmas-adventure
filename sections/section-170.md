@@ -22,7 +22,7 @@ You practiced by thinking about memories, by connecting with your emotions, by s
 
 Lumina trotted forward, their eyes bright. "You're getting it," they said. "The magic isn't about control—it's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
 
-The Memory Keeper pulsed warmly. "You're learning," it said. "You're understanding that the magic has changed, that it works differently now. It requires connection, memory, emotion. It can't be controlled—it must be shared. But once you understand that, it becomes stronger, more powerful, because it's built on truth, not on the illusion of perfection."
+The Keepsake Keeper pulsed warmly. "You're learning," it said. "You're understanding that the magic has changed, that it works differently now. It requires connection, memory, emotion. It can't be controlled—it must be shared. But once you understand that, it becomes stronger, more powerful, because it's built on truth, not on the illusion of perfection."
 
 *So I need to keep practicing,* you thought. *I need to keep learning, keep connecting, keep remembering. I need to understand that the magic isn't about control—it's about connection.*
 

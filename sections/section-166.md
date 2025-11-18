@@ -22,7 +22,7 @@ The dangerous buildup began to decrease, the magic flowing outward, spreading to
 
 *This is what it should be,* you thought. *Not hoarding, but sharing. Not gathering, but flowing. Not excess, but balance.*
 
-The Memory Keeper pulsed warmly, and you could feel its satisfaction. "The magic is learning," it said. "It's learning that sharing is better than hoarding, that flowing is better than gathering, that balance is better than excess. This is good."
+The Keepsake Keeper pulsed warmly, and you could feel its satisfaction. "The magic is learning," it said. "It's learning that sharing is better than hoarding, that flowing is better than gathering, that balance is better than excess. This is good."
 
 Lumina trotted forward, their eyes bright. "The magic is finding its way," they said. "It's learning to trust, to share, to flow. It's learning that the strongest magic is the magic that's connected, that's balanced, that's shared."
 

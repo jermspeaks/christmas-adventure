@@ -24,7 +24,7 @@ They also handed you a small lantern that, when you lit it, glowed with a warm, 
 
 Lumina looked pleased. "Good thinking," they said. "The forest can be disorienting, especially now that the magic is so thin. Having a way to find each other is important."
 
-You packed the supplies carefully—the star cookies in a small pouch, the lantern hanging from your belt, the bell tucked safely in your pocket. The Memory Keeper ornament you held in your hand, its light still pulsing gently.
+You packed the supplies carefully—the star cookies in a small pouch, the lantern hanging from your belt, the bell tucked safely in your pocket. The Keepsake Keeper ornament you held in your hand, its light still pulsing gently.
 
 "One more thing," Elara said, their expression serious. "The forest has changed. The magic there has been twisted, turned against itself. You might encounter... obstacles. Things that don't want you to reach the vault. But remember—the magic responds to genuine Christmas spirit. Joy, wonder, the desire to give. If you can hold onto that, you'll be okay."
 

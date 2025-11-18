@@ -14,7 +14,7 @@ But trying to control the magic only made it resist, rebel, reject you. The magi
 
 *The magic is resisting,* you thought. *It's losing power.*
 
-The Memory Keeper's light dimmed. "You tried to control the magic," it said, its voice sad. "But magic requires freedom, connection, sharing. You tried to control it, and it resisted, losing its connection power. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You tried to control the magic," it said, its voice sad. "But magic requires freedom, connection, sharing. You tried to control it, and it resisted, losing its connection power. Everything fell apart."
 
 *I tried to control it,* you realized. *I destroyed everything.*
 

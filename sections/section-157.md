@@ -20,7 +20,7 @@ Kvothe's memories began to flood back, and you could see them struggling to proc
 
 Kvothe looked at you, their eyes wide with overwhelm. "But it's all there," they said. "All of it. The good and the bad. The joy and the pain. I remember my family, and I remember losing them. I remember loving Christmas, and I remember watching the magic fade. It's all there, and I don't know how to hold it all."
 
-The Memory Keeper's light pulsed softly, and you felt its warmth spreading, calming. "Memories are meant to be held gently," it said. "Not all at once, but one at a time. Like ornaments on a tree—each one beautiful on its own, but together, they create something magical."
+The Keepsake Keeper's light pulsed softly, and you felt its warmth spreading, calming. "Memories are meant to be held gently," it said. "Not all at once, but one at a time. Like ornaments on a tree—each one beautiful on its own, but together, they create something magical."
 
 You reached out and took Kvothe's hand, and you could feel their warmth, their humanity. "Let's start with one memory," you said. "One good memory. The one that makes you smile. Can you find that one?"
 

@@ -6,7 +6,7 @@ choices:
     target: section-13.md
   - text: "Ask Lumina about the Frostwood Forest"
     target: section-12.md
-  - text: "Search for more Memory Keepers"
+  - text: "Search for more Keepsake Keepers"
     target: section-14.md
   - text: "Waste too much time gathering information"
     target: section-404.md
@@ -18,7 +18,7 @@ choices:
 
 You decided that rushing headlong into the Frostwood Forest might not be the wisest approach. *After all,* you thought, *when has charging into an unknown, potentially dangerous forest ever gone wrong?* (The answer, you suspected, was "never well.")
 
-The Memory Keeper ornament in your hands flickered again, its light dimming just a little more. "I understand your caution," it said, its voice growing fainter. "But please, don't wait too long. Every moment we delay, more magic fades."
+The Keepsake Keeper ornament in your hands flickered again, its light dimming just a little more. "I understand your caution," it said, its voice growing fainter. "But please, don't wait too long. Every moment we delay, more magic fades."
 
 Lumina trotted over, their expression thoughtful. "Smart move," they said, though you noticed they didn't sound entirely convinced. "The Frostwood Forest isn't a place to enter unprepared. But we do need to move quickly."
 
@@ -30,7 +30,7 @@ A villager passed by, bundled in a thick coat and scarf, their expression worrie
 
 Before you could answer, Lumina stepped forward. "This is the one we've been waiting for," they said, their tone both proud and urgent. "But we need information. What have you noticed about the magic fading? When did it start?"
 
-The villager—a middle-aged person with kind eyes and hands that looked like they'd spent years crafting beautiful things—sighed. "It started about three weeks ago. At first, we thought it was just a bad year, you know? Some years the magic is stronger than others. But then the Memory Keepers started disappearing, one by one. And now..." They gestured around them. "Now everything feels dim. Even the hot cocoa doesn't taste as magical."
+The villager—a middle-aged person with kind eyes and hands that looked like they'd spent years crafting beautiful things—sighed. "It started about three weeks ago. At first, we thought it was just a bad year, you know? Some years the magic is stronger than others. But then the Keepsake Keepers started disappearing, one by one. And now..." They gestured around them. "Now everything feels dim. Even the hot cocoa doesn't taste as magical."
 
 *Hot cocoa that doesn't taste magical?* you thought. *That's a crime against Christmas itself.*
 

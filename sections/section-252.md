@@ -14,7 +14,7 @@ But taking magic for granted only made it fade, becoming weaker, disappearing. E
 
 *The magic is fading,* you thought. *It's going away.*
 
-The Memory Keeper's light dimmed. "You took the magic for granted," it said, its voice sad. "But magic requires appreciation, work, connection. You took it for granted, and it faded, becoming weaker, disappearing completely."
+The Keepsake Keeper's light dimmed. "You took the magic for granted," it said, its voice sad. "But magic requires appreciation, work, connection. You took it for granted, and it faded, becoming weaker, disappearing completely."
 
 *I took it for granted,* you realized. *I lost the magic.*
 

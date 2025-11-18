@@ -14,7 +14,7 @@ You continued verifying, making absolutely sure the message was complete, that y
 
 *I need to be absolutely sure,* you thought. *I need to verify everything.*
 
-The Memory Keeper's light pulsed, and you heard its voice, understanding. "Verification is good," it said. "But don't verify forever. At some point, you need to act."
+The Keepsake Keeper's light pulsed, and you heard its voice, understanding. "Verification is good," it said. "But don't verify forever. At some point, you need to act."
 
 *They're right,* you thought. *I need to verify, but I also need to act.*
 

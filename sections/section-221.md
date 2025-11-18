@@ -14,7 +14,7 @@ But absorbing too much magic only made you overload. You became unstable, danger
 
 *I can't control it,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed. "You tried to absorb too much magic," it said, its voice sad. "But no one can handle that much magic. You overloaded, becoming unstable, dangerous. The magic consumed you, destroying you completely."
+The Keepsake Keeper's light dimmed. "You tried to absorb too much magic," it said, its voice sad. "But no one can handle that much magic. You overloaded, becoming unstable, dangerous. The magic consumed you, destroying you completely."
 
 *I tried to absorb it all,* you realized. *I destroyed myself.*
 

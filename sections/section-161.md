@@ -20,7 +20,7 @@ As you continued working together, you could see Kvothe growing, changing, becom
 
 Lumina trotted forward, their eyes bright. "You're becoming who you were meant to be," they said. "Not someone who protects people from disappointment, but someone who helps them find strength. Not someone who locks magic away, but someone who helps it flow."
 
-The Memory Keeper pulsed warmly, and you could feel its approval. "Balance," it said. "That's what you're learning. Not perfection, but balance. Not hiding from problems, but facing them together. Not protecting people from disappointment, but helping them find joy anyway."
+The Keepsake Keeper pulsed warmly, and you could feel its approval. "Balance," it said. "That's what you're learning. Not perfection, but balance. Not hiding from problems, but facing them together. Not protecting people from disappointment, but helping them find joy anyway."
 
 Kvothe smiled, and it was a real smile, warm and genuine. "I'm still learning," they said. "I'm still figuring things out. But I know I want to help. I know I want to be part of this, part of helping the magic find balance, part of helping people find joy."
 

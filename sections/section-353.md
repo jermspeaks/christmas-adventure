@@ -12,7 +12,7 @@ You went deeper, truly connecting, truly understanding, and you achieved true ma
 
 *I've truly mastered it,* you thought, joy flooding through you. *I'm a bridge between old and new. Everything is perfect.*
 
-The Memory Keeper pulsed brightly. "You have achieved true mastery," it said, its voice filled with joy. "Not just partial understanding, but true mastery. You are a bridge between old and new, helping others understand, helping the magic spread. This is true success."
+The Keepsake Keeper pulsed brightly. "You have achieved true mastery," it said, its voice filled with joy. "Not just partial understanding, but true mastery. You are a bridge between old and new, helping others understand, helping the magic spread. This is true success."
 
 *Everything is perfect,* you realized. *I've truly mastered it. This is what we worked for.*
 

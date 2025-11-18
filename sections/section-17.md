@@ -18,7 +18,7 @@ As you walked deeper into the Frostwood Forest, you began to notice something st
 
 *Okay, that's not creepy at all,* you thought. *Talking trees. Why not?*
 
-The Memory Keeper's light flickered, and you heard its voice, soft and urgent. "The trees," it said. "They're trying to tell you something. But their voices are weak, like mine. The magic that gave them life has been drained away."
+The Keepsake Keeper's light flickered, and you heard its voice, soft and urgent. "The trees," it said. "They're trying to tell you something. But their voices are weak, like mine. The magic that gave them life has been drained away."
 
 You paused, listening more carefully. The whispers were hard to make out, but you could catch fragments of words: "...too late..." "...the vault..." "...danger..." "...turn back..."
 
@@ -34,7 +34,7 @@ The whispers grew slightly louder, and you could make out more words: "...the pa
 
 *The guardian?* you thought. *That doesn't sound good.*
 
-The Memory Keeper's light brightened slightly. "They're telling us the way," it said. "Follow the light. Trust me. The vault is close, but there's something guarding it. Something that doesn't want the magic restored."
+The Keepsake Keeper's light brightened slightly. "They're telling us the way," it said. "Follow the light. Trust me. The vault is close, but there's something guarding it. Something that doesn't want the magic restored."
 
 You looked at Lumina, who looked back at you with an expression that was equal parts determination and concern. "Well," you said, "at least we know we're on the right track."
 

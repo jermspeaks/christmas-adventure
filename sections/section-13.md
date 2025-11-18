@@ -26,11 +26,11 @@ Lumina settled by the fire, their tail swishing. "Elara knows more about the mag
 
 Elara returned with three mugs of cocoa—one for you, one for themselves, and one tiny one for Lumina, which you found both adorable and slightly concerning. (How did Lumina drink from a mug? You decided not to ask.)
 
-"The magic has always been here," Elara said, settling into a chair. "It flows through everything—the snow, the lights, the decorations, even the food. But about three weeks ago, we started noticing it was fading. At first, it was small things. A light that wouldn't stay lit. A decoration that lost its sparkle. But then the Memory Keepers started disappearing."
+"The magic has always been here," Elara said, settling into a chair. "It flows through everything—the snow, the lights, the decorations, even the food. But about three weeks ago, we started noticing it was fading. At first, it was small things. A light that wouldn't stay lit. A decoration that lost its sparkle. But then the Keepsake Keepers started disappearing."
 
-They took a sip of cocoa, their expression thoughtful. "The Memory Keepers are special. They're not just ornaments—they're guardians. Each one holds a piece of the world's Christmas magic, and they're supposed to protect it, keep it safe. But someone's been taking them, draining their magic, and storing it somewhere."
+They took a sip of cocoa, their expression thoughtful. "The Keepsake Keepers are special. They're not just ornaments—they're guardians. Each one holds a piece of the world's Christmas magic, and they're supposed to protect it, keep it safe. But someone's been taking them, draining their magic, and storing it somewhere."
 
-"The Memory Vault," you said, remembering what the Memory Keeper had told you.
+"The Memory Vault," you said, remembering what the Keepsake Keeper had told you.
 
 Elara nodded. "That's what we think. But no one knows where it is, or who built it. All we know is that the magic is being pulled toward the Frostwood Forest. That's where it's strongest—the pull, I mean. Like a magnet."
 

@@ -16,7 +16,7 @@ As you investigated the places where magic was gathering, you discovered somethi
 
 *This is bad,* you thought, watching as the magic pulsed and flickered, as it began to crackle with energy. *If this keeps building, it's going to explode. It could destroy everything.*
 
-The Memory Keeper pulsed urgently in your hands. "The magic is building up," it said, its voice worried. "It's not flowing, not sharing. It's accumulating, and if it keeps building, it will become unstable. It could cause a backlash, could destroy the town, could damage the magic itself."
+The Keepsake Keeper pulsed urgently in your hands. "The magic is building up," it said, its voice worried. "It's not flowing, not sharing. It's accumulating, and if it keeps building, it will become unstable. It could cause a backlash, could destroy the town, could damage the magic itself."
 
 Lumina's ears perked up, and they looked at the gathering magic with concern. "We need to do something," they said. "But we can't just force it. The magic needs to learn to flow, to share, to balance itself. If we force it, it might rebel, might become even more unstable."
 

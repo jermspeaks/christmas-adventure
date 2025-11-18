@@ -12,7 +12,7 @@ Different partial solutions began to come together. The magic stabilization from
 
 *They're coming together,* you thought, watching as the different solutions began to merge. *The partial solutions are combining, creating something stronger.*
 
-The Memory Keeper pulsed warmly. "Different solutions are coming together," it said, its voice thoughtful. "They're combining, merging, creating something stronger. This is how true solutions are built—not from one perfect answer, but from many partial solutions coming together."
+The Keepsake Keeper pulsed warmly. "Different solutions are coming together," it said, its voice thoughtful. "They're combining, merging, creating something stronger. This is how true solutions are built—not from one perfect answer, but from many partial solutions coming together."
 
 *They're coming together,* you realized. *Creating something stronger. This is how it should be.*
 

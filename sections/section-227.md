@@ -14,7 +14,7 @@ But ignoring the connection only made the magic hollow, meaningless. It lost its
 
 *It's not working,* you thought. *The magic is empty.*
 
-The Memory Keeper's light dimmed. "You ignored the connection," it said, its voice sad. "But the magic requires connection, memory, emotion. Without it, the magic becomes hollow, meaningless, dead. You ignored it, and the magic died."
+The Keepsake Keeper's light dimmed. "You ignored the connection," it said, its voice sad. "But the magic requires connection, memory, emotion. Without it, the magic becomes hollow, meaningless, dead. You ignored it, and the magic died."
 
 *I ignored the connection,* you realized. *I killed the magic.*
 

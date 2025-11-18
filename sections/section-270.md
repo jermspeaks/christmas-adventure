@@ -18,7 +18,7 @@ But as time passed, you began to notice something. The magic wasn't really balan
 
 *Something's not right,* you thought, but you weren't sure what. *Some places seem... emptier. Like the magic is being pulled away.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "The magic is draining," it said, its voice worried. "It's not balanced—it's being pulled from other places. This is not a solution. This is a delay. Eventually, those places will be completely empty, and the magic will collapse."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "The magic is draining," it said, its voice worried. "It's not balanced—it's being pulled from other places. This is not a solution. This is a delay. Eventually, those places will be completely empty, and the magic will collapse."
 
 *Oh no,* you realized. *I didn't fix it. I just moved the problem. And when it collapses, it will be worse.*
 

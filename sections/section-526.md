@@ -14,7 +14,7 @@ You decided to try yet another approach, thinking that maybe you needed to look 
 
 *Maybe this will work,* you thought. *Maybe this is the right approach.*
 
-The Memory Keeper's light pulsed, and you felt something shift. The approach felt different, felt new, felt like it might reveal something.
+The Keepsake Keeper's light pulsed, and you felt something shift. The approach felt different, felt new, felt like it might reveal something.
 
 *This feels different,* you thought. *Maybe this is the right way.*
 

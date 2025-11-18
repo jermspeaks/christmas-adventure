@@ -14,7 +14,7 @@ But telling Kvothe to just move on only made things worse. They felt dismissed, 
 
 *Maybe I should have been more understanding,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its sadness. "You dismissed Kvothe's struggle," it said, its voice sad. "You told them to just move on, but transformation takes time. It requires understanding, patience, support. You dismissed them, and they lost hope, lost the magic, lost everything."
+The Keepsake Keeper's light dimmed, and you could feel its sadness. "You dismissed Kvothe's struggle," it said, its voice sad. "You told them to just move on, but transformation takes time. It requires understanding, patience, support. You dismissed them, and they lost hope, lost the magic, lost everything."
 
 *I dismissed them,* you realized. *I told them to just move on, and I lost them. I lost everything.*
 

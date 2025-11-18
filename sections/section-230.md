@@ -14,7 +14,7 @@ But forcing connections only made them fake, hollow, meaningless. The magic reje
 
 *The connections are fake,* you thought. *The magic won't respond.*
 
-The Memory Keeper's light dimmed. "You forced the connections," it said, its voice sad. "But connections must be real, genuine, meaningful. Forced connections are fake, hollow. The magic rejected them, cutting you off permanently."
+The Keepsake Keeper's light dimmed. "You forced the connections," it said, its voice sad. "But connections must be real, genuine, meaningful. Forced connections are fake, hollow. The magic rejected them, cutting you off permanently."
 
 *I forced them,* you realized. *I lost the magic.*
 

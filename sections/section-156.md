@@ -24,9 +24,9 @@ Kvothe looked at their hands, turning them over, studying them. "I remember thin
 
 *They're overwhelmed,* you thought. *All these memories, all these feelings, coming back at once. They need time, but they also need support.*
 
-The Memory Keeper pulsed softly in your hands, and you could feel its warmth, its understanding. "Kvothe's transformation is complete," it said. "But transformation isn't just about changing—it's about integrating. They need to understand that they're not losing who they were. They're becoming who they were meant to be."
+The Keepsake Keeper pulsed softly in your hands, and you could feel its warmth, its understanding. "Kvothe's transformation is complete," it said. "But transformation isn't just about changing—it's about integrating. They need to understand that they're not losing who they were. They're becoming who they were meant to be."
 
-You sat beside Kvothe, the Memory Keeper between you. "You're not losing anything," you said. "You're gaining. You're remembering who you were, and you're becoming who you can be. But it's okay to be confused. It's okay to need time."
+You sat beside Kvothe, the Keepsake Keeper between you. "You're not losing anything," you said. "You're gaining. You're remembering who you were, and you're becoming who you can be. But it's okay to be confused. It's okay to need time."
 
 Kvothe looked at you, and you saw tears in their eyes. "I'm scared," they admitted. "What if I can't do this? What if I'm not strong enough to be... me?"
 

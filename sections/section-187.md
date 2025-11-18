@@ -12,7 +12,7 @@ You began combining the different approaches, merging the solutions, creating so
 
 *They're combining,* you thought, watching as the approaches merged. *They're strengthening each other, creating true resolution.*
 
-The Memory Keeper pulsed warmly. "The approaches are combining," it said, its voice thoughtful. "They're merging, strengthening each other, creating true resolution. This is how true solutions work—not alone, but together, strengthening each other."
+The Keepsake Keeper pulsed warmly. "The approaches are combining," it said, its voice thoughtful. "They're merging, strengthening each other, creating true resolution. This is how true solutions work—not alone, but together, strengthening each other."
 
 *They're combining,* you realized. *Creating true resolution. This is how it should be.*
 

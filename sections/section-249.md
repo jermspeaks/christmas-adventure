@@ -14,7 +14,7 @@ But breaking the harmony only made the magic lose its joy aspect, becoming hollo
 
 *The magic is losing joy,* you thought. *It's becoming hollow.*
 
-The Memory Keeper's light dimmed. "You broke the harmony," it said, its voice sad. "But magic requires joy, celebration, togetherness. You broke it, and the magic lost its joy aspect, becoming hollow, meaningless."
+The Keepsake Keeper's light dimmed. "You broke the harmony," it said, its voice sad. "But magic requires joy, celebration, togetherness. You broke it, and the magic lost its joy aspect, becoming hollow, meaningless."
 
 *I broke the harmony,* you realized. *I lost the magic.*
 

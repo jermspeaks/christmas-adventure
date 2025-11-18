@@ -18,7 +18,7 @@ You pushed even harder, trying to force the magic to balance faster. But it only
 
 *What have I done?* you thought. *I pushed too hard, and I broke everything.*
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You pushed too hard," it said, its voice sad. "You tried to speed things up, to force the magic to balance faster. But magic cannot be forced. It must be guided, patiently, carefully. You pushed too hard, and you broke it. The magic is now permanently unstable, refusing to balance, refusing to work properly."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You pushed too hard," it said, its voice sad. "You tried to speed things up, to force the magic to balance faster. But magic cannot be forced. It must be guided, patiently, carefully. You pushed too hard, and you broke it. The magic is now permanently unstable, refusing to balance, refusing to work properly."
 
 *I pushed too hard,* you realized. *I tried to force it, and I broke it. I created permanent instability.*
 

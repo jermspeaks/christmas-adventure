@@ -14,7 +14,7 @@ But ignoring the magic only made things worse. It became permanently chaotic, un
 
 *I ignored it,* you realized. *I lost everything.*
 
-The Memory Keeper's light dimmed. "You ignored the magic," it said, its voice sad. "You thought it would figure itself out, but magic needs guidance. Without it, it became permanently chaotic, unstable, dangerous. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You ignored the magic," it said, its voice sad. "You thought it would figure itself out, but magic needs guidance. Without it, it became permanently chaotic, unstable, dangerous. Everything fell apart."
 
 *I ignored it,* you realized. *I lost everything.*
 

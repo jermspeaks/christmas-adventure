@@ -10,7 +10,7 @@ You worked patiently, carefully, and the magic began to find balance. It wasn't 
 
 *It's working,* you thought, relief mixed with uncertainty. *The magic is balanced. Not perfectly, but it's stable. The world has changed, but it's not all bad. It's just... different.*
 
-The Memory Keeper pulsed warmly. "The magic has found balance," it said, its voice thoughtful. "Not perfect balance, but stable balance. The world has changed—some places are different now, some traditions are different. But that's okay. Change isn't bad—it's just different. The magic is stable, and that's what matters."
+The Keepsake Keeper pulsed warmly. "The magic has found balance," it said, its voice thoughtful. "Not perfect balance, but stable balance. The world has changed—some places are different now, some traditions are different. But that's okay. Change isn't bad—it's just different. The magic is stable, and that's what matters."
 
 *The world has changed,* you realized. *But it's not all bad. It's just different. And the magic is stable, and that's what matters.*
 

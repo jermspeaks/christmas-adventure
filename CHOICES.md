@@ -23,7 +23,7 @@ Each section shows:
 ## section-150.md - "Chaos in Starlight Hollow"
 
 - Choice 1: "Talk to the townspeople to understand what's happening" → `section-151.md` ⚠️ **DUPLICATE**
-- Choice 2: "Use the Memory Keeper to try to stabilize the magic" → `section-151.md` ⚠️ **DUPLICATE**
+- Choice 2: "Use the Keepsake Keeper to try to stabilize the magic" → `section-151.md` ⚠️ **DUPLICATE**
 - Choice 3: "Find Kvothe and ask for their help" → `section-151.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
@@ -44,7 +44,7 @@ Each section shows:
 
 ## section-152.md - "The Root of the Problem"
 
-- Choice 1: "Try to redistribute the magic yourself using the Memory Keeper" → `section-153.md` ⚠️ **DUPLICATE**
+- Choice 1: "Try to redistribute the magic yourself using the Keepsake Keeper" → `section-153.md` ⚠️ **DUPLICATE**
 - Choice 2: "Ask Kvothe to help balance the magic flow" → `section-153.md` ⚠️ **DUPLICATE**
 - Choice 3: "Work with the townspeople to create a solution together" → `section-153.md` ⚠️ **DUPLICATE**
 
@@ -90,7 +90,7 @@ Each section shows:
 
 - Choice 1: "Explore the new properties of the transformed magic" → `section-169.md` ⚠️ **DUPLICATE**
 - Choice 2: "Try to use the magic the same way as before" → `section-169.md` ⚠️ **DUPLICATE**
-- Choice 3: "Ask the Memory Keeper about the changes" → `section-169.md` ⚠️ **DUPLICATE**
+- Choice 3: "Ask the Keepsake Keeper about the changes" → `section-169.md` ⚠️ **DUPLICATE**
 
 **Duplicate Targets:**
 - `section-169.md` appears in choices: 1, 2, 3
@@ -133,7 +133,7 @@ Each section shows:
 ## section-19.md - "The Guardian Appears"
 
 - Choice 1: "Try to reason with the guardian" → `section-20.md` ⚠️ **DUPLICATE**
-- Choice 2: "Use the Memory Keeper's power" → `section-20.md` ⚠️ **DUPLICATE**
+- Choice 2: "Use the Keepsake Keeper's power" → `section-20.md` ⚠️ **DUPLICATE**
 - Choice 3: "Show genuine Christmas spirit" → `section-20.md` ⚠️ **DUPLICATE**
 - Choice 4: "Convince the guardian but rush the magic restoration" → `section-480.md`
 - Choice 5: "Think the guardian is convinced" → `section-453.md`
@@ -223,7 +223,7 @@ Each section shows:
 - Choice 1: "Continue investigating the ornament" → `section-10.md` ⚠️ **DUPLICATE**
 - Choice 2: "Share the discovery with Lumina" → `section-10.md` ⚠️ **DUPLICATE**
 - Choice 3: "Take action based on what you found" → `section-10.md` ⚠️ **DUPLICATE**
-- Choice 4: "Ignore the Memory Keeper's warning and dismiss it" → `section-400.md`
+- Choice 4: "Ignore the Keepsake Keeper's warning and dismiss it" → `section-400.md`
 - Choice 5: "Investigate the ornament from a different angle" → `section-522.md`
 
 **Duplicate Targets:**

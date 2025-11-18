@@ -14,7 +14,7 @@ Kvothe looked at you, their expression grateful but worried. "I remember," they 
 
 *The magic is unstable,* you realized. *It's restored, but it's not stable.*
 
-The Memory Keeper's light flickered. "The magic is restored," it said. "But it's unstable. Kvothe remembers, but the magic isn't steady. It's flowing, but it's not balanced. The world has magic again, but it's unpredictable."
+The Keepsake Keeper's light flickered. "The magic is restored," it said. "But it's unstable. Kvothe remembers, but the magic isn't steady. It's flowing, but it's not balanced. The world has magic again, but it's unpredictable."
 
 *I should have ensured it was stable,* you thought. *I should have made sure the magic was balanced.*
 

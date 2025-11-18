@@ -18,7 +18,7 @@ But as you tried to open the Memory Vault, you realized something was wrong. The
 
 *This isn't working,* you thought. *My understanding isn't deep enough.*
 
-The Memory Keeper's light flickered, and you heard its voice, concerned. "Your understanding is shallow," it said. "You think you understand, but you don't. Not really. Not deeply enough. The vault requires genuine, deep understanding, not surface-level knowledge."
+The Keepsake Keeper's light flickered, and you heard its voice, concerned. "Your understanding is shallow," it said. "You think you understand, but you don't. Not really. Not deeply enough. The vault requires genuine, deep understanding, not surface-level knowledge."
 
 *I need to go deeper,* you realized. *I need to truly understand.*
 

@@ -14,7 +14,7 @@ But rushing only made things worse. The magic became unstable, unable to learn p
 
 *I rushed it,* you realized. *I broke it.*
 
-The Memory Keeper's light dimmed. "You rushed the process," it said, its voice sad. "You tried to make the magic learn faster, but learning takes time. You rushed it, and it became unstable, unable to learn properly. The process is now permanently broken."
+The Keepsake Keeper's light dimmed. "You rushed the process," it said, its voice sad. "You tried to make the magic learn faster, but learning takes time. You rushed it, and it became unstable, unable to learn properly. The process is now permanently broken."
 
 *I rushed it,* you realized. *I broke the process.*
 

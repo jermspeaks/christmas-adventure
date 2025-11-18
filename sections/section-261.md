@@ -6,7 +6,7 @@ choices: []
 
 # Kvothe's Breaking Point
 
-You accepted that Kvothe was fine, thinking everything was resolved. You celebrated, thinking the problem was solved. But the Memory Keeper was right—Kvothe was only suppressing, not truly adjusting.
+You accepted that Kvothe was fine, thinking everything was resolved. You celebrated, thinking the problem was solved. But the Keepsake Keeper was right—Kvothe was only suppressing, not truly adjusting.
 
 Weeks passed, and the suppression began to weaken. Kvothe started to crack, the mask slipping, the truth showing through. And then, one day, they broke.
 

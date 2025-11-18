@@ -6,13 +6,13 @@ choices: []
 
 # Chaotic Release
 
-You looked at the Memory Keeper in your hands, at its bright, pulsing light, and you made a decision. *I can do this myself,* you thought. *I have the Memory Keeper. I have the Christmas spirit. I don't need Kvothe's help—I can unlock the vault on my own.*
+You looked at the Keepsake Keeper in your hands, at its bright, pulsing light, and you made a decision. *I can do this myself,* you thought. *I have the Keepsake Keeper. I have the Christmas spirit. I don't need Kvothe's help—I can unlock the vault on my own.*
 
-You stepped forward, ignoring Kvothe's outstretched hand, and placed the Memory Keeper directly against the stone archway. The moment it touched the stone, the Memory Keeper's light flared—too bright, too intense. The carvings on the archway began to glow, but the light was chaotic, uncontrolled, flickering wildly.
+You stepped forward, ignoring Kvothe's outstretched hand, and placed the Keepsake Keeper directly against the stone archway. The moment it touched the stone, the Keepsake Keeper's light flared—too bright, too intense. The carvings on the archway began to glow, but the light was chaotic, uncontrolled, flickering wildly.
 
 *Wait,* you thought. *This doesn't feel right.*
 
-The Memory Keeper's voice, usually so calm and steady, sounded panicked. "No! Stop! The vault needs balance—it needs both the keeper and the guardian working together. Without Kvothe's connection to the vault, the magic will—"
+The Keepsake Keeper's voice, usually so calm and steady, sounded panicked. "No! Stop! The vault needs balance—it needs both the keeper and the guardian working together. Without Kvothe's connection to the vault, the magic will—"
 
 But it was too late. The magic burst from the vault like a dam breaking, streams of light shooting out in every direction, uncontrolled and wild. The clearing was suddenly filled with chaos—light flashing, the ground shaking, the trees around you groaning as the magic hit them like a wave.
 
@@ -24,7 +24,7 @@ Kvothe tried to help, reaching out to try to control the flow, but it was too la
 
 "I'm sorry," you said, your voice barely a whisper. "I thought I could do it alone. I thought I didn't need help."
 
-The Memory Keeper's light was dimming now, its power drained by the chaotic release. "The magic is free," it said, its voice weak and sad. "But it's not right. It's not balanced. Without the guardian's connection, without working together, the magic is... broken. It will cause chaos wherever it goes, overwhelming some places and leaving others empty."
+The Keepsake Keeper's light was dimming now, its power drained by the chaotic release. "The magic is free," it said, its voice weak and sad. "But it's not right. It's not balanced. Without the guardian's connection, without working together, the magic is... broken. It will cause chaos wherever it goes, overwhelming some places and leaving others empty."
 
 You looked at Kvothe, at the devastation in their eyes. "I was wrong," they said quietly. "But so were you. The magic was never meant to be controlled by one person. It needs balance. It needs connection. It needs people working together."
 

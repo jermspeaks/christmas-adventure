@@ -18,7 +18,7 @@ But as time passed, you began to notice something. Kvothe wasn't really fine—t
 
 *Something's not right,* you thought, but you weren't sure what. *Kvothe seems... too perfect. Too calm. Like they're trying too hard.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "Kvothe is suppressing," it said, its voice worried. "They're not truly adjusting—they're hiding their true self. This is not a solution. This is a delay. Eventually, they will break, and when they do, it will be worse than before."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "Kvothe is suppressing," it said, its voice worried. "They're not truly adjusting—they're hiding their true self. This is not a solution. This is a delay. Eventually, they will break, and when they do, it will be worse than before."
 
 *Oh no,* you realized. *Kvothe isn't fine. They're suppressing. And when they break, it will be worse.*
 

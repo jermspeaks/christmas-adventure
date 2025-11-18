@@ -13,7 +13,7 @@ But ignoring the system only made the magic unstable, unpredictable, dangerous. 
 
 *It's not working,* you thought. *The magic is dangerous.*
 
-The Memory Keeper's light dimmed. "You ignored the new system," it said, its voice sad. "But the magic requires understanding, learning, connection. Without it, the magic becomes unstable, unpredictable, dangerous. You ignored it, and the magic became dangerous."
+The Keepsake Keeper's light dimmed. "You ignored the new system," it said, its voice sad. "But the magic requires understanding, learning, connection. Without it, the magic becomes unstable, unpredictable, dangerous. You ignored it, and the magic became dangerous."
 
 *I ignored it,* you realized. *I made the magic dangerous.*
 

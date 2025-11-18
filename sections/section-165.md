@@ -16,7 +16,7 @@ You approached the town with the dangerous magic buildup, and you could feel the
 
 *We need to be careful,* you thought. *We can't force this. We need to guide it, to help it understand.*
 
-You held up the Memory Keeper, and its light spread across the town, warm and steady. The magic seemed to respond, pulsing in time with the Memory Keeper's light, but it was still too concentrated, still too volatile.
+You held up the Keepsake Keeper, and its light spread across the town, warm and steady. The magic seemed to respond, pulsing in time with the Keepsake Keeper's light, but it was still too concentrated, still too volatile.
 
 "The magic needs to flow," you said, speaking to the magic itself, to the energy that was building up. "It needs to share, to spread, to reach the places that need it. It can't hoard all of this for itself. It needs to balance."
 
@@ -26,7 +26,7 @@ The magic pulsed, and you could feel its uncertainty, its resistance. It wanted 
 
 Lumina trotted forward, their presence calming. "The magic is scared," they said. "It's been locked away for so long, and now it's free, and it's trying to hold on, to make sure it doesn't get locked away again. But holding on too tightly is what's making it dangerous."
 
-The Memory Keeper pulsed thoughtfully. "The magic needs to understand that sharing doesn't mean losing," it said. "That flowing doesn't mean fading. That balance doesn't mean weakness. It needs to learn that the strongest magic is the magic that's shared, that's connected, that's balanced."
+The Keepsake Keeper pulsed thoughtfully. "The magic needs to understand that sharing doesn't mean losing," it said. "That flowing doesn't mean fading. That balance doesn't mean weakness. It needs to learn that the strongest magic is the magic that's shared, that's connected, that's balanced."
 
 *So we need to show it,* you thought. *We need to help it understand that sharing is better than hoarding, that balance is better than excess.*
 

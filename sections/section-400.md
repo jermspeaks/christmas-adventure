@@ -6,11 +6,11 @@ choices: []
 
 # Rejected Help
 
-You dismissed Lumina as not helpful, or ignored the Memory Keeper's warning, thinking you didn't need their help. You were confident you could figure this out on your own, that their guidance was unnecessary.
+You dismissed Lumina as not helpful, or ignored the Keepsake Keeper's warning, thinking you didn't need their help. You were confident you could figure this out on your own, that their guidance was unnecessary.
 
 *I don't need help,* you thought. *I can do this myself.*
 
-But without Lumina's guidance or the Memory Keeper's wisdom, you quickly became lost. The magical world was too complex, too unfamiliar. You wandered aimlessly, unable to find the Memory Vault, unable to understand what was happening.
+But without Lumina's guidance or the Keepsake Keeper's wisdom, you quickly became lost. The magical world was too complex, too unfamiliar. You wandered aimlessly, unable to find the Memory Vault, unable to understand what was happening.
 
 *This is harder than I thought,* you realized, but it was too late.
 

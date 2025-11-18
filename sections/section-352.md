@@ -12,7 +12,7 @@ You worked to truly balance the magic flow, and it found perfect balance. It was
 
 *It's perfect,* you thought, joy flooding through you. *The magic flow is perfectly balanced. The world is restored. Everything is working perfectly.*
 
-The Memory Keeper pulsed brightly. "The magic flow has found perfect balance," it said, its voice filled with joy. "Not just stable, but perfectly balanced. The world is restored, everything is working perfectly. This is true success."
+The Keepsake Keeper pulsed brightly. "The magic flow has found perfect balance," it said, its voice filled with joy. "Not just stable, but perfectly balanced. The world is restored, everything is working perfectly. This is true success."
 
 *Everything is perfect,* you realized. *Perfectly balanced, perfectly restored. This is what we worked for.*
 

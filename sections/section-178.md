@@ -22,7 +22,7 @@ You watched as people helped each other, as they shared memories, as they connec
 
 Lumina trotted forward, their eyes bright. "The community is connecting," they said. "People are sharing, they're learning, they're understanding. They're building something together, something stronger, something more powerful, because it's built on connection, on memory, on emotion."
 
-The Memory Keeper pulsed warmly. "You're building a community," it said. "A community connected, sharing, learning together. A community that understands that the magic isn't about control—it's about connection, about memory, about emotion. And the magic is responding. It's becoming stronger, more powerful, because it's built on connection, on memory, on emotion."
+The Keepsake Keeper pulsed warmly. "You're building a community," it said. "A community connected, sharing, learning together. A community that understands that the magic isn't about control—it's about connection, about memory, about emotion. And the magic is responding. It's becoming stronger, more powerful, because it's built on connection, on memory, on emotion."
 
 *I'm building a community,* you thought. *A community connected, sharing, learning together. A community that understands that the magic isn't about control—it's about connection, about memory, about emotion.*
 

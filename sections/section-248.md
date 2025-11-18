@@ -14,7 +14,7 @@ But becoming complacent only made the magic become taken for granted, fading awa
 
 *The magic is fading,* you thought. *It's going away.*
 
-The Memory Keeper's light dimmed. "You became complacent," it said, its voice sad. "But magic requires appreciation, work, connection. You became complacent, and the magic became taken for granted, fading away completely."
+The Keepsake Keeper's light dimmed. "You became complacent," it said, its voice sad. "But magic requires appreciation, work, connection. You became complacent, and the magic became taken for granted, fading away completely."
 
 *I became complacent,* you realized. *I lost the magic.*
 

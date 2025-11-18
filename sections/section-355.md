@@ -12,7 +12,7 @@ You addressed all the underlying issues while celebrating, and the celebration w
 
 *It's perfect,* you thought, joy flooding through you. *The celebration is perfect. All issues are addressed. True Christmas magic is restored. Everything is perfect.*
 
-The Memory Keeper pulsed brightly. "The celebration is perfect," it said, its voice filled with joy. "Not just good, but perfect. All issues are addressed, true Christmas magic is restored. This is true success."
+The Keepsake Keeper pulsed brightly. "The celebration is perfect," it said, its voice filled with joy. "Not just good, but perfect. All issues are addressed, true Christmas magic is restored. This is true success."
 
 *Everything is perfect,* you realized. *Perfect celebration, perfect resolution. This is what we worked for.*
 

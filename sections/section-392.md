@@ -12,7 +12,7 @@ The moment of true resolution arrived. The magic was fully restored, fully balan
 
 *This is it,* you thought, joy and satisfaction flooding through you. *Everything is resolved. Everything is complete. This is true success.*
 
-The Memory Keeper pulsed brightly, its light filling the air. "This is true resolution," it said, its voice filled with joy. "The magic is fully restored, fully balanced, fully transformed. Kvothe is fully transformed. The community is fully connected. Everything is perfect, truly resolved, truly complete."
+The Keepsake Keeper pulsed brightly, its light filling the air. "This is true resolution," it said, its voice filled with joy. "The magic is fully restored, fully balanced, fully transformed. Kvothe is fully transformed. The community is fully connected. Everything is perfect, truly resolved, truly complete."
 
 *Everything is perfect,* you realized. *Truly resolved, truly complete. This is what we worked for, what we achieved, what we accomplished.*
 

@@ -14,7 +14,7 @@ But ignoring the weak areas only made things worse. They became emptier, colder,
 
 *Maybe I should have helped the weak areas too,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You ignored the weak areas," it said, its voice sad. "You focused only on the overloaded places, but magic needs balance. It needs to flow to all places, not just some. You ignored the weak areas, and they became permanently empty, disconnected. The magic imbalance is now permanent, with no way to fix it."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You ignored the weak areas," it said, its voice sad. "You focused only on the overloaded places, but magic needs balance. It needs to flow to all places, not just some. You ignored the weak areas, and they became permanently empty, disconnected. The magic imbalance is now permanent, with no way to fix it."
 
 *I ignored them,* you realized. *I focused only on the overloaded areas, and I lost the weak ones. I created permanent imbalance.*
 

@@ -14,7 +14,7 @@ But forcing understanding only made people resist, rebel, reject you. The magic 
 
 *They're resisting,* you thought. *The magic is splitting us apart.*
 
-The Memory Keeper's light dimmed. "You forced understanding," it said, its voice sad. "But understanding takes time, patience, connection. You forced it, and people resisted, the magic became divisive. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You forced understanding," it said, its voice sad. "But understanding takes time, patience, connection. You forced it, and people resisted, the magic became divisive. Everything fell apart."
 
 *I forced it,* you realized. *I destroyed everything.*
 

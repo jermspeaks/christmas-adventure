@@ -14,7 +14,7 @@ But using knowledge for power only made people resist, rebel, reject you. The ma
 
 *They're resisting,* you thought. *The magic is rejecting me.*
 
-The Memory Keeper's light died. "You used knowledge for power," it said, its voice fading. "But knowledge is meant to be shared, taught, connected. You used it for power, and everyone rejected you, the magic rejected you. You lost everything."
+The Keepsake Keeper's light died. "You used knowledge for power," it said, its voice fading. "But knowledge is meant to be shared, taught, connected. You used it for power, and everyone rejected you, the magic rejected you. You lost everything."
 
 *I used it for power,* you realized. *I lost everything.*
 

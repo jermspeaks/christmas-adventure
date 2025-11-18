@@ -14,15 +14,15 @@ choices:
 
 # Toward the Frostwood Forest
 
-You made your decision. The Memory Keeper had given you a destination, and waiting around wasn't going to solve anything. *Besides,* you thought, *how dangerous can a forest called "Frostwood" really be?* (You were about to find out, and you had a feeling the answer was "more dangerous than you'd like.")
+You made your decision. The Keepsake Keeper had given you a destination, and waiting around wasn't going to solve anything. *Besides,* you thought, *how dangerous can a forest called "Frostwood" really be?* (You were about to find out, and you had a feeling the answer was "more dangerous than you'd like.")
 
-"Let's go," you said, holding the Memory Keeper ornament carefully. Its light pulsed gently in your hands, like a heartbeat. "The Frostwood Forest, right? Lead the way."
+"Let's go," you said, holding the Keepsake Keeper ornament carefully. Its light pulsed gently in your hands, like a heartbeat. "The Frostwood Forest, right? Lead the way."
 
 Lumina looked at you with an expression that was equal parts admiration and concern. "Are you sure? The forest is... well, it's not a friendly place. The magic there has been fading faster than anywhere else. It's like the heart of the problem."
 
 "All the more reason to go," you said, feeling more determined than you had a moment ago. "If that's where the magic is being stolen from, that's where we need to be."
 
-The Memory Keeper's light brightened slightly. "I can guide you," it said, its voice a little stronger now. "Follow the trail of fading magic. Where the lights are dimmest, where the snow doesn't sparkle—that's the path. The magic has been pulled in that direction, and if you follow it backward, you'll find the source."
+The Keepsake Keeper's light brightened slightly. "I can guide you," it said, its voice a little stronger now. "Follow the trail of fading magic. Where the lights are dimmest, where the snow doesn't sparkle—that's the path. The magic has been pulled in that direction, and if you follow it backward, you'll find the source."
 
 You set off, Lumina trotting alongside you. The path out of Starlight Hollow led through fields of snow that should have sparkled like diamonds but instead looked... ordinary. Flat. Like someone had forgotten to add the magic.
 
@@ -32,7 +32,7 @@ As you walked, you noticed something strange. The further you got from the villa
 
 "The Frostwood Forest," Lumina said quietly, their voice barely above a whisper. "We're getting close. Can you feel it? The magic is thinner here. Like someone's been draining it away."
 
-You could feel it. The world around you felt less alive, less magical. Even the Memory Keeper in your hands seemed to dim slightly, its light struggling against the emptiness.
+You could feel it. The world around you felt less alive, less magical. Even the Keepsake Keeper in your hands seemed to dim slightly, its light struggling against the emptiness.
 
 In the distance, you could see the edge of the forest—tall, dark trees with branches heavy with snow that didn't sparkle at all. The forest looked ancient and foreboding, and you had the distinct feeling that it didn't want visitors.
 

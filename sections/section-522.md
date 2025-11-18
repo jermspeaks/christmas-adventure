@@ -12,11 +12,11 @@ choices:
 
 # Different Investigation
 
-You decided to investigate the Memory Keeper ornament from a different angle, thinking a fresh perspective might reveal something new. Instead of asking it questions directly, you observed it, studied it, tried to understand it in a different way.
+You decided to investigate the Keepsake Keeper ornament from a different angle, thinking a fresh perspective might reveal something new. Instead of asking it questions directly, you observed it, studied it, tried to understand it in a different way.
 
 *Maybe I'm missing something,* you thought. *Maybe I need to look at this differently.*
 
-The Memory Keeper's light pulsed in your hands, and you noticed something you hadn't before. The light wasn't just pulsing—it was pulsing in a pattern. A rhythm. A code, perhaps?
+The Keepsake Keeper's light pulsed in your hands, and you noticed something you hadn't before. The light wasn't just pulsing—it was pulsing in a pattern. A rhythm. A code, perhaps?
 
 *There's a pattern here,* you realized. *If I can understand it, I might learn something new.*
 
@@ -24,7 +24,7 @@ Lumina trotted closer, their eyes bright with curiosity. "What are you doing?" t
 
 *I am looking at it differently,* you thought. *And maybe that's what I needed to do.*
 
-The Memory Keeper's voice, when it spoke, sounded thoughtful. "You're seeing me differently," it said. "That's good. Sometimes a fresh perspective reveals what was always there, just hidden."
+The Keepsake Keeper's voice, when it spoke, sounded thoughtful. "You're seeing me differently," it said. "That's good. Sometimes a fresh perspective reveals what was always there, just hidden."
 
 *So there is something I was missing,* you realized. *Something I can only see from this angle.*
 

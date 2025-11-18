@@ -14,7 +14,7 @@ But breaking connections only made the magic fade from you. It required connecti
 
 *The magic is fading,* you thought. *It's leaving me.*
 
-The Memory Keeper's light dimmed. "You broke the connections," it said, its voice sad. "But the magic requires connection, sharing, togetherness. Without it, the magic fades. You broke them, and the magic left you, fading away completely."
+The Keepsake Keeper's light dimmed. "You broke the connections," it said, its voice sad. "But the magic requires connection, sharing, togetherness. Without it, the magic fades. You broke them, and the magic left you, fading away completely."
 
 *I broke them,* you realized. *I lost the magic.*
 

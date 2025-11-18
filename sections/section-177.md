@@ -22,7 +22,7 @@ You watched as Elara helped others, as she shared what she'd learned, as she gui
 
 Lumina trotted forward, their eyes bright. "The understanding is spreading," they said. "People are learning, they're connecting, they're sharing. They're understanding that the magic isn't about control—it's about connection, about memory, about emotion."
 
-The Memory Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion. And they're learning. They're understanding. They're connecting."
+The Keepsake Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion. And they're learning. They're understanding. They're connecting."
 
 *I'm teaching them,* you thought. *I'm helping them understand, helping them learn, helping them connect. And they're learning. They're understanding. They're connecting.*
 

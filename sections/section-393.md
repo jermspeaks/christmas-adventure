@@ -12,7 +12,7 @@ The world was restored. Christmas magic flowed freely, balanced, transformed. St
 
 *The world is restored,* you thought, looking around at the transformed world. *Not just restored, but transformed. Better than before, built on truth, not illusion.*
 
-The Memory Keeper pulsed warmly. "The world is restored," it said, its voice filled with satisfaction. "Not just restored, but transformed. Better than before, built on truth, not illusion. Christmas magic flows freely, balanced, transformed. This is the world as it should be."
+The Keepsake Keeper pulsed warmly. "The world is restored," it said, its voice filled with satisfaction. "Not just restored, but transformed. Better than before, built on truth, not illusion. Christmas magic flows freely, balanced, transformed. This is the world as it should be."
 
 *This is the world as it should be,* you realized. *Restored, transformed, better than before.*
 

@@ -14,7 +14,7 @@ But letting Kvothe lead when they weren't ready only made things worse. They bec
 
 *Maybe I should have helped more,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You stepped back too far," it said, its voice sad. "You let Kvothe lead when they weren't ready, but partnership requires balance, requires both people contributing. You stepped back, and Kvothe became overwhelmed, the magic became unstable, everything fell apart."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You stepped back too far," it said, its voice sad. "You let Kvothe lead when they weren't ready, but partnership requires balance, requires both people contributing. You stepped back, and Kvothe became overwhelmed, the magic became unstable, everything fell apart."
 
 *I stepped back too far,* you realized. *I let them lead when they weren't ready, and I lost everything.*
 

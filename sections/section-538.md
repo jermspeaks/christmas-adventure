@@ -14,7 +14,7 @@ You continued exploring, and you discovered the ultimate truth. The deepest trut
 
 *This is the ultimate truth,* you thought. *The deepest, the most important.*
 
-The Memory Keeper's light brightened completely, and you heard its voice, filled with wonder. "You've discovered it," it said. "The ultimate truth. The deepest understanding. This is what you needed to know."
+The Keepsake Keeper's light brightened completely, and you heard its voice, filled with wonder. "You've discovered it," it said. "The ultimate truth. The deepest understanding. This is what you needed to know."
 
 *I have discovered it,* you realized. *The ultimate truth, the deepest understanding.*
 

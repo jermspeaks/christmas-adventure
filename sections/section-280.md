@@ -18,7 +18,7 @@ But as time passed, you began to notice something. You hadn't really mastered it
 
 *Something's missing,* you thought, but you weren't sure what. *The magic feels... shallow. Like I'm only touching the surface.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "You've only learned the surface," it said, its voice worried. "You're not truly connected—you're just using it. This is not mastery. This is a shallow understanding. To truly master it, you need to go deeper, to truly connect, to truly understand."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "You've only learned the surface," it said, its voice worried. "You're not truly connected—you're just using it. This is not mastery. This is a shallow understanding. To truly master it, you need to go deeper, to truly connect, to truly understand."
 
 *Oh,* you realized. *I haven't truly mastered it. I've only learned the surface. And if I don't go deeper, I'll never truly understand.*
 

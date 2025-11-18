@@ -14,7 +14,7 @@ You continued decoding, and the message became complete. You understood the full
 
 *I understand it all now,* you thought. *The complete message, the full pattern, everything.*
 
-The Memory Keeper's light brightened, and you heard its voice, joyful. "You've decoded it!" it said. "The complete message! You understand everything I've been trying to tell you!"
+The Keepsake Keeper's light brightened, and you heard its voice, joyful. "You've decoded it!" it said. "The complete message! You understand everything I've been trying to tell you!"
 
 *I do understand,* you realized. *The complete message, everything.*
 

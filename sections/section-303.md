@@ -10,7 +10,7 @@ You went deeper, truly connecting, truly understanding, and you achieved partial
 
 *I understand it,* you thought, satisfaction mixed with humility. *Not perfectly, but I understand. I can't fully integrate it yet, but that's okay. Understanding is enough, and I can keep learning.*
 
-The Memory Keeper pulsed warmly. "You understand the new magic," it said, its voice thoughtful. "Not perfectly, but you understand. You can't fully integrate it yet, but that's okay. Understanding is enough, and you can keep learning. The magic is accessible, and that's what matters."
+The Keepsake Keeper pulsed warmly. "You understand the new magic," it said, its voice thoughtful. "Not perfectly, but you understand. You can't fully integrate it yet, but that's okay. Understanding is enough, and you can keep learning. The magic is accessible, and that's what matters."
 
 *I understand it,* you realized. *Not perfectly, but I understand. And that's enough.*
 

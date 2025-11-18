@@ -22,7 +22,7 @@ Kvothe's expression softened, and you saw relief in their eyes. "You'd do that?"
 
 Lumina trotted forward, their antlers catching the light. "We're all learning," they said. "We're all trying to figure out how to do this right. The important thing is that we're trying together, not alone."
 
-The Memory Keeper pulsed warmly, and you could feel its approval. "Connection," it said. "That's what this is about. Not doing things alone, but doing them together. Not hiding from mistakes, but learning from them. Not protecting people from disappointment, but helping them find strength."
+The Keepsake Keeper pulsed warmly, and you could feel its approval. "Connection," it said. "That's what this is about. Not doing things alone, but doing them together. Not hiding from mistakes, but learning from them. Not protecting people from disappointment, but helping them find strength."
 
 Kvothe smiled, and it was a real smile, warm and genuine. "Thank you," they said. "I don't know what I'm doing, but I know I want to help. And I know I don't want to do it alone."
 

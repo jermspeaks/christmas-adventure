@@ -10,7 +10,7 @@ You helped everyone go deeper, and some people truly understood. Not everyone—
 
 *Some people understand,* you thought, satisfaction mixed with realism. *Not everyone, but some. The magic is partially restored, and that's okay. Partial is enough, and we can keep working.*
 
-The Memory Keeper pulsed warmly. "Some people understand," it said, its voice thoughtful. "Not everyone, but some. The magic is partially restored to the community, and that's okay. Partial is enough, and you can keep working. The community is growing, and that's what matters."
+The Keepsake Keeper pulsed warmly. "Some people understand," it said, its voice thoughtful. "Not everyone, but some. The magic is partially restored to the community, and that's okay. Partial is enough, and you can keep working. The community is growing, and that's what matters."
 
 *Some people understand,* you realized. *Not everyone, but some. And that's enough.*
 

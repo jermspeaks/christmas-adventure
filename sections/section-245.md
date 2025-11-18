@@ -14,7 +14,7 @@ But giving up only made the community struggle more, lose hope, lose the magic. 
 
 *Everything is falling apart,* you thought. *I can't fix it.*
 
-The Memory Keeper's light dimmed. "You gave up," it said, its voice sad. "But communities need support, help, persistence. You gave up, and the community struggled, lost hope, lost the magic. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You gave up," it said, its voice sad. "But communities need support, help, persistence. You gave up, and the community struggled, lost hope, lost the magic. Everything fell apart."
 
 *I gave up,* you realized. *I destroyed everything.*
 

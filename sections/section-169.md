@@ -26,7 +26,7 @@ You closed your eyes and thought about your favorite Christmas memory—a moment
 
 Lumina trotted forward, their eyes bright. "The magic is different now," they said. "It's not about power anymore. It's about connection. It's about remembering, about sharing, about understanding that Christmas is about people, not perfection."
 
-The Memory Keeper pulsed warmly. "The magic has been transformed," it said. "It's been changed by understanding, by memory, by connection. It's stronger now, more resilient, because it's built on truth, not on the illusion of perfection. But it works differently. It requires connection, memory, emotion. It can't be controlled—it must be shared."
+The Keepsake Keeper pulsed warmly. "The magic has been transformed," it said. "It's been changed by understanding, by memory, by connection. It's stronger now, more resilient, because it's built on truth, not on the illusion of perfection. But it works differently. It requires connection, memory, emotion. It can't be controlled—it must be shared."
 
 *So I need to learn to work with it differently,* you thought. *I need to learn to connect, to remember, to share. I need to learn that the magic isn't about control—it's about connection.*
 

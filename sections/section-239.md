@@ -14,7 +14,7 @@ But forcing learning only made people resist more, rebel, reject you completely.
 
 *They're resisting more,* you thought. *The trust is broken.*
 
-The Memory Keeper's light dimmed. "You forced learning," it said, its voice sad. "But learning requires willingness, connection, trust. You forced it, and people resisted, the trust broke, the magic lost its connection power."
+The Keepsake Keeper's light dimmed. "You forced learning," it said, its voice sad. "But learning requires willingness, connection, trust. You forced it, and people resisted, the trust broke, the magic lost its connection power."
 
 *I forced it,* you realized. *I broke everything.*
 

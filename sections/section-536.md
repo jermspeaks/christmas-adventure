@@ -14,7 +14,7 @@ You continued exploring this perspective, and it revealed even deeper truth. Mor
 
 *There's even deeper truth,* you thought. *More important, more essential.*
 
-The Memory Keeper's light brightened, and you felt the deeper truth settling in. This perspective was revealing something even more important, even more essential.
+The Keepsake Keeper's light brightened, and you felt the deeper truth settling in. This perspective was revealing something even more important, even more essential.
 
 *This deeper truth is even more important,* you realized. *Even more essential.*
 

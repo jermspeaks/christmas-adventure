@@ -14,7 +14,7 @@ But forcing a role on Kvothe only made things worse. They felt trapped, controll
 
 *Maybe I should have let them discover it themselves,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its disappointment. "You forced a role on Kvothe," it said, its voice sad. "You didn't let them discover it themselves, didn't give them freedom to choose. But transformation requires freedom, requires discovery, requires choice. You forced it, and Kvothe rejected it, rejecting you, rejecting the magic."
+The Keepsake Keeper's light dimmed, and you could feel its disappointment. "You forced a role on Kvothe," it said, its voice sad. "You didn't let them discover it themselves, didn't give them freedom to choose. But transformation requires freedom, requires discovery, requires choice. You forced it, and Kvothe rejected it, rejecting you, rejecting the magic."
 
 *I forced it,* you realized. *I told them what they should be, and I lost them. I lost everything.*
 

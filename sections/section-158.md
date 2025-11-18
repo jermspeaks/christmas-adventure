@@ -22,7 +22,7 @@ Lumina trotted forward, their eyes bright. "You were protecting people from the 
 
 Kvothe nodded slowly. "I was afraid," they admitted. "Afraid of seeing people disappointed, afraid of watching the magic fail. But you showed me that failure isn't the end. That disappointment isn't the worst thing. The worst thing is not trying at all."
 
-The Memory Keeper pulsed warmly. "You have a new purpose now," it said. "Not as a guardian who locks things away, but as someone who helps magic flow, who helps people find joy, who helps the world remember what Christmas really means."
+The Keepsake Keeper pulsed warmly. "You have a new purpose now," it said. "Not as a guardian who locks things away, but as someone who helps magic flow, who helps people find joy, who helps the world remember what Christmas really means."
 
 Kvothe looked at you, and you saw determination in their eyes. "I want to help," they said. "I want to help the magic find balance. I want to help people understand that Christmas isn't about perfection—it's about connection, about trying, about finding joy even when things aren't perfect."
 

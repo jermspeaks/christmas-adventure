@@ -22,7 +22,7 @@ Kvothe stood beside you, their transformation complete. They no longer looked li
 
 "I remember now," they said, their voice filled with emotion. "I remember what Christmas really means. It's not about perfect magic or flawless celebrations. It's about connection. It's about finding joy even when things are hard. It's about remembering that we're not alone."
 
-The Memory Keeper's light had changed, too. It was no longer just bright—it was warm, infused with the memories and emotions that Kvothe had shared. "The magic is different now," it said. "It's been transformed by Kvothe's understanding, by their memories, by their realization that Christmas is about connection, not perfection. This magic will be stronger, more resilient, because it's built on truth, not on the illusion of perfection."
+The Keepsake Keeper's light had changed, too. It was no longer just bright—it was warm, infused with the memories and emotions that Kvothe had shared. "The magic is different now," it said. "It's been transformed by Kvothe's understanding, by their memories, by their realization that Christmas is about connection, not perfection. This magic will be stronger, more resilient, because it's built on truth, not on the illusion of perfection."
 
 You looked toward Starlight Hollow, and you could see the difference. The lights weren't just bright—they were warm, inviting, each one carrying a sense of welcome, of belonging. The magic wasn't overwhelming or chaotic—it was balanced, steady, infused with the understanding that Christmas magic comes from people coming together, not from some external force.
 

@@ -12,11 +12,11 @@ choices:
 
 # Working Together
 
-You and Kvothe began to work together, and you could feel the difference it made. Kvothe's understanding of the magic's nature, combined with your connection to the Memory Keeper and the Christmas spirit, created something stronger than either of you could have done alone.
+You and Kvothe began to work together, and you could feel the difference it made. Kvothe's understanding of the magic's nature, combined with your connection to the Keepsake Keeper and the Christmas spirit, created something stronger than either of you could have done alone.
 
 *This is what it should be,* you thought, watching as Kvothe helped guide the magic, as they used their understanding of balance to help the magic find its way. *Not one person trying to do everything, but people working together, each bringing their own strengths.*
 
-Lumina trotted alongside you, their presence calming, their connection to the natural world helping the magic understand its place. The Memory Keeper pulsed warmly in your hands, channeling your intent, your connection with Kvothe, your shared purpose.
+Lumina trotted alongside you, their presence calming, their connection to the natural world helping the magic understand its place. The Keepsake Keeper pulsed warmly in your hands, channeling your intent, your connection with Kvothe, your shared purpose.
 
 "It's working," Kvothe said, their voice filled with wonder. "The magic is responding. It's learning to balance, to share, to flow. And I'm... I'm helping. I'm actually helping."
 

@@ -14,7 +14,7 @@ But forcing the magic to share only made it rebel. It became more resistant, mor
 
 *I forced it,* you realized. *I broke it.*
 
-The Memory Keeper's light dimmed. "You forced the magic," it said, its voice sad. "You tried to make it share, but magic must learn to share. It cannot be forced. You forced it, and it rebelled, becoming permanently broken."
+The Keepsake Keeper's light dimmed. "You forced the magic," it said, its voice sad. "You tried to make it share, but magic must learn to share. It cannot be forced. You forced it, and it rebelled, becoming permanently broken."
 
 *I forced it,* you realized. *I broke the magic.*
 

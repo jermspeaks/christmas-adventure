@@ -13,7 +13,7 @@ But breaking trust only made people resist completely, reject you, cut you off. 
 
 *They're rejecting me,* you thought. *The magic is losing power.*
 
-The Memory Keeper's light dimmed. "You broke trust," it said, its voice sad. "But magic requires trust, connection, togetherness. You broke it, and people rejected you, the magic lost its connection power. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You broke trust," it said, its voice sad. "But magic requires trust, connection, togetherness. You broke it, and people rejected you, the magic lost its connection power. Everything fell apart."
 
 *I broke the trust,* you realized. *I destroyed everything.*
 

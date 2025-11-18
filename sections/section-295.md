@@ -18,7 +18,7 @@ But as time passed, you began to notice something. The celebration wasn't really
 
 *Something's not right,* you thought, but you weren't sure what. *There are problems being ignored. Issues being hidden.*
 
-The Memory Keeper pulsed softly, and you could feel its concern. "Underlying issues are being ignored," it said, its voice worried. "Problems are being hidden, not addressed. This is not a solution. This is a delay. When the celebration ends, the problems will emerge, and they will be worse than before."
+The Keepsake Keeper pulsed softly, and you could feel its concern. "Underlying issues are being ignored," it said, its voice worried. "Problems are being hidden, not addressed. This is not a solution. This is a delay. When the celebration ends, the problems will emerge, and they will be worse than before."
 
 *Oh no,* you realized. *The celebration isn't perfect. Problems are being ignored. And when they emerge, they'll be worse.*
 

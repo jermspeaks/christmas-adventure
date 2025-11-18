@@ -14,7 +14,7 @@ But giving up only made the magic remain misunderstood, fading away. People neve
 
 *The magic is fading,* you thought. *It's going away.*
 
-The Memory Keeper's light dimmed. "You gave up," it said, its voice sad. "But teaching requires persistence, patience, connection. You gave up, and the magic remained misunderstood, fading away completely."
+The Keepsake Keeper's light dimmed. "You gave up," it said, its voice sad. "But teaching requires persistence, patience, connection. You gave up, and the magic remained misunderstood, fading away completely."
 
 *I gave up,* you realized. *I lost the magic.*
 

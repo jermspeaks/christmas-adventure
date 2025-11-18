@@ -26,7 +26,7 @@ Their voice broke, and you saw tears in their eyes—real tears, not the cold em
 
 Kvothe looked at you, and you saw something shift in their expression. The coldness began to melt away, replaced by something warm and fragile. "I remember," they whispered. "I remember the warmth. The laughter. The way my mother's voice sounded when she sang. I remember... I remember what it felt like to believe."
 
-As they spoke, the Memory Keeper in your hands began to glow brighter, and you saw images appearing in the air around you—not just Christmas scenes, but Kvothe's memories. A small child being lifted up to place a star on a tree. A mother singing carols. A father laughing. The warmth of a family, the joy of togetherness.
+As they spoke, the Keepsake Keeper in your hands began to glow brighter, and you saw images appearing in the air around you—not just Christmas scenes, but Kvothe's memories. A small child being lifted up to place a star on a tree. A mother singing carols. A father laughing. The warmth of a family, the joy of togetherness.
 
 The magic began to flow from the vault, but it was different this time. It wasn't just light—it was memory, it was emotion, it was the essence of all the Christmases that had ever been. And as it flowed, Kvothe began to change. The shadows that had cloaked them began to fade, revealing someone who looked... human. Warm. Alive.
 

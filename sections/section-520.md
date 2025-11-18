@@ -22,7 +22,7 @@ You watched the village, and you began to notice patterns. The lights flickered 
 
 *There's a pattern here,* you realized. *If I can understand it, I can help better.*
 
-The Memory Keeper's light pulsed softly in your hands. "Observation is wise," it said. "But don't wait too long. The magic is fading, and time is running out."
+The Keepsake Keeper's light pulsed softly in your hands. "Observation is wise," it said. "But don't wait too long. The magic is fading, and time is running out."
 
 *I need to balance observation with action,* you thought. *I need to learn, but I also need to act.*
 

@@ -12,7 +12,7 @@ The final push succeeded. All the combined approaches, all the merged solutions,
 
 *We did it,* you thought, joy flooding through you. *We achieved true resolution. Everything is perfect, truly resolved, truly complete.*
 
-The Memory Keeper pulsed brightly. "True resolution has been achieved," it said, its voice filled with joy. "All the combined approaches, all the merged solutions, all the strengthened connections—they all came together, achieving true resolution. This is true success."
+The Keepsake Keeper pulsed brightly. "True resolution has been achieved," it said, its voice filled with joy. "All the combined approaches, all the merged solutions, all the strengthened connections—they all came together, achieving true resolution. This is true success."
 
 *We did it,* you realized. *True resolution. This is what we worked for.*
 

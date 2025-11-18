@@ -14,7 +14,7 @@ But leaving Kvothe alone only made things worse. They became lost, overwhelmed, 
 
 *Maybe I should have stayed,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its sadness. "You abandoned Kvothe," it said, its voice sad. "You left them alone, thinking they needed to do it themselves. But transformation requires support, requires help, requires connection. You abandoned them, and they became lost, losing hope, losing the magic, losing everything."
+The Keepsake Keeper's light dimmed, and you could feel its sadness. "You abandoned Kvothe," it said, its voice sad. "You left them alone, thinking they needed to do it themselves. But transformation requires support, requires help, requires connection. You abandoned them, and they became lost, losing hope, losing the magic, losing everything."
 
 *I abandoned them,* you realized. *I left them alone, and I lost them. I lost everything.*
 

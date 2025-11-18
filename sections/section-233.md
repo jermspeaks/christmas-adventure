@@ -14,7 +14,7 @@ But hoarding knowledge only made the magic fade. It required sharing, teaching, 
 
 *The magic is fading,* you thought. *It's getting weaker.*
 
-The Memory Keeper's light dimmed. "You hoarded the knowledge," it said, its voice sad. "But magic requires sharing, teaching, connection. Without it, the magic fades. You hoarded it, and the magic faded away completely."
+The Keepsake Keeper's light dimmed. "You hoarded the knowledge," it said, its voice sad. "But magic requires sharing, teaching, connection. Without it, the magic fades. You hoarded it, and the magic faded away completely."
 
 *I hoarded it,* you realized. *I lost the magic.*
 

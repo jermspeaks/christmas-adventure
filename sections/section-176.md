@@ -30,7 +30,7 @@ Elara closed her eyes, and you watched as she thought about a memory. Slowly, th
 
 Lumina trotted forward, their eyes bright. "You're learning," they said. "You're understanding that the magic is about connection, about memory, about emotion. You're learning to share, not to control. You're learning that the magic is stronger when it's shared, when it's connected, when it's built on truth."
 
-The Memory Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion."
+The Keepsake Keeper pulsed warmly. "You're teaching them," it said. "You're helping them understand, helping them learn, helping them connect. You're showing them that the magic isn't about control—it's about connection, about memory, about emotion."
 
 *I'm teaching them,* you thought. *I'm helping them understand, helping them learn, helping them connect. I'm showing them that the magic isn't about control—it's about connection, about memory, about emotion.*
 

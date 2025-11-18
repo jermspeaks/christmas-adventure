@@ -20,7 +20,7 @@ But you also knew that this was delicate. The magic was still learning, still fi
 
 *This is going to take time,* you realized. *The magic isn't going to learn overnight. It's going to need guidance, patience, understanding. It's going to need someone to help it find balance, to help it learn to share.*
 
-The Memory Keeper pulsed thoughtfully in your hands. "The magic is learning," it said. "But learning takes time. It needs guidance, patience, understanding. It needs someone to help it find balance, to help it learn to share, to help it remember that the strongest magic is the magic that's connected, that's balanced, that's shared."
+The Keepsake Keeper pulsed thoughtfully in your hands. "The magic is learning," it said. "But learning takes time. It needs guidance, patience, understanding. It needs someone to help it find balance, to help it learn to share, to help it remember that the strongest magic is the magic that's connected, that's balanced, that's shared."
 
 Lumina trotted forward, their eyes bright. "The magic is finding its way," they said. "But it's not there yet. It still needs help, still needs guidance. It still needs someone to show it the way."
 

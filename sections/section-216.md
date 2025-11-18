@@ -14,7 +14,7 @@ But abandoning Kvothe only made things worse. They became completely lost, unabl
 
 *Maybe I should have stayed,* you thought, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its deep sadness. "You abandoned Kvothe," it said, its voice heavy with sorrow. "You gave up when things got difficult, but transformation requires persistence, requires commitment, requires not giving up. You abandoned them, and they became completely lost, losing all hope, losing the magic, losing everything."
+The Keepsake Keeper's light dimmed, and you could feel its deep sadness. "You abandoned Kvothe," it said, its voice heavy with sorrow. "You gave up when things got difficult, but transformation requires persistence, requires commitment, requires not giving up. You abandoned them, and they became completely lost, losing all hope, losing the magic, losing everything."
 
 *I abandoned them,* you realized. *I gave up, and I lost everything.*
 

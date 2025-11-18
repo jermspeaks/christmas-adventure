@@ -14,7 +14,7 @@ But giving up only made things worse. The magic became permanently unstable, una
 
 *I gave up,* you realized. *I lost everything.*
 
-The Memory Keeper's light dimmed. "You gave up," it said, its voice sad. "You stopped trying, but magic needs guidance. Without it, it became permanently unstable, unable to find balance. Everything fell apart."
+The Keepsake Keeper's light dimmed. "You gave up," it said, its voice sad. "You stopped trying, but magic needs guidance. Without it, it became permanently unstable, unable to find balance. Everything fell apart."
 
 *I gave up,* you realized. *I lost everything.*
 

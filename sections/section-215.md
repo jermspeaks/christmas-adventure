@@ -14,7 +14,7 @@ But pushing Kvothe too hard only made things worse. They reached their breaking 
 
 *I pushed too hard,* you realized, but it was too late.
 
-The Memory Keeper's light dimmed, and you could feel its sadness. "You pushed Kvothe too hard," it said, its voice sad. "You gave them too much responsibility too quickly, but everyone has limits. Growth takes time, requires patience, understanding. You pushed too hard, and Kvothe reached their breaking point, losing themselves, losing the magic, losing everything."
+The Keepsake Keeper's light dimmed, and you could feel its sadness. "You pushed Kvothe too hard," it said, its voice sad. "You gave them too much responsibility too quickly, but everyone has limits. Growth takes time, requires patience, understanding. You pushed too hard, and Kvothe reached their breaking point, losing themselves, losing the magic, losing everything."
 
 *I pushed too hard,* you realized. *I broke them, and I lost everything.*
 

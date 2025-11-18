@@ -14,7 +14,7 @@ Kvothe looked at you, their expression a mixture of gratitude and uncertainty. "
 
 *They're not fully transformed,* you realized. *The magic is restored, but Kvothe's transformation is incomplete.*
 
-The Memory Keeper's light pulsed softly. "The magic is restored," it said. "But Kvothe's transformation is incomplete. They helped, they worked with you, but they're not fully themselves yet. The world has magic again, but Kvothe is still struggling."
+The Keepsake Keeper's light pulsed softly. "The magic is restored," it said. "But Kvothe's transformation is incomplete. They helped, they worked with you, but they're not fully themselves yet. The world has magic again, but Kvothe is still struggling."
 
 *I should have helped them more,* you thought. *I should have ensured their transformation was complete.*
 

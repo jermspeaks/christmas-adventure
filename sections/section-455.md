@@ -18,7 +18,7 @@ But as the magic began to flow, you realized something was wrong. The connection
 
 *This isn't working,* you thought. *We're not truly united.*
 
-The Memory Keeper's light flickered, and you heard its voice, worried. "You're not truly united," it said. "You're going through the motions, but you're not really working together. The vault requires genuine unity, true cooperation, real shared purpose."
+The Keepsake Keeper's light flickered, and you heard its voice, worried. "You're not truly united," it said. "You're going through the motions, but you're not really working together. The vault requires genuine unity, true cooperation, real shared purpose."
 
 *We need to truly unite,* you realized. *We need to really work together.*
 
