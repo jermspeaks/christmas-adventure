@@ -99,33 +99,6 @@ Each section shows:
 
 ---
 
-## section-50.md - "Confronting Marcus with Evidence"
-
-- Choice 2: "Let Officer Martinez handle the confrontation" → `section-81.md` ⚠️ **MISSING**
-
-**Missing Targets:**
-- `section-81.md`
-
----
-
-## section-51.md - "Gathering Final Proof"
-
-- Choice 3: "Check the handwriting on the torn note" → `section-85.md` ⚠️ **MISSING**
-
-**Missing Targets:**
-- `section-85.md`
-
----
-
-## section-52.md - "Presenting to Officer Martinez"
-
-- Choice 3: "Ask to be part of the official investigation" → `section-88.md` ⚠️ **MISSING**
-
-**Missing Targets:**
-- `section-88.md`
-
----
-
 ## section-53.md - "Pressing Marcus on His Alibi"
 
 - Choice 1: "Keep questioning him until he breaks" → `section-95.md` ⚠️ **MISSING**
@@ -220,12 +193,10 @@ Each section shows:
 ## section-580.md - "Rushed Understanding"
 
 - Choice 1: "Slow down and help Kvothe process one memory at a time" → `section-581.md` ⚠️ **MISSING**
-- Choice 2: "Continue trying to explain everything quickly" → `section-582.md` ⚠️ **MISSING**
 - Choice 3: "Realize the mistake and step back" → `section-583.md` ⚠️ **MISSING**
 
 **Missing Targets:**
 - `section-581.md`
-- `section-582.md`
 - `section-583.md`
 
 ---
@@ -390,12 +361,10 @@ Each section shows:
 
 - Choice 1: "Notice the global patterns and share your observations" → `section-711.md` ⚠️ **MISSING**
 - Choice 2: "Focus on helping the world adjust to the changes" → `section-712.md` ⚠️ **MISSING**
-- Choice 3: "Return to Starlight Hollow to address local issues" → `section-713.md` ⚠️ **MISSING**
 
 **Missing Targets:**
 - `section-711.md`
 - `section-712.md`
-- `section-713.md`
 
 ---
 
@@ -481,20 +450,18 @@ Each section shows:
 
 - Choice 1: "Use the stories to understand the pattern" → `section-781.md` ⚠️ **MISSING**
 - Choice 2: "Help the townspeople see the pattern themselves" → `section-782.md` ⚠️ **MISSING**
-- Choice 3: "Work together to create a solution based on the stories" → `section-783.md` ⚠️ **MISSING**
 
 **Missing Targets:**
 - `section-781.md`
 - `section-782.md`
-- `section-783.md`
 
 ---
 
 
 ## Summary
 
-Total sections with unfinished branches: **38**
+Total sections with unfinished branches: **35**
 
-Total unfinished choice targets: **108**
+Total unfinished choice targets: **102**
 
-Unique missing target files: **108**
+Unique missing target files: **102**

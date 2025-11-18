@@ -2,10 +2,12 @@
 id: section-525
 title: "Pattern Recognition"
 choices:
-  - text: "Continue investigating the pattern"
-    target: section-529.md
-  - text: "Use the pattern to help the Keepsake Keeper"
-    target: section-10.md
+  - text: "Continue investigating obsessively"
+    target: section-404.md
+  - text: "Use what you learned to gather more information"
+    target: section-11.md
+  - text: "Use what you learned and proceed to the forest"
+    target: section-12.md
 ---
 
 # Pattern Recognition

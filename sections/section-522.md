@@ -2,12 +2,14 @@
 id: section-522
 title: "Different Investigation"
 choices:
-  - text: "Continue investigating from this angle"
+  - text: "Continue investigating the pattern"
     target: section-525.md
-  - text: "Return to the original investigation method"
-    target: section-10.md
-  - text: "Try yet another approach"
-    target: section-526.md
+  - text: "Realize you're wasting time and gather information instead"
+    target: section-11.md
+  - text: "Give up investigating and head to the forest"
+    target: section-12.md
+  - text: "Continue investigating obsessively"
+    target: section-404.md
 ---
 
 # Different Investigation
