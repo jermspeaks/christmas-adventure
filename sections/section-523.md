@@ -2,9 +2,11 @@
 id: section-523
 title: "Careful Observation"
 choices:
-  - text: "Continue observing and learning"
-    target: section-527.md
-  - text: "Decide you've learned enough and proceed"
+  - text: "Continue observing obsessively"
+    target: section-404.md
+  - text: "Enter the village and explore"
+    target: section-8.md
+  - text: "Apply what you've learned and proceed"
     target: section-9.md
 ---
 

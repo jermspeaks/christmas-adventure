@@ -4,9 +4,11 @@ title: "Cautious Exploration"
 choices:
   - text: "Continue observing carefully"
     target: section-523.md
-  - text: "Decide you've observed enough and proceed"
-    target: section-9.md
+  - text: "Enter the village and explore"
+    target: section-8.md
   - text: "Become too cautious and hesitate"
+    target: section-404.md
+  - text: "Continue observing obsessively"
     target: section-404.md
 ---
 
