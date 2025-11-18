@@ -9,17 +9,6 @@ Each section shows:
 
 ---
 
-## section-10.md - "Branching Paths"
-
-- Choice 1: "Continue toward the Frostwood Forest" → `section-12.md`
-- Choice 2: "Try a different approach - gather more information first" → `section-11.md` ⚠️ **DUPLICATE**
-- Choice 3: "Return to Cheshire to share what you've learned" → `section-11.md` ⚠️ **DUPLICATE**
-
-**Duplicate Targets:**
-- `section-11.md` appears in choices: 2, 3
-
----
-
 ## section-150.md - "Chaos in Starlight Hollow"
 
 - Choice 1: "Talk to the townspeople to understand what's happening" → `section-151.md` ⚠️ **DUPLICATE**
@@ -234,6 +223,6 @@ Each section shows:
 
 ## Summary
 
-Total sections with duplicate choice targets: **19**
+Total sections with duplicate choice targets: **18**
 
-Total duplicate target groups: **19**
+Total duplicate target groups: **18**

@@ -6,8 +6,6 @@ choices:
     target: section-12.md
   - text: "Try a different approach - gather more information first"
     target: section-11.md
-  - text: "Return to Cheshire to share what you've learned"
-    target: section-11.md
 ---
 
 # Branching Paths
