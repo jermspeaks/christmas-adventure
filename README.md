@@ -86,6 +86,46 @@ The web version uses **Preact** (a lightweight React alternative) with **Vite** 
 - Small bundle size (~3KB for Preact vs ~40KB for React)
 - Modern development experience
 
+### UI Features
+
+The web application provides three main views accessible through the header navigation:
+
+#### Game View (Main Play Mode)
+
+- **Story Display**: Shows the current section's title and content with formatted markdown
+- **Choice Buttons**: Interactive buttons for each available choice that navigate to the next section
+- **Ending Detection**: Automatically displays "The End" for sections with no choices
+- **Auto-scroll**: Automatically scrolls to the top when navigating to a new section
+- **Start Over Button**: Resets the adventure to the beginning (section-1)
+
+#### Visualization/Map View
+
+- **Interactive Graph**: Visual representation of all story sections as nodes in a graph
+- **Connection Lines**: Shows arrows connecting sections based on choices, making it easy to see story paths
+- **Section Details**: Each node displays the section title and lists all available choices with their targets
+- **Automatic Layout**: Uses dagre graph layout algorithm to automatically arrange sections in a readable hierarchy
+- **Terminal Endings**: Clearly marked sections that have no outgoing choices
+- **Navigation**: Click "View Map" from the game view to see the complete story structure
+
+#### Branches View
+
+- **Complete Paths**: Lists all possible story paths from the starting section to terminal endings
+- **Expandable Branches**: Each complete branch can be expanded or collapsed
+- **Section Details**: Within each branch, individual sections can be expanded to view:
+  - Section title and content
+  - The choice that led to this section (if not the starting section)
+  - All available choices from this section
+  - Section file reference
+- **Bulk Actions**: "Expand All" / "Collapse All" button for each branch to quickly view or hide all sections
+- **Path Statistics**: Shows the number of sections in each branch and where it ends
+- **Continuity Review**: Perfect for reviewing story continuity and ensuring all paths make narrative sense
+
+#### Navigation
+
+- **Hash-based Routing**: Uses URL hash fragments (`#/`, `#/visualization`, `#/branches`) for navigation
+- **Header Navigation**: Consistent header with navigation buttons available in all views
+- **View Switching**: Easy switching between game, map, and branches views without losing your place
+
 ### Section Format
 Each section file should:
 - Have a unique `id` in the frontmatter
