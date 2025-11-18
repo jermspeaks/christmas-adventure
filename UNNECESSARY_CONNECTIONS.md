@@ -11,53 +11,6 @@ This file documents all sections that have more than 3 incoming connections, vio
 
 ---
 
-## section-10.md - "Branching Paths"
-
-**Section ID:** `section-10`
-
-**Total Incoming Connections:** **12** (exceeds limit of 3)
-
-### All Incoming Connections
-
-1. From `section-522.md` - "Different Investigation"
-   - Choice text: "Return to the original investigation method"
-2. From `section-525.md` - "Pattern Recognition"
-   - Choice text: "Use the pattern to help the Keepsake Keeper"
-3. From `section-526.md` - "Another Approach"
-   - Choice text: "Return to a previous method"
-4. From `section-529.md` - "Decoding the Pattern"
-   - Choice text: "Use what you've decoded so far"
-5. From `section-530.md` - "New Perspective"
-   - Choice text: "Return to previous methods"
-6. From `section-532.md` - "Complete Message"
-   - Choice text: "Use the complete decoded message"
-7. From `section-533.md` - "Revealed Truth"
-   - Choice text: "Use this revealed truth"
-8. From `section-535.md` - "Verification"
-   - Choice text: "Verify the message is complete"
-9. From `section-536.md` - "Deeper Truth"
-   - Choice text: "Use the truth you've discovered"
-10. From `section-537.md` - "Complete Verification"
-   - Choice text: "Confirm the message is complete and use it"
-11. From `section-538.md` - "Ultimate Truth"
-   - Choice text: "Use the ultimate truth you've discovered"
-12. From `section-9.md` - "A New Discovery"
-   - Choice text: "Share the discovery with Cheshire"
-
-### Redundancy Analysis
-
-**Similar Choice Texts (potential redundancy):**
-
-- Similar choices (representative: "Return to a previous method") appear 2 times from:
-  - `section-526.md`
-  - `section-530.md`
-
-- Similar choices (representative: "Use the truth you've discovered") appear 2 times from:
-  - `section-536.md`
-  - `section-538.md`
-
----
-
 ## section-9.md - "A New Discovery"
 
 **Section ID:** `section-9`
@@ -148,16 +101,26 @@ This file documents all sections that have more than 3 incoming connections, vio
    - Choice text: "Waste too much time gathering information"
 2. From `section-520.md` - "Cautious Exploration"
    - Choice text: "Become too cautious and hesitate"
-3. From `section-534.md` - "Over-Learning"
+3. From `section-522.md` - "Different Investigation"
+   - Choice text: "Continue investigating obsessively"
+4. From `section-525.md` - "Pattern Recognition"
+   - Choice text: "Continue investigating obsessively"
+5. From `section-534.md` - "Over-Learning"
    - Choice text: "Continue learning - you think you need more"
-4. From `section-537.md` - "Complete Verification"
-   - Choice text: "Continue verifying - you're not sure yet"
-5. From `section-538.md` - "Ultimate Truth"
-   - Choice text: "Continue exploring - there might be more"
 
 ### Redundancy Analysis
 
-*No obvious redundancy patterns detected.*
+**Exact Duplicate Choice Texts:**
+
+- Choice text "Continue investigating obsessively" appears 2 times from:
+  - `section-522.md`
+  - `section-525.md`
+
+**Similar Choice Texts (potential redundancy):**
+
+- Similar choices (representative: "Continue investigating obsessively") appear 2 times from:
+  - `section-522.md`
+  - `section-525.md`
 
 ---
 
@@ -204,6 +167,52 @@ This file documents all sections that have more than 3 incoming connections, vio
    - Choice text: "Accept the guide's help"
 5. From `section-7.md` - "Understanding the Problem"
    - Choice text: "Start the quest immediately"
+
+### Redundancy Analysis
+
+*No obvious redundancy patterns detected.*
+
+---
+
+## section-12.md - "Toward the Frostwood Forest"
+
+**Section ID:** `section-12`
+
+**Total Incoming Connections:** **4** (exceeds limit of 3)
+
+### All Incoming Connections
+
+1. From `section-10.md` - "Branching Paths"
+   - Choice text: "Continue toward the Frostwood Forest"
+2. From `section-11.md` - "Gathering Information"
+   - Choice text: "Ask Cheshire about the Frostwood Forest"
+3. From `section-522.md` - "Different Investigation"
+   - Choice text: "Give up investigating and head to the forest"
+4. From `section-525.md` - "Pattern Recognition"
+   - Choice text: "Use what you learned and proceed to the forest"
+
+### Redundancy Analysis
+
+*No obvious redundancy patterns detected.*
+
+---
+
+## section-11.md - "Gathering Information"
+
+**Section ID:** `section-11`
+
+**Total Incoming Connections:** **4** (exceeds limit of 3)
+
+### All Incoming Connections
+
+1. From `section-10.md` - "Branching Paths"
+   - Choice text: "Try a different approach - gather more information first"
+2. From `section-450.md` - "Missing Information"
+   - Choice text: "Realize you're missing something crucial"
+3. From `section-522.md` - "Different Investigation"
+   - Choice text: "Realize you're wasting time and gather information instead"
+4. From `section-525.md` - "Pattern Recognition"
+   - Choice text: "Use what you learned to gather more information"
 
 ### Redundancy Analysis
 
@@ -282,15 +291,14 @@ This file documents all sections that have more than 3 incoming connections, vio
 
 ## Summary
 
-Total over-connected sections: **9**
+Total over-connected sections: **10**
 
 **Distribution by connection count:**
-- 12 connections: **1** sections
 - 7 connections: **1** sections
 - 6 connections: **1** sections
 - 5 connections: **3** sections
-- 4 connections: **3** sections
+- 4 connections: **5** sections
 
 **Potential redundant connections:**
-- Exact duplicate choice texts: **5** connections could be removed
-- Similar choice texts: **8** connections might be redundant
+- Exact duplicate choice texts: **6** connections could be removed
+- Similar choice texts: **7** connections might be redundant
