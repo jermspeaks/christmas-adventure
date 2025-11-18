@@ -321,7 +321,9 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         f.write("# Choose Your Own Christmas Adventure\n\n")
         f.write(f"*Generated on {datetime.now().strftime('%Y-%m-%d')}*\n\n")
         
-        for section in sorted_sections:
+        for i, section in enumerate(sorted_sections):
+            if i > 0:
+                f.write("\\newpage\n\n")
             f.write(f"\n\n---\n\n")
             f.write(section['content'])
             f.write("\n\n")
@@ -351,8 +353,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             temp_md,
             '-o', output_file,
             '-V', 'geometry:margin=1in',
-            '-V', 'fontsize=11pt',
-            '--toc'
+            '-V', 'fontsize=11pt'
         ]
     else:
         cmd = [
@@ -361,8 +362,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             '-o', output_file,
             f'--pdf-engine={pdf_engine}',
             '-V', 'geometry:margin=1in',
-            '-V', 'fontsize=11pt',
-            '--toc'
+            '-V', 'fontsize=11pt'
         ]
     
     try:

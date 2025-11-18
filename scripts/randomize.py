@@ -59,12 +59,23 @@ def scan_sections(sections_dir):
     return sections
 
 def assign_random_pages(sections, start_page=1):
-    """Assign random page numbers to sections."""
+    """Assign random page numbers to sections.
+    Always assigns section-1 to page 1, then randomly shuffles the rest."""
     section_ids = list(sections.keys())
-    random.shuffle(section_ids)
+    
+    # Always keep section-1 as the first page
+    starting_section = 'section-1'
+    other_sections = [sid for sid in section_ids if sid != starting_section]
+    random.shuffle(other_sections)
+    
+    # Build ordered list: section-1 first (if it exists), then shuffled rest
+    if starting_section in sections:
+        ordered_sections = [starting_section] + other_sections
+    else:
+        ordered_sections = other_sections
     
     page_mapping = {}
-    for idx, section_id in enumerate(section_ids, start=start_page):
+    for idx, section_id in enumerate(ordered_sections, start=start_page):
         page_mapping[section_id] = {
             'page': idx,
             'filename': sections[section_id]['filename'],
