@@ -4,10 +4,6 @@ title: "First Steps"
 choices:
   - text: "Follow the path toward the village"
     target: section-9.md
-  - text: "Investigate the flickering lights"
-    target: section-9.md
-  - text: "Talk to someone in the village"
-    target: section-9.md
   - text: "Ignore Cheshire's warnings and rush ahead alone"
     target: section-403.md
   - text: "Explore cautiously, taking time to observe"

@@ -157,36 +157,11 @@ Each section shows:
 
 ---
 
-## section-8.md - "First Steps"
 
-- Choice 1: "Follow the path toward the village" → `section-9.md` ⚠️ **DUPLICATE**
-- Choice 2: "Investigate the flickering lights" → `section-9.md` ⚠️ **DUPLICATE**
-- Choice 3: "Talk to someone in the village" → `section-9.md` ⚠️ **DUPLICATE**
-- Choice 4: "Ignore Cheshire's warnings and rush ahead alone" → `section-403.md`
-- Choice 5: "Explore cautiously, taking time to observe" → `section-520.md`
-- Choice 6: "Rush recklessly into the village" → `section-521.md`
-
-**Duplicate Targets:**
-- `section-9.md` appears in choices: 1, 2, 3
-
----
-
-## section-9.md - "A New Discovery"
-
-- Choice 1: "Continue investigating the ornament" → `section-10.md` ⚠️ **DUPLICATE**
-- Choice 2: "Share the discovery with Cheshire" → `section-10.md` ⚠️ **DUPLICATE**
-- Choice 3: "Take action based on what you found" → `section-10.md` ⚠️ **DUPLICATE**
-- Choice 4: "Ignore the Keepsake Keeper's warning and dismiss it" → `section-400.md`
-- Choice 5: "Investigate the ornament from a different angle" → `section-522.md`
-
-**Duplicate Targets:**
-- `section-10.md` appears in choices: 1, 2, 3
-
----
 
 
 ## Summary
 
-Total sections with duplicate choice targets: **15**
+Total sections with duplicate choice targets: **13**
 
-Total duplicate target groups: **15**
+Total duplicate target groups: **13**

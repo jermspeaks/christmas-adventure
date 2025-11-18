@@ -2,11 +2,7 @@
 id: section-9
 title: "A New Discovery"
 choices:
-  - text: "Continue investigating the ornament"
-    target: section-10.md
   - text: "Share the discovery with Cheshire"
-    target: section-10.md
-  - text: "Take action based on what you found"
     target: section-10.md
   - text: "Ignore the Keepsake Keeper's warning and dismiss it"
     target: section-400.md
@@ -35,4 +31,3 @@ You felt a tingle of excitement mixed with apprehension. *This is it. This is th
 The ornament's light flickered, and you noticed it was getting dimmer. "I don't have much power left. But I can guide you, if you're willing to help restore the magic. Will you help us?"
 
 What do you do?
-
