@@ -5,11 +5,13 @@
   "scripts": {
     "randomize": "node scripts/randomize.js",
     "compile": "node scripts/compile.js",
-    "dev": "node scripts/dev-server.js",
-    "build": "npm run compile && vite build",
-    "preview": "vite preview --port 4100"
+    "dev": "node scripts/dev-server-astro.js",
+    "build": "npm run compile && astro build",
+    "preview": "astro preview --port 4100"
   },
   "dependencies": {
+    "@astrojs/preact": "^4.1.3",
+    "astro": "^5.15.9",
     "dagre": "^0.8.5",
     "front-matter": "^4.0.2",
     "markdown-it": "^14.1.0",

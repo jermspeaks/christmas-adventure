@@ -47,16 +47,25 @@ body:has(.branches-container) {
     font-size: 1.5em;
 }
 
-#reset-btn {
-    background-color: #c41e3a;
-    color: white;
-    border: none;
+#reset-btn,
+#map-btn,
+#back-btn,
+#branches-btn {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
     padding: 10px 20px;
     font-size: 1em;
     cursor: pointer;
     border-radius: 4px;
     font-family: Georgia, serif;
     transition: background-color 0.3s;
+    border: none;
+}
+
+#reset-btn {
+    background-color: #c41e3a;
+    color: white;
 }
 
 #reset-btn:hover {
@@ -72,13 +81,6 @@ body:has(.branches-container) {
 #branches-btn {
     background-color: #2d5016;
     color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 1em;
-    cursor: pointer;
-    border-radius: 4px;
-    font-family: Georgia, serif;
-    transition: background-color 0.3s;
 }
 
 #map-btn:hover,
@@ -131,6 +133,7 @@ body:has(.branches-container) {
     cursor: pointer;
     transition: all 0.3s;
     border-radius: 4px;
+    text-decoration: none;
 }
 
 .choice-btn:hover {
@@ -138,6 +141,7 @@ body:has(.branches-container) {
     border-color: #a0172e;
     border-left-color: #a0172e;
     transform: translateX(5px);
+    color: #333;
 }
 
 .choice-btn:active {

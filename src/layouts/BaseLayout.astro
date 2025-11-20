@@ -1,0 +1,49 @@
+---
+interface Props {
+  title?: string;
+  currentView?: 'game' | 'visualization' | 'branches';
+}
+
+const { title = 'Choose Your Own Christmas Adventure', currentView = 'game' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Choose Your Own Christmas Adventure</h1>
+      <div class="header-actions">
+        {currentView === 'game' ? (
+          <>
+            <a href="/section-1" id="reset-btn">Start Over</a>
+            <a href="/visualization" id="map-btn">View Map</a>
+            <a href="/branches" id="branches-btn">View Branches</a>
+          </>
+        ) : currentView === 'visualization' ? (
+          <>
+            <a href="/section-1" id="back-btn">Back to Game</a>
+            <a href="/branches" id="branches-btn">View Branches</a>
+          </>
+        ) : (
+          <>
+            <a href="/section-1" id="back-btn">Back to Game</a>
+            <a href="/visualization" id="map-btn">View Map</a>
+          </>
+        )}
+      </div>
+    </div>
+    <slot />
+  </body>
+</html>
+
+<style is:global>
+  @import '../styles.css';
+</style>
+
