@@ -2,12 +2,8 @@
 id: section-5
 title: "Into the Book"
 choices:
-  - text: "Ask questions about this world and the quest"
-    target: section-7.md
-  - text: "Meet a guide who can help"
+  - text: "Call out into the twilight, asking who spoke"
     target: section-6.md
-  - text: "Explore the world on your own"
-    target: section-8.md
 ---
 
 # Into the Book

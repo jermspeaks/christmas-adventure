@@ -12,13 +12,13 @@ choices:
 
 # The Guide Appears
 
-You decided you needed someone to help you understand what was happening. "I'd like to meet a guide," you called out into the twilight air, feeling slightly ridiculous talking to what seemed like empty space.
+You called out into the twilight, asking who had spoken. "Who are you?" you asked, feeling slightly ridiculous talking to what seemed like empty space.
 
 *This is definitely the weirdest thing I've ever done,* you thought. *And that's saying something.*
 
 Almost immediately, a figure materialized from the shadows between two cottages. At first, you thought it was a person, but as they stepped into the starlight, you realized they were something else entirely—a creature that looked like a cross between a fox and a cat, with fur the color of autumn leaves and eyes that sparkled with ancient wisdom and gentle humor.
 
-"Ah, you called for a guide!" they said, their voice warm and musical, like wind chimes on a breezy day. "I'm Cheshire, and I've been waiting for someone like you to arrive. Though I must say, you're cutting it rather close—Christmas Eve is only three days away, and the magic has been fading faster than we expected."
+"Ah, you're looking for answers!" they said, their voice warm and musical, like wind chimes on a breezy day. "I'm Cheshire, and I've been waiting for someone like you to arrive. Though I must say, you're cutting it rather close—Christmas Eve is only three days away, and the magic has been fading faster than we expected."
 
 Cheshire trotted closer, their tail swishing with a grace that suggested they'd been doing this for a very long time. They sat down in the snow, which didn't seem to bother them at all, and looked up at you with those knowing eyes.
 
