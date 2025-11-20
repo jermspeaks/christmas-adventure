@@ -27,11 +27,29 @@ export async function getStaticPaths() {
 }
 
 const { section } = Astro.props;
+
+// Calculate file paths for metadata
+const relativePath = `sections/${section.id}.md`;
+const fullPath = path.join(process.cwd(), 'sections', `${section.id}.md`);
 ---
 
 <BaseLayout currentView="game" title={section.title}>
   <div class="section-container">
     <h1>{section.title}</h1>
+    <div class="section-metadata">
+      <div class="metadata-item">
+        <span class="metadata-label">Section ID:</span>
+        <code class="metadata-value">{section.id}</code>
+      </div>
+      <div class="metadata-item">
+        <span class="metadata-label">Source File:</span>
+        <code class="metadata-value">{relativePath}</code>
+      </div>
+      <div class="metadata-item">
+        <span class="metadata-label">Full Path:</span>
+        <code class="metadata-value">{fullPath}</code>
+      </div>
+    </div>
     <div class="section-body" set:html={section.bodyHtml} />
     <div class="choices-container">
       {section.choices && section.choices.length > 0 ? (
