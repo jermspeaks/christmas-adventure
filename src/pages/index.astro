@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import fs from 'fs';
+import path from 'path';
+
+// Try to read from output directory first (for build), then public (for dev)
+const outputPath = path.join(process.cwd(), 'output', 'game-data.json');
+const publicPath = path.join(process.cwd(), 'public', 'game-data.json');
+
+let gameDataJson;
+if (fs.existsSync(outputPath)) {
+  gameDataJson = JSON.parse(fs.readFileSync(outputPath, 'utf-8'));
+} else if (fs.existsSync(publicPath)) {
+  gameDataJson = JSON.parse(fs.readFileSync(publicPath, 'utf-8'));
+} else {
+  throw new Error('game-data.json not found. Please run npm run compile first.');
+}
+
+const startingSection = gameDataJson.startingSection || 'section-1';
+const section = gameDataJson.gameData[startingSection];
+---
+
+<BaseLayout currentView="game" title={section.title}>
+  <div class="section-container">
+    <h1>{section.title}</h1>
+    <div class="section-body" set:html={section.bodyHtml} />
+    <div class="choices-container">
+      {section.choices && section.choices.length > 0 ? (
+        <>
+          <h2>Your Choices:</h2>
+          {section.choices.map((choice) => (
+            <a href={`/${choice.target}`} class="choice-btn">
+              {choice.text}
+            </a>
+          ))}
+        </>
+      ) : (
+        <p><em>The End</em></p>
+      )}
+    </div>
+  </div>
+</BaseLayout>
+
