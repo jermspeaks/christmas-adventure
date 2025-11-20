@@ -2,9 +2,9 @@
 id: section-6
 title: "The Guide Appears"
 choices:
-  - text: "Ask specific questions about the world"
+  - text: "Ask Cheshire questions about this world"
     target: section-7.md
-  - text: "Accept the guide's help"
+  - text: "Accept Cheshire's help"
     target: section-8.md
   - text: "Dismiss Cheshire as not helpful"
     target: section-400.md
