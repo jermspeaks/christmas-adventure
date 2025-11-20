@@ -1,61 +1,51 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import fs from 'fs';
-import path from 'path';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
-  // Try to read from output directory first (for build), then public (for dev)
-  const outputPath = path.join(process.cwd(), 'output', 'game-data.json');
-  const publicPath = path.join(process.cwd(), 'public', 'game-data.json');
+  const sections = await getCollection('sections');
   
-  let gameDataJson;
-  if (fs.existsSync(outputPath)) {
-    gameDataJson = JSON.parse(fs.readFileSync(outputPath, 'utf-8'));
-  } else if (fs.existsSync(publicPath)) {
-    gameDataJson = JSON.parse(fs.readFileSync(publicPath, 'utf-8'));
-  } else {
-    throw new Error('game-data.json not found. Please run npm run compile first.');
-  }
-  
-  const gameData = gameDataJson.gameData;
-  const sections = Object.keys(gameData);
-  
-  return sections.map((sectionId) => ({
-    params: { section: sectionId },
-    props: { section: gameData[sectionId] }
+  return sections.map((entry) => ({
+    params: { section: entry.data.id },
+    props: { entry },
   }));
 }
 
-const { section } = Astro.props;
+const { entry } = Astro.props;
+
+// Render the markdown content
+const { Content } = await render(entry);
+
+// Normalize choice targets from filenames to section IDs
+const normalizedChoices = entry.data.choices?.map((choice) => ({
+  text: choice.text,
+  target: choice.target.replace('.md', ''), // e.g., "section-2.md" -> "section-2"
+})) || [];
 
 // Calculate file paths for metadata
-const relativePath = `sections/${section.id}.md`;
-const fullPath = path.join(process.cwd(), 'sections', `${section.id}.md`);
+const relativePath = `src/content/sections/${entry.id}.md`;
 ---
 
-<BaseLayout currentView="game" title={section.title}>
+<BaseLayout currentView="game" title={entry.data.title}>
   <div class="section-container">
-    <h1>{section.title}</h1>
     <div class="section-metadata">
       <div class="metadata-item">
         <span class="metadata-label">Section ID:</span>
-        <code class="metadata-value">{section.id}</code>
+        <code class="metadata-value">{entry.data.id}</code>
       </div>
       <div class="metadata-item">
         <span class="metadata-label">Source File:</span>
         <code class="metadata-value">{relativePath}</code>
       </div>
-      <div class="metadata-item">
-        <span class="metadata-label">Full Path:</span>
-        <code class="metadata-value">{fullPath}</code>
-      </div>
     </div>
-    <div class="section-body" set:html={section.bodyHtml} />
+    <div class="section-body">
+      <Content />
+    </div>
     <div class="choices-container">
-      {section.choices && section.choices.length > 0 ? (
+      {normalizedChoices.length > 0 ? (
         <>
           <h2>Your Choices:</h2>
-          {section.choices.map((choice) => (
+          {normalizedChoices.map((choice) => (
             <a href={`/${choice.target}`} class="choice-btn">
               {choice.text}
             </a>

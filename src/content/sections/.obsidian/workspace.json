@@ -11,14 +11,10 @@
             "id": "9d7cb2dfa19ad339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "section-352.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "section-352"
+              "title": "New tab"
             }
           }
         ]
@@ -185,6 +181,7 @@
   },
   "active": "9d7cb2dfa19ad339",
   "lastOpenFiles": [
+    "section-352.md",
     "section-88.md",
     "section-85.md",
     "section-81.md",
@@ -209,7 +206,6 @@
     "section-690.md",
     "section-680.md",
     "section-670.md",
-    "section-660.md",
-    "section-650.md"
+    "section-660.md"
   ]
 }
