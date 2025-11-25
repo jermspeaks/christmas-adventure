@@ -14,7 +14,7 @@ choices:
 
 # Toward the Frostwood Forest
 
-You made your decision. The Keepsake Keeper had given you a destination, and waiting around wasn't going to solve anything. *Besides,* you thought, *how dangerous can a forest called "Frostwood" really be?* (You were about to find out, and you had a feeling the answer was "more dangerous than you'd like.")
+You made your decision. Whether the Keepsake Keeper had told you directly, or you'd learned it from the pattern in its light, or Cheshire had explained it to you—you knew where you needed to go. The Frostwood Forest. Waiting around wasn't going to solve anything. *Besides,* you thought, *how dangerous can a forest called "Frostwood" really be?* (You were about to find out, and you had a feeling the answer was "more dangerous than you'd like.")
 
 "Let's go," you said, holding the Keepsake Keeper ornament carefully. Its light pulsed gently in your hands, like a heartbeat. "The Frostwood Forest, right? Lead the way."
 
@@ -39,4 +39,3 @@ In the distance, you could see the edge of the forest—tall, dark trees with br
 *Well,* you thought, *this is going to be interesting.*
 
 What do you do?
-

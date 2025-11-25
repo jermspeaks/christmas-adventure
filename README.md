@@ -19,6 +19,7 @@ A choose-your-own-adventure book system that compiles markdown story sections in
 - `DUPLICATE_CHOICES.md` - Documentation of sections with multiple choices leading to the same destination
 - `ISLANDS.md` - Documentation of sections with no incoming links (unreachable sections)
 - `UNNECESSARY_CONNECTIONS.md` - Documentation of sections with more than 3 incoming connections
+- `DECISIONS.md` - Comprehensive map of all section connections (incoming and outgoing links)
 - `CHARACTERS.md` - Reference guide listing all named characters in the story
 
 ## Quick Start
@@ -267,6 +268,31 @@ The file shows:
 
 This makes it easy to identify sections that violate the "3 loops back" rule and find redundant connections that can be removed or redirected.
 
+### Decisions Map
+
+The `DECISIONS.md` file provides a comprehensive map of all section connections in the adventure. It shows which sections lead to each section (incoming links) and which sections each section points to (outgoing links).
+
+**What this provides:**
+- Complete reference of all section connections
+- Incoming links: For each section, shows which sections lead to it (with choice text)
+- Outgoing links: For each section, shows which sections it points to (with choice text)
+- Summary statistics about section connectivity
+
+**How to use it:**
+1. **Reference section connections**: Use `DECISIONS.md` to quickly see all connections for any section
+2. **Track story flow**: Understand how sections connect and identify potential story paths
+3. **Verify connections**: Ensure all choice targets are valid and sections are properly connected
+
+**How to generate it:**
+```bash
+# Generate DECISIONS.md using the analysis script
+uv run python scripts/generate_decisions.py
+# or with explicit paths
+uv run python scripts/generate_decisions.py src/content/sections DECISIONS.md
+```
+
+The script analyzes all section files and builds a complete map of all connections, showing both incoming and outgoing links for each section.
+
 ### Characters
 
 The `CHARACTERS.md` file provides a comprehensive reference of all named characters in the story (excluding the second-person protagonist "you"). It includes:
@@ -297,6 +323,10 @@ The following documentation files help track story progress and maintain consist
 - **`UNNECESSARY_CONNECTIONS.md`** - Lists all sections with more than 3 incoming connections (see [Unnecessary Connections](#unnecessary-connections) above)
   ```bash
   uv run python scripts/find_over_connected.py sections UNNECESSARY_CONNECTIONS.md
+  ```
+- **`DECISIONS.md`** - Comprehensive map of all section connections (see [Decisions Map](#decisions-map) above)
+  ```bash
+  uv run python scripts/generate_decisions.py
   ```
 - **`CHARACTERS.md`** - Reference guide for all named characters in the story (see [Characters](#characters) above)
 

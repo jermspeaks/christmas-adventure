@@ -7,7 +7,7 @@ choices:
   - text: "Realize you're wasting time and gather information instead"
     target: section-11.md
   - text: "Give up investigating and head to the forest"
-    target: section-12.md
+    target: section-526.md
 ---
 
 # Different Investigation
