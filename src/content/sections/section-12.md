@@ -7,7 +7,7 @@ choices:
   - text: "Take a moment to prepare before entering"
     target: section-13.md
   - text: "Ask Cheshire to come with you"
-    target: section-16.md
+    target: section-13.md
   - text: "Enter the forest completely unprepared"
     target: section-405.md
 ---

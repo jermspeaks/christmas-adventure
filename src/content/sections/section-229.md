@@ -1,4 +1,5 @@
-<｜tool▁sep｜>id: section-229
+---
+id: section-229
 title: "Ignored System"
 choices: []
 ---

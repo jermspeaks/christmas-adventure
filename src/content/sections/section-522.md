@@ -8,8 +8,6 @@ choices:
     target: section-11.md
   - text: "Give up investigating and head to the forest"
     target: section-12.md
-  - text: "Continue investigating obsessively"
-    target: section-404.md
 ---
 
 # Different Investigation

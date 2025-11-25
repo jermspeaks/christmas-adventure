@@ -14,7 +14,9 @@ choices:
 
 # The Village Baker
 
-The villager who had spoken to you introduced themselves as Elara, the village baker. "I make the magical pastries," they explained, leading you toward a cozy cottage with a sign that read "Elara's Enchanted Bakery" in cheerful, hand-painted letters. "Or at least, I used to. Lately, nothing I bake has that special sparkle. The gingerbread men don't dance anymore. The sugar cookies don't sing. It's very disappointing."
+You decided that heading into the Frostwood Forest might require a bit more preparation than you'd initially thought. Whether you'd been talking with a villager in the square or had turned back from the path toward the forest, you found yourself in need of guidance—and perhaps some supplies.
+
+A villager approached you, their expression a mix of hope and concern. They introduced themselves as Elara, the village baker. "I make the magical pastries," they explained, leading you toward a cozy cottage with a sign that read "Elara's Enchanted Bakery" in cheerful, hand-painted letters. "Or at least, I used to. Lately, nothing I bake has that special sparkle. The gingerbread men don't dance anymore. The sugar cookies don't sing. It's very disappointing."
 
 *Gingerbread men that dance?* you thought. *I need to see this when the magic is restored.*
 

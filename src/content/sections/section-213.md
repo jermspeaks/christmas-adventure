@@ -1,4 +1,5 @@
-<｜tool▁sep｜>id: section-213
+---
+id: section-213
 title: "Broken Trust"
 choices: []
 ---
