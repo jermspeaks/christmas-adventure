@@ -393,7 +393,6 @@ For each section, this shows which sections lead to it.
 - `section-14.md` (choice: "Ask the Keepsake Keeper about the vault's location")
 - `section-15.md` (choice: "Investigate the strange silence")
 - `section-16.md` (choice: "Ask Elara for magical supplies")
-- `section-18.md` (choice: "Rest and eat a star cookie")
 
 ### section-170.md
 
@@ -573,8 +572,11 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-15.md` (choice: "Check on the Keepsake Keeper")
 - `section-16.md` (choice: "Set off immediately with Cheshire")
+- `section-17.md` (choice: "Listen to what the trees are saying")
 - `section-17.md` (choice: "Ignore the whispers and keep moving")
+- `section-18.md` (choice: "Investigate the clearing")
 - `section-18.md` (choice: "Continue following the Keepsake Keeper's guidance")
+- `section-18.md` (choice: "Rest and eat a star cookie")
 - `section-453.md` (choice: "Realize the guardian is testing you")
 
 ### section-2.md
@@ -592,8 +594,6 @@ For each section, this shows which sections lead to it.
 **Title:** The True Meaning of Christmas
 
 **Referenced by:**
-- `section-17.md` (choice: "Listen to what the trees are saying")
-- `section-18.md` (choice: "Investigate the clearing")
 - `section-19.md` (choice: "Show genuine Christmas spirit")
 - `section-454.md` (choice: "Realize your understanding is shallow")
 
@@ -3421,8 +3421,8 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-18.md` (choice: "Try to communicate with the trees")
+- `section-19.md` (choice: "Listen to what the trees are saying")
 - `section-19.md` (choice: "Ignore the whispers and keep moving")
-- `section-20.md` (choice: "Listen to what the trees are saying")
 - `section-408.md` (choice: "Completely ignore the tree warnings")
 
 ### section-170.md
@@ -3531,9 +3531,9 @@ For each section, this shows which sections it points to.
 **Title:** A Clearing in the Forest
 
 **Points to:**
-- `section-17.md` (choice: "Rest and eat a star cookie")
+- `section-19.md` (choice: "Investigate the clearing")
 - `section-19.md` (choice: "Continue following the Keepsake Keeper's guidance")
-- `section-20.md` (choice: "Investigate the clearing")
+- `section-19.md` (choice: "Rest and eat a star cookie")
 - `section-409.md` (choice: "Rush into the clearing without caution")
 
 ### section-180.md

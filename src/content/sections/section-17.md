@@ -3,7 +3,7 @@ id: section-17
 title: "The Whispering Trees"
 choices:
   - text: "Listen to what the trees are saying"
-    target: section-20.md
+    target: section-19.md
   - text: "Ignore the whispers and keep moving"
     target: section-19.md
   - text: "Try to communicate with the trees"

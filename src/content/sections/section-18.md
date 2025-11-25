@@ -3,11 +3,11 @@ id: section-18
 title: "A Clearing in the Forest"
 choices:
   - text: "Investigate the clearing"
-    target: section-20.md
+    target: section-19.md
   - text: "Continue following the Keepsake Keeper's guidance"
     target: section-19.md
   - text: "Rest and eat a star cookie"
-    target: section-17.md
+    target: section-19.md
   - text: "Rush into the clearing without caution"
     target: section-409.md
 ---
