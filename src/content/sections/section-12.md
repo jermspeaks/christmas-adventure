@@ -4,9 +4,7 @@ title: "Toward the Frostwood Forest"
 choices:
   - text: "Follow the trail of fading magic"
     target: section-15.md
-  - text: "Take a moment to prepare before entering"
-    target: section-13.md
-  - text: "Ask Cheshire to come with you"
+  - text: "Do more prep work and ask around the village"
     target: section-13.md
   - text: "Enter the forest completely unprepared"
     target: section-405.md

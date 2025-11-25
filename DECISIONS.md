@@ -178,8 +178,8 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-10.md` (choice: "Continue toward the Frostwood Forest")
 - `section-11.md` (choice: "Ask Cheshire about the Frostwood Forest")
-- `section-522.md` (choice: "Give up investigating and head to the forest")
 - `section-525.md` (choice: "Use what you learned and proceed to the forest")
+- `section-526.md` (choice: "Head to the Frostwood Forest with this new understanding")
 
 ### section-13.md
 
@@ -188,8 +188,7 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-11.md` (choice: "Talk to the villagers about the fading magic")
-- `section-12.md` (choice: "Take a moment to prepare before entering")
-- `section-12.md` (choice: "Ask Cheshire to come with you")
+- `section-12.md` (choice: "Do more prep work and ask around the village")
 
 ### section-14.md
 
@@ -208,7 +207,6 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-12.md` (choice: "Follow the trail of fading magic")
-- `section-13.md` (choice: "Learn about the history of the magic")
 - `section-14.md` (choice: "Search for other Keepsake Keepers in the village")
 - `section-451.md` (choice: "Realize you're going the wrong way")
 
@@ -1542,8 +1540,7 @@ For each section, this shows which sections lead to it.
 **ID:** `section-407`  
 **Title:** Ignored Warnings
 
-**Referenced by:**
-- `section-13.md` (choice: "Take supplies but ignore Elara's warnings")
+**Referenced by:** *No incoming links*
 
 ### section-408.md
 
@@ -1853,6 +1850,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-522.md` (choice: "Continue investigating the pattern")
+
+### section-526.md
+
+**ID:** `section-526`  
+**Title:** The Pattern Reveals the Path
+
+**Referenced by:**
+- `section-522.md` (choice: "Give up investigating and head to the forest")
 
 ### section-528.md
 
@@ -3164,8 +3169,7 @@ For each section, this shows which sections it points to.
 **Title:** Toward the Frostwood Forest
 
 **Points to:**
-- `section-13.md` (choice: "Take a moment to prepare before entering")
-- `section-13.md` (choice: "Ask Cheshire to come with you")
+- `section-13.md` (choice: "Do more prep work and ask around the village")
 - `section-15.md` (choice: "Follow the trail of fading magic")
 - `section-405.md` (choice: "Enter the forest completely unprepared")
 
@@ -3176,9 +3180,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-14.md` (choice: "Ask about the Memory Vault")
-- `section-15.md` (choice: "Learn about the history of the magic")
 - `section-16.md` (choice: "Get supplies before heading to the forest")
-- `section-407.md` (choice: "Take supplies but ignore Elara's warnings")
 
 ### section-14.md
 
@@ -4849,8 +4851,8 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-11.md` (choice: "Realize you're wasting time and gather information instead")
-- `section-12.md` (choice: "Give up investigating and head to the forest")
 - `section-525.md` (choice: "Continue investigating the pattern")
+- `section-526.md` (choice: "Give up investigating and head to the forest")
 
 ### section-523.md
 
@@ -4880,6 +4882,14 @@ For each section, this shows which sections it points to.
 - `section-11.md` (choice: "Use what you learned to gather more information")
 - `section-12.md` (choice: "Use what you learned and proceed to the forest")
 - `section-404.md` (choice: "Continue investigating obsessively")
+
+### section-526.md
+
+**ID:** `section-526`  
+**Title:** The Pattern Reveals the Path
+
+**Points to:**
+- `section-12.md` (choice: "Head to the Frostwood Forest with this new understanding")
 
 ### section-528.md
 
@@ -6019,9 +6029,9 @@ For each section, this shows which sections it points to.
 
 ## Summary
 
-Total sections: **366**
+Total sections: **367**
 
 - Sections with incoming links: **349**
-- Sections with outgoing links: **170**
+- Sections with outgoing links: **171**
 - Terminated sections (no outgoing links): **196**
-- Sections with no incoming links: **17**
+- Sections with no incoming links: **18**
