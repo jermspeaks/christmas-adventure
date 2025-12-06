@@ -1,7 +1,9 @@
 ---
 id: section-203
 title: "Pushed Too Hard"
-choices: []
+choices:
+  - text: "The magic seems stable now"
+    target: section-254.md
 ---
 
 # Pushed Too Hard

@@ -4,6 +4,8 @@ title: "True Mastery"
 choices:
   - text: "Go deeper and truly master the magic"
     target: section-303.md
+  - text: "Continue toward complete mastery"
+    target: section-353.md
 ---
 
 # True Mastery

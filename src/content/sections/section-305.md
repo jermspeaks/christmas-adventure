@@ -1,7 +1,9 @@
 ---
 id: section-305
 title: "Good Celebration"
-choices: []
+choices:
+  - text: "The celebration is perfect now"
+    target: section-295.md
 ---
 
 # Good Celebration

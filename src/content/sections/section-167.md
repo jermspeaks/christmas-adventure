@@ -4,6 +4,8 @@ title: "A Delicate Balance"
 choices:
   - text: "Continue monitoring and guiding the magic flow"
     target: section-302.md
+  - text: "The magic flow looks perfectly balanced"
+    target: section-270.md
   - text: "Try to control all the magic yourself to ensure balance"
     target: section-224.md
   - text: "Ignore the magic and let it do whatever it wants"

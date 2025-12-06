@@ -4,6 +4,8 @@ title: "Helping Kvothe Truly Transform"
 choices:
   - text: "Help Kvothe face their true self and truly transform"
     target: section-301.md
+  - text: "Continue helping Kvothe achieve true transformation"
+    target: section-351.md
 ---
 
 # Helping Kvothe Truly Transform

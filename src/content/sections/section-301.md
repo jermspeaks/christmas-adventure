@@ -1,7 +1,9 @@
 ---
 id: section-301
 title: "Kvothe's Peace"
-choices: []
+choices:
+  - text: "Kvothe seems completely fine now"
+    target: section-260.md
 ---
 
 # Kvothe's Peace

@@ -1,7 +1,9 @@
 ---
 id: section-303
 title: "Partial Mastery"
-choices: []
+choices:
+  - text: "I've mastered this completely"
+    target: section-280.md
 ---
 
 # Partial Mastery

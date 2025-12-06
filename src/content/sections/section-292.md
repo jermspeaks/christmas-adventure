@@ -4,6 +4,8 @@ title: "Deep Understanding"
 choices:
   - text: "Help everyone go deeper and truly understand"
     target: section-304.md
+  - text: "Continue helping everyone achieve full understanding"
+    target: section-354.md
 ---
 
 # Deep Understanding

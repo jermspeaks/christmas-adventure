@@ -328,6 +328,59 @@ The script parses `DECISIONS.md` and cross-references with actual section files 
 - Sections that are orphaned (no incoming links)
 - Sections that are missing (referenced but don't exist)
 
+### Continuity Report
+
+The `CONTINUITY_REPORT.md` file validates story continuity across all sections. It checks both structural integrity (links, choice text) and basic narrative continuity (location, character, time consistency).
+
+**What this provides:**
+- **Structural Validation**: 
+  - Broken links (targets that don't exist)
+  - Missing section files (referenced but don't exist)
+  - Choice text mismatches (between DECISIONS.md and actual files)
+  - Bidirectional inconsistencies (incoming/outgoing link mismatches)
+- **Narrative Continuity Checks**:
+  - Location consistency (potential location jumps without explanation)
+  - Character presence (characters mentioned in source but not in target)
+  - Time consistency (conflicting time references)
+  - Object continuity (important objects mentioned but not accounted for)
+- Summary statistics of all issues found
+- Organized by severity (Critical, Warnings, Info) for easy prioritization
+
+**How to use it:**
+1. **Run the checker**: Execute the script to validate all sections
+2. **Review critical issues**: Fix broken links and missing files first
+3. **Review warnings**: Check choice text mismatches and narrative inconsistencies
+4. **Review info**: Consider suggestions for improvement
+5. **Fix issues**: Address the problems found in the report
+6. **Regenerate**: Run again after fixes to verify improvements
+
+**How to generate it:**
+```bash
+# Run the continuity checker standalone
+uv run python scripts/check_continuity.py
+# or with explicit paths
+uv run python scripts/check_continuity.py src/content/sections CONTINUITY_REPORT.md
+# or
+python scripts/check_continuity.py
+
+# Or run it as part of generating all docs (runs by default)
+uv run python scripts/generate_all_docs.py
+# To skip continuity checking:
+uv run python scripts/generate_all_docs.py --skip-continuity
+```
+
+The script performs three phases:
+1. **Load all sections**: Parses all section files and extracts metadata
+2. **Structural validation**: Checks all links exist, choice text matches, bidirectional consistency
+3. **Narrative continuity**: Checks location, character, object, and time consistency between connected sections
+
+The report is organized by severity:
+- **Critical issues**: Must be fixed (broken links, missing files)
+- **Warnings**: Should be reviewed (choice mismatches, narrative inconsistencies)
+- **Info**: Suggestions for improvement (not necessarily errors)
+
+This makes it easy to systematically check all 367 sections and their connections for both structural integrity and basic narrative continuity.
+
 **Note:** `DECISIONS.md` must be generated first before generating `TODO_SECTIONS.md`, as it depends on the decisions map for analysis.
 
 ### Characters

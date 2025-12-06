@@ -5,10 +5,12 @@ Generate all documentation files in the correct order.
 This script generates:
 1. DECISIONS.md (required first)
 2. TODO_SECTIONS.md (depends on DECISIONS.md)
+3. CONTINUITY_REPORT.md (optional, validates all sections)
 """
 
 import subprocess
 import sys
+import argparse
 from pathlib import Path
 
 
@@ -30,6 +32,14 @@ def run_command(cmd, description):
 
 def main():
     """Generate all documentation files."""
+    parser = argparse.ArgumentParser(description='Generate all documentation files')
+    parser.add_argument(
+        '--skip-continuity',
+        action='store_true',
+        help='Skip continuity checking (runs by default)'
+    )
+    args = parser.parse_args()
+    
     scripts_dir = Path(__file__).parent
     project_root = scripts_dir.parent
     
@@ -58,6 +68,17 @@ def main():
         [sys.executable, str(todo_script)],
         "TODO_SECTIONS.md"
     )
+    
+    # Optionally run continuity checker (default: run it)
+    if not args.skip_continuity:
+        continuity_script = scripts_dir / 'check_continuity.py'
+        if continuity_script.exists():
+            run_command(
+                [sys.executable, str(continuity_script)],
+                "CONTINUITY_REPORT.md"
+            )
+        else:
+            print(f"\nNote: {continuity_script} not found, skipping continuity check")
     
     print("\n" + "="*60)
     print("✓ All documentation files generated successfully!")

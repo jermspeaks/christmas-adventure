@@ -4,6 +4,8 @@ title: "Addressing the Issues"
 choices:
   - text: "Address the underlying issues while celebrating"
     target: section-305.md
+  - text: "Continue working toward perfect celebration"
+    target: section-355.md
 ---
 
 # Addressing the Issues

@@ -1094,7 +1094,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-254`  
 **Title:** Suppressed Magic
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-203.md` (choice: "The magic seems stable now")
 
 ### section-255.md
 
@@ -1127,7 +1128,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-260`  
 **Title:** Kvothe's Suppression
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-301.md` (choice: "Kvothe seems completely fine now")
 
 ### section-261.md
 
@@ -1164,7 +1166,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-270`  
 **Title:** False Balance
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-167.md` (choice: "The magic flow looks perfectly balanced")
 
 ### section-271.md
 
@@ -1197,7 +1200,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-280`  
 **Title:** Surface Mastery
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-303.md` (choice: "I've mastered this completely")
 
 ### section-281.md
 
@@ -1228,7 +1232,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-290`  
 **Title:** Shallow Understanding
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-304.md` (choice: "Everyone understands now")
 
 ### section-291.md
 
@@ -1251,7 +1256,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-295`  
 **Title:** Perfect Celebration
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-305.md` (choice: "The celebration is perfect now")
 
 ### section-296.md
 
@@ -1376,35 +1382,40 @@ For each section, this shows which sections lead to it.
 **ID:** `section-351`  
 **Title:** Kvothe's True Transformation
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-262.md` (choice: "Continue helping Kvothe achieve true transformation")
 
 ### section-352.md
 
 **ID:** `section-352`  
 **Title:** Perfect Flow
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-272.md` (choice: "Continue working toward perfect flow")
 
 ### section-353.md
 
 **ID:** `section-353`  
 **Title:** True Mastery
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-282.md` (choice: "Continue toward complete mastery")
 
 ### section-354.md
 
 **ID:** `section-354`  
 **Title:** Full Understanding
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-292.md` (choice: "Continue helping everyone achieve full understanding")
 
 ### section-355.md
 
 **ID:** `section-355`  
 **Title:** Perfect Celebration
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-297.md` (choice: "Continue working toward perfect celebration")
 
 ### section-36.md
 
@@ -1566,7 +1577,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-407`  
 **Title:** Ignored Warnings
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-16.md` (choice: "Take the supplies but ignore Elara's warnings")
 
 ### section-408.md
 
@@ -2047,7 +2059,7 @@ For each section, this shows which sections lead to it.
 ### section-571.md
 
 **ID:** `section-571`  
-**Title:** Untitled
+**Title:** Gentle Presence
 
 **Referenced by:**
 - `section-570.md` (choice: "Check on Kvothe after giving them space")
@@ -2055,7 +2067,7 @@ For each section, this shows which sections lead to it.
 ### section-572.md
 
 **ID:** `section-572`  
-**Title:** Untitled
+**Title:** Waiting Too Long
 
 **Referenced by:**
 - `section-570.md` (choice: "Wait longer and see if they come to you")
@@ -2063,7 +2075,7 @@ For each section, this shows which sections lead to it.
 ### section-573.md
 
 **ID:** `section-573`  
-**Title:** Untitled
+**Title:** A Bridge Between
 
 **Referenced by:**
 - `section-570.md` (choice: "Ask Cheshire to check on Kvothe")
@@ -2093,7 +2105,7 @@ For each section, this shows which sections lead to it.
 ### section-581.md
 
 **ID:** `section-581`  
-**Title:** Untitled
+**Title:** One Memory at a Time
 
 **Referenced by:**
 - `section-580.md` (choice: "Slow down and help Kvothe process one memory at a time")
@@ -2101,7 +2113,7 @@ For each section, this shows which sections lead to it.
 ### section-583.md
 
 **ID:** `section-583`  
-**Title:** Untitled
+**Title:** Stepping Back
 
 **Referenced by:**
 - `section-580.md` (choice: "Realize the mistake and step back")
@@ -2127,7 +2139,7 @@ For each section, this shows which sections lead to it.
 ### section-591.md
 
 **ID:** `section-591`  
-**Title:** Untitled
+**Title:** Learning to Guide
 
 **Referenced by:**
 - `section-590.md` (choice: "Stop trying to control and learn to guide instead")
@@ -2135,7 +2147,7 @@ For each section, this shows which sections lead to it.
 ### section-592.md
 
 **ID:** `section-592`  
-**Title:** Untitled
+**Title:** Forcing Control
 
 **Referenced by:**
 - `section-590.md` (choice: "Try harder to force the magic to obey")
@@ -2143,7 +2155,7 @@ For each section, this shows which sections lead to it.
 ### section-593.md
 
 **ID:** `section-593`  
-**Title:** Untitled
+**Title:** Understanding from the Keeper
 
 **Referenced by:**
 - `section-590.md` (choice: "Ask the Keepsake Keeper for help understanding")
@@ -2175,7 +2187,7 @@ For each section, this shows which sections lead to it.
 ### section-601.md
 
 **ID:** `section-601`  
-**Title:** Untitled
+**Title:** Sharing Observations
 
 **Referenced by:**
 - `section-600.md` (choice: "Share your observations with the Keepsake Keeper")
@@ -2183,7 +2195,7 @@ For each section, this shows which sections lead to it.
 ### section-602.md
 
 **ID:** `section-602`  
-**Title:** Untitled
+**Title:** Helping the Magic Understand
 
 **Referenced by:**
 - `section-600.md` (choice: "Try to help the magic understand what you've learned")
@@ -2191,7 +2203,7 @@ For each section, this shows which sections lead to it.
 ### section-603.md
 
 **ID:** `section-603`  
-**Title:** Untitled
+**Title:** Patient Observation
 
 **Referenced by:**
 - `section-600.md` (choice: "Continue observing to learn more")
@@ -2215,7 +2227,7 @@ For each section, this shows which sections lead to it.
 ### section-611.md
 
 **ID:** `section-611`  
-**Title:** Untitled
+**Title:** Embracing the New Way
 
 **Referenced by:**
 - `section-610.md` (choice: "Accept that the magic has changed and learn the new way")
@@ -2223,7 +2235,7 @@ For each section, this shows which sections lead to it.
 ### section-612.md
 
 **ID:** `section-612`  
-**Title:** Untitled
+**Title:** Holding Onto the Old Way
 
 **Referenced by:**
 - `section-610.md` (choice: "Keep trying to force the old methods to work")
@@ -2231,7 +2243,7 @@ For each section, this shows which sections lead to it.
 ### section-613.md
 
 **ID:** `section-613`  
-**Title:** Untitled
+**Title:** Seeking Understanding
 
 **Referenced by:**
 - `section-610.md` (choice: "Ask for help understanding the transformation")
@@ -2255,7 +2267,7 @@ For each section, this shows which sections lead to it.
 ### section-621.md
 
 **ID:** `section-621`  
-**Title:** Untitled
+**Title:** Practicing the New Way
 
 **Referenced by:**
 - `section-620.md` (choice: "Practice what the Keepsake Keeper taught you")
@@ -2263,7 +2275,7 @@ For each section, this shows which sections lead to it.
 ### section-622.md
 
 **ID:** `section-622`  
-**Title:** Untitled
+**Title:** Seeking Deeper Guidance
 
 **Referenced by:**
 - `section-620.md` (choice: "Ask for more detailed guidance")
@@ -2271,7 +2283,7 @@ For each section, this shows which sections lead to it.
 ### section-623.md
 
 **ID:** `section-623`  
-**Title:** Untitled
+**Title:** Sharing Knowledge
 
 **Referenced by:**
 - `section-620.md` (choice: "Share what you've learned with others")
@@ -2295,15 +2307,16 @@ For each section, this shows which sections lead to it.
 ### section-631.md
 
 **ID:** `section-631`  
-**Title:** Untitled
+**Title:** Patient Teaching
 
 **Referenced by:**
 - `section-630.md` (choice: "Slow down and teach in smaller groups")
+- `section-632.md` (choice: "Realize the mistake and slow down")
 
 ### section-632.md
 
 **ID:** `section-632`  
-**Title:** Untitled
+**Title:** Overwhelming Everyone
 
 **Referenced by:**
 - `section-630.md` (choice: "Continue trying to teach everyone everything at once")
@@ -2311,7 +2324,7 @@ For each section, this shows which sections lead to it.
 ### section-633.md
 
 **ID:** `section-633`  
-**Title:** Untitled
+**Title:** Seeking Help
 
 **Referenced by:**
 - `section-630.md` (choice: "Ask for help from others who understand")
@@ -2331,19 +2344,23 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-174.md` (choice: "Wait and see if people figure it out on their own")
+- `section-631.md` (choice: "Continue with smaller groups and see how people respond")
+- `section-632.md` (choice: "Continue trying to explain everything at once")
+- `section-633.md` (choice: "Work together with others to teach the community")
 
 ### section-641.md
 
 **ID:** `section-641`  
-**Title:** Untitled
+**Title:** Timely Intervention
 
 **Referenced by:**
 - `section-640.md` (choice: "Intervene now before things get worse")
+- `section-642.md` (choice: "Realize the mistake and intervene now")
 
 ### section-642.md
 
 **ID:** `section-642`  
-**Title:** Untitled
+**Title:** Waiting Too Long
 
 **Referenced by:**
 - `section-640.md` (choice: "Wait a bit longer to see if people figure it out")
@@ -2351,7 +2368,7 @@ For each section, this shows which sections lead to it.
 ### section-643.md
 
 **ID:** `section-643`  
-**Title:** Untitled
+**Title:** Wise Counsel
 
 **Referenced by:**
 - `section-640.md` (choice: "Ask Cheshire and the Keepsake Keeper for advice")
@@ -2371,19 +2388,23 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-180.md` (choice: "Stay alert for any problems that might arise")
+- `section-641.md` (choice: "Continue helping people understand the magic")
+- `section-642.md` (choice: "Continue waiting to see if people figure it out")
+- `section-643.md` (choice: "Use the advice to help people understand")
 
 ### section-651.md
 
 **ID:** `section-651`  
-**Title:** Untitled
+**Title:** Addressing Problems
 
 **Referenced by:**
 - `section-650.md` (choice: "Address the problems you've noticed")
+- `section-652.md` (choice: "Realize you should address the problems now")
 
 ### section-652.md
 
 **ID:** `section-652`  
-**Title:** Untitled
+**Title:** Watching and Waiting
 
 **Referenced by:**
 - `section-650.md` (choice: "Continue watching for more issues")
@@ -2391,7 +2412,7 @@ For each section, this shows which sections lead to it.
 ### section-653.md
 
 **ID:** `section-653`  
-**Title:** Untitled
+**Title:** Sharing Concerns
 
 **Referenced by:**
 - `section-650.md` (choice: "Share your concerns with others")
@@ -2411,11 +2432,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-180.md` (choice: "Try to control the celebration")
+- `section-651.md` (choice: "Continue helping address the problems you notice")
+- `section-652.md` (choice: "Continue watching to see if more issues arise")
+- `section-653.md` (choice: "Work together with others to address the problems")
 
 ### section-661.md
 
 **ID:** `section-661`  
-**Title:** Untitled
+**Title:** Letting Go
 
 **Referenced by:**
 - `section-660.md` (choice: "Let go and let the celebration flow naturally")
@@ -2423,7 +2447,7 @@ For each section, this shows which sections lead to it.
 ### section-662.md
 
 **ID:** `section-662`  
-**Title:** Untitled
+**Title:** Controlling Everything
 
 **Referenced by:**
 - `section-660.md` (choice: "Continue trying to control everything")
@@ -2431,7 +2455,7 @@ For each section, this shows which sections lead to it.
 ### section-663.md
 
 **ID:** `section-663`  
-**Title:** Untitled
+**Title:** Stepping Back
 
 **Referenced by:**
 - `section-660.md` (choice: "Realize the mistake and step back")
@@ -2455,7 +2479,7 @@ For each section, this shows which sections lead to it.
 ### section-671.md
 
 **ID:** `section-671`  
-**Title:** Untitled
+**Title:** Taking Time to Reflect
 
 **Referenced by:**
 - `section-670.md` (choice: "Take time to reflect now, even though it's late")
@@ -2463,7 +2487,7 @@ For each section, this shows which sections lead to it.
 ### section-672.md
 
 **ID:** `section-672`  
-**Title:** Untitled
+**Title:** Ignoring Reflection
 
 **Referenced by:**
 - `section-670.md` (choice: "Continue ignoring reflection and focus on celebration")
@@ -2471,7 +2495,7 @@ For each section, this shows which sections lead to it.
 ### section-673.md
 
 **ID:** `section-673`  
-**Title:** Untitled
+**Title:** Learning to Reflect
 
 **Referenced by:**
 - `section-670.md` (choice: "Realize you need to reflect when problems arise")
@@ -2499,7 +2523,7 @@ For each section, this shows which sections lead to it.
 ### section-681.md
 
 **ID:** `section-681`  
-**Title:** Untitled
+**Title:** Respecting Personal Reflection
 
 **Referenced by:**
 - `section-680.md` (choice: "Stop trying to control and let others reflect in their own way")
@@ -2507,7 +2531,7 @@ For each section, this shows which sections lead to it.
 ### section-682.md
 
 **ID:** `section-682`  
-**Title:** Untitled
+**Title:** Forcing Reflection
 
 **Referenced by:**
 - `section-680.md` (choice: "Continue trying to force everyone to reflect the same way")
@@ -2515,7 +2539,7 @@ For each section, this shows which sections lead to it.
 ### section-683.md
 
 **ID:** `section-683`  
-**Title:** Untitled
+**Title:** Stepping Back from Reflection
 
 **Referenced by:**
 - `section-680.md` (choice: "Realize the mistake and step back")
@@ -2539,7 +2563,7 @@ For each section, this shows which sections lead to it.
 ### section-691.md
 
 **ID:** `section-691`  
-**Title:** Untitled
+**Title:** Adding Emotion to Logic
 
 **Referenced by:**
 - `section-690.md` (choice: "Continue with logical arguments but add emotional connection")
@@ -2547,7 +2571,7 @@ For each section, this shows which sections lead to it.
 ### section-692.md
 
 **ID:** `section-692`  
-**Title:** Untitled
+**Title:** Showing Genuine Spirit
 
 **Referenced by:**
 - `section-690.md` (choice: "Realize logic alone isn't enough and show genuine spirit")
@@ -2555,7 +2579,7 @@ For each section, this shows which sections lead to it.
 ### section-693.md
 
 **ID:** `section-693`  
-**Title:** Untitled
+**Title:** Understanding the Guardian
 
 **Referenced by:**
 - `section-690.md` (choice: "Ask the guardian about their own experiences")
@@ -2585,11 +2609,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-19.md` (choice: "Use the Keepsake Keeper's power")
+- `section-691.md` (choice: "Continue showing the guardian what Christmas means")
+- `section-692.md` (choice: "Continue showing the guardian what Christmas really means")
+- `section-693.md` (choice: "Use what you've learned to help the guardian remember")
 
 ### section-701.md
 
 **ID:** `section-701`  
-**Title:** Untitled
+**Title:** Power and Spirit Together
 
 **Referenced by:**
 - `section-700.md` (choice: "Show the power but also explain the genuine spirit behind it")
@@ -2597,7 +2624,7 @@ For each section, this shows which sections lead to it.
 ### section-702.md
 
 **ID:** `section-702`  
-**Title:** Untitled
+**Title:** Genuine Spirit Alone
 
 **Referenced by:**
 - `section-700.md` (choice: "Realize power alone isn't enough and show genuine spirit")
@@ -2605,7 +2632,7 @@ For each section, this shows which sections lead to it.
 ### section-703.md
 
 **ID:** `section-703`  
-**Title:** Untitled
+**Title:** Power Without Spirit
 
 **Referenced by:**
 - `section-700.md` (choice: "Continue trying to prove with power alone")
@@ -2627,11 +2654,13 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-29.md` (choice: "Watch as the magic spreads across the world")
+- `section-701.md` (choice: "Continue showing the guardian the true meaning of Christmas")
+- `section-702.md` (choice: "Continue showing the guardian what Christmas really means")
 
 ### section-711.md
 
 **ID:** `section-711`  
-**Title:** Untitled
+**Title:** Sharing Global Observations
 
 **Referenced by:**
 - `section-710.md` (choice: "Notice the global patterns and share your observations")
@@ -2639,7 +2668,7 @@ For each section, this shows which sections lead to it.
 ### section-712.md
 
 **ID:** `section-712`  
-**Title:** Untitled
+**Title:** Helping the World Adjust
 
 **Referenced by:**
 - `section-710.md` (choice: "Focus on helping the world adjust to the changes")
@@ -2660,11 +2689,13 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-29.md` (choice: "Stay with Kvothe and help them adjust to the change")
+- `section-711.md` (choice: "Work with others to address the global patterns")
+- `section-712.md` (choice: "Continue working to help the world adjust to the changes")
 
 ### section-721.md
 
 **ID:** `section-721`  
-**Title:** Untitled
+**Title:** Balancing Support
 
 **Referenced by:**
 - `section-720.md` (choice: "Continue supporting Kvothe but also check on the world")
@@ -2672,7 +2703,7 @@ For each section, this shows which sections lead to it.
 ### section-722.md
 
 **ID:** `section-722`  
-**Title:** Untitled
+**Title:** Realizing the Need for Balance
 
 **Referenced by:**
 - `section-720.md` (choice: "Realize you need to balance supporting Kvothe and addressing problems")
@@ -2680,7 +2711,7 @@ For each section, this shows which sections lead to it.
 ### section-723.md
 
 **ID:** `section-723`  
-**Title:** Untitled
+**Title:** Asking for Help
 
 **Referenced by:**
 - `section-720.md` (choice: "Ask others to help while you focus on Kvothe")
@@ -2700,11 +2731,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-30.md` (choice: "Ask Kvothe about their past and what led them here")
+- `section-721.md` (choice: "Continue finding balance between supporting Kvothe and helping the world")
+- `section-722.md` (choice: "Work to find better balance between supporting Kvothe and helping the world")
+- `section-723.md` (choice: "Work together with others to support Kvothe and help the world")
 
 ### section-731.md
 
 **ID:** `section-731`  
-**Title:** Untitled
+**Title:** Processing the Past Together
 
 **Referenced by:**
 - `section-730.md` (choice: "Help Kvothe process what they've shared about their past")
@@ -2712,7 +2746,7 @@ For each section, this shows which sections lead to it.
 ### section-732.md
 
 **ID:** `section-732`  
-**Title:** Untitled
+**Title:** Using Understanding for Transformation
 
 **Referenced by:**
 - `section-730.md` (choice: "Use the deeper understanding to help the transformation")
@@ -2720,7 +2754,7 @@ For each section, this shows which sections lead to it.
 ### section-733.md
 
 **ID:** `section-733`  
-**Title:** Untitled
+**Title:** Sharing What You've Learned
 
 **Referenced by:**
 - `section-730.md` (choice: "Share what you've learned with others")
@@ -2740,11 +2774,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-30.md` (choice: "Celebrate the return of the magic together")
+- `section-731.md` (choice: "Continue helping Kvothe process their past")
+- `section-732.md` (choice: "Continue using the deeper understanding to help the transformation")
+- `section-733.md` (choice: "Continue sharing what you've learned with others")
 
 ### section-741.md
 
 **ID:** `section-741`  
-**Title:** Untitled
+**Title:** Helping Process Pain
 
 **Referenced by:**
 - `section-740.md` (choice: "Help Kvothe process the pain they might have missed")
@@ -2752,7 +2789,7 @@ For each section, this shows which sections lead to it.
 ### section-742.md
 
 **ID:** `section-742`  
-**Title:** Untitled
+**Title:** Celebration Without Processing
 
 **Referenced by:**
 - `section-740.md` (choice: "Continue celebrating and let processing happen naturally")
@@ -2760,7 +2797,7 @@ For each section, this shows which sections lead to it.
 ### section-743.md
 
 **ID:** `section-743`  
-**Title:** Untitled
+**Title:** Finding Balance
 
 **Referenced by:**
 - `section-740.md` (choice: "Find a balance between celebration and processing")
@@ -2786,7 +2823,7 @@ For each section, this shows which sections lead to it.
 ### section-751.md
 
 **ID:** `section-751`  
-**Title:** Untitled
+**Title:** Asking for Help
 
 **Referenced by:**
 - `section-750.md` (choice: "Realize you need help and ask others to join you")
@@ -2794,7 +2831,7 @@ For each section, this shows which sections lead to it.
 ### section-752.md
 
 **ID:** `section-752`  
-**Title:** Untitled
+**Title:** Trying Alone
 
 **Referenced by:**
 - `section-750.md` (choice: "Continue trying to do it alone")
@@ -2802,7 +2839,7 @@ For each section, this shows which sections lead to it.
 ### section-753.md
 
 **ID:** `section-753`  
-**Title:** Untitled
+**Title:** Seeking Guidance
 
 **Referenced by:**
 - `section-750.md` (choice: "Ask the Keepsake Keeper for guidance")
@@ -2823,11 +2860,13 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-152.md` (choice: "Ask Kvothe to help balance the magic flow")
+- `section-751.md` (choice: "Work together with others to redistribute the magic")
+- `section-753.md` (choice: "Use the guidance to help redistribute the magic")
 
 ### section-761.md
 
 **ID:** `section-761`  
-**Title:** Untitled
+**Title:** Working Together with Kvothe
 
 **Referenced by:**
 - `section-760.md` (choice: "Work together with Kvothe to guide the magic")
@@ -2835,7 +2874,7 @@ For each section, this shows which sections lead to it.
 ### section-762.md
 
 **ID:** `section-762`  
-**Title:** Untitled
+**Title:** Letting Kvothe Lead
 
 **Referenced by:**
 - `section-760.md` (choice: "Let Kvothe take the lead completely")
@@ -2843,7 +2882,7 @@ For each section, this shows which sections lead to it.
 ### section-763.md
 
 **ID:** `section-763`  
-**Title:** Untitled
+**Title:** Including Others
 
 **Referenced by:**
 - `section-760.md` (choice: "Ask others to join you and Kvothe")
@@ -2863,11 +2902,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-163.md` (choice: "Investigate the places where magic is avoiding")
+- `section-761.md` (choice: "Continue working together to guide the magic")
+- `section-762.md` (choice: "Continue supporting Kvothe as they guide the magic")
+- `section-763.md` (choice: "Continue working together with others to guide the magic")
 
 ### section-771.md
 
 **ID:** `section-771`  
-**Title:** Untitled
+**Title:** Creating New Memories
 
 **Referenced by:**
 - `section-770.md` (choice: "Help create new memories in the empty places")
@@ -2875,7 +2917,7 @@ For each section, this shows which sections lead to it.
 ### section-772.md
 
 **ID:** `section-772`  
-**Title:** Untitled
+**Title:** Understanding Why Magic Avoids
 
 **Referenced by:**
 - `section-770.md` (choice: "Try to understand why the magic is avoiding these places")
@@ -2883,7 +2925,7 @@ For each section, this shows which sections lead to it.
 ### section-773.md
 
 **ID:** `section-773`  
-**Title:** Untitled
+**Title:** Building Connections with People
 
 **Referenced by:**
 - `section-770.md` (choice: "Work with the people in these places to build connections")
@@ -2905,11 +2947,14 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-560.md` (choice: "Ask the townspeople to help you understand the pattern")
+- `section-771.md` (choice: "Continue helping create new memories in empty places")
+- `section-772.md` (choice: "Use your understanding to help the magic reach these places")
+- `section-773.md` (choice: "Continue working with people to build connections")
 
 ### section-781.md
 
 **ID:** `section-781`  
-**Title:** Untitled
+**Title:** Using Stories to Understand
 
 **Referenced by:**
 - `section-780.md` (choice: "Use the stories to understand the pattern")
@@ -2917,7 +2962,7 @@ For each section, this shows which sections lead to it.
 ### section-782.md
 
 **ID:** `section-782`  
-**Title:** Untitled
+**Title:** Helping Others See the Pattern
 
 **Referenced by:**
 - `section-780.md` (choice: "Help the townspeople see the pattern themselves")
@@ -2929,6 +2974,8 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-780.md` (choice: "Realize the stories reveal different solutions working in parallel")
+- `section-781.md` (choice: "Use your understanding to help the magic learn")
+- `section-782.md` (choice: "Work together to help the magic learn")
 
 ### section-785.md
 
@@ -3481,6 +3528,7 @@ For each section, this shows which sections it points to.
 - `section-17.md` (choice: "Ask Elara for magical supplies")
 - `section-18.md` (choice: "Learn more about the forest's dangers")
 - `section-19.md` (choice: "Set off immediately with Cheshire")
+- `section-407.md` (choice: "Take the supplies but ignore Elara's warnings")
 
 ### section-160.md
 
@@ -3560,6 +3608,7 @@ For each section, this shows which sections it points to.
 **Points to:**
 - `section-224.md` (choice: "Try to control all the magic yourself to ensure balance")
 - `section-225.md` (choice: "Ignore the magic and let it do whatever it wants")
+- `section-270.md` (choice: "The magic flow looks perfectly balanced")
 - `section-302.md` (choice: "Continue monitoring and guiding the magic flow")
 
 ### section-168.md
@@ -3854,7 +3903,8 @@ For each section, this shows which sections it points to.
 **ID:** `section-203`  
 **Title:** Pushed Too Hard
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-254.md` (choice: "The magic seems stable now")
 
 ### section-204.md
 
@@ -4319,6 +4369,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-301.md` (choice: "Help Kvothe face their true self and truly transform")
+- `section-351.md` (choice: "Continue helping Kvothe achieve true transformation")
 
 ### section-27.md
 
@@ -4353,6 +4404,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-302.md` (choice: "Work to truly balance the magic flow")
+- `section-352.md` (choice: "Continue working toward perfect flow")
 
 ### section-28.md
 
@@ -4385,6 +4437,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-303.md` (choice: "Go deeper and truly master the magic")
+- `section-353.md` (choice: "Continue toward complete mastery")
 
 ### section-29.md
 
@@ -4419,6 +4472,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-304.md` (choice: "Help everyone go deeper and truly understand")
+- `section-354.md` (choice: "Continue helping everyone achieve full understanding")
 
 ### section-295.md
 
@@ -4443,6 +4497,7 @@ For each section, this shows which sections it points to.
 
 **Points to:**
 - `section-305.md` (choice: "Address the underlying issues while celebrating")
+- `section-355.md` (choice: "Continue working toward perfect celebration")
 
 ### section-3.md
 
@@ -4475,7 +4530,8 @@ For each section, this shows which sections it points to.
 **ID:** `section-301`  
 **Title:** Kvothe's Peace
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-260.md` (choice: "Kvothe seems completely fine now")
 
 ### section-302.md
 
@@ -4489,21 +4545,24 @@ For each section, this shows which sections it points to.
 **ID:** `section-303`  
 **Title:** Partial Mastery
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-280.md` (choice: "I've mastered this completely")
 
 ### section-304.md
 
 **ID:** `section-304`  
 **Title:** Partial Understanding
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-290.md` (choice: "Everyone understands now")
 
 ### section-305.md
 
 **ID:** `section-305`  
 **Title:** Good Celebration
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-295.md` (choice: "The celebration is perfect now")
 
 ### section-31.md
 
@@ -5178,21 +5237,21 @@ For each section, this shows which sections it points to.
 ### section-571.md
 
 **ID:** `section-571`  
-**Title:** Untitled
+**Title:** Gentle Presence
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-572.md
 
 **ID:** `section-572`  
-**Title:** Untitled
+**Title:** Waiting Too Long
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-573.md
 
 **ID:** `section-573`  
-**Title:** Untitled
+**Title:** A Bridge Between
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5220,14 +5279,14 @@ For each section, this shows which sections it points to.
 ### section-581.md
 
 **ID:** `section-581`  
-**Title:** Untitled
+**Title:** One Memory at a Time
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-583.md
 
 **ID:** `section-583`  
-**Title:** Untitled
+**Title:** Stepping Back
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5254,21 +5313,21 @@ For each section, this shows which sections it points to.
 ### section-591.md
 
 **ID:** `section-591`  
-**Title:** Untitled
+**Title:** Learning to Guide
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-592.md
 
 **ID:** `section-592`  
-**Title:** Untitled
+**Title:** Forcing Control
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-593.md
 
 **ID:** `section-593`  
-**Title:** Untitled
+**Title:** Understanding from the Keeper
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5305,21 +5364,21 @@ For each section, this shows which sections it points to.
 ### section-601.md
 
 **ID:** `section-601`  
-**Title:** Untitled
+**Title:** Sharing Observations
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-602.md
 
 **ID:** `section-602`  
-**Title:** Untitled
+**Title:** Helping the Magic Understand
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-603.md
 
 **ID:** `section-603`  
-**Title:** Untitled
+**Title:** Patient Observation
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5346,21 +5405,21 @@ For each section, this shows which sections it points to.
 ### section-611.md
 
 **ID:** `section-611`  
-**Title:** Untitled
+**Title:** Embracing the New Way
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-612.md
 
 **ID:** `section-612`  
-**Title:** Untitled
+**Title:** Holding Onto the Old Way
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-613.md
 
 **ID:** `section-613`  
-**Title:** Untitled
+**Title:** Seeking Understanding
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5387,21 +5446,21 @@ For each section, this shows which sections it points to.
 ### section-621.md
 
 **ID:** `section-621`  
-**Title:** Untitled
+**Title:** Practicing the New Way
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-622.md
 
 **ID:** `section-622`  
-**Title:** Untitled
+**Title:** Seeking Deeper Guidance
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-623.md
 
 **ID:** `section-623`  
-**Title:** Untitled
+**Title:** Sharing Knowledge
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5428,23 +5487,27 @@ For each section, this shows which sections it points to.
 ### section-631.md
 
 **ID:** `section-631`  
-**Title:** Untitled
+**Title:** Patient Teaching
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-640.md` (choice: "Continue with smaller groups and see how people respond")
 
 ### section-632.md
 
 **ID:** `section-632`  
-**Title:** Untitled
+**Title:** Overwhelming Everyone
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-631.md` (choice: "Realize the mistake and slow down")
+- `section-640.md` (choice: "Continue trying to explain everything at once")
 
 ### section-633.md
 
 **ID:** `section-633`  
-**Title:** Untitled
+**Title:** Seeking Help
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-640.md` (choice: "Work together with others to teach the community")
 
 ### section-64.md
 
@@ -5469,23 +5532,27 @@ For each section, this shows which sections it points to.
 ### section-641.md
 
 **ID:** `section-641`  
-**Title:** Untitled
+**Title:** Timely Intervention
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-650.md` (choice: "Continue helping people understand the magic")
 
 ### section-642.md
 
 **ID:** `section-642`  
-**Title:** Untitled
+**Title:** Waiting Too Long
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-641.md` (choice: "Realize the mistake and intervene now")
+- `section-650.md` (choice: "Continue waiting to see if people figure it out")
 
 ### section-643.md
 
 **ID:** `section-643`  
-**Title:** Untitled
+**Title:** Wise Counsel
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-650.md` (choice: "Use the advice to help people understand")
 
 ### section-65.md
 
@@ -5510,23 +5577,27 @@ For each section, this shows which sections it points to.
 ### section-651.md
 
 **ID:** `section-651`  
-**Title:** Untitled
+**Title:** Addressing Problems
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-660.md` (choice: "Continue helping address the problems you notice")
 
 ### section-652.md
 
 **ID:** `section-652`  
-**Title:** Untitled
+**Title:** Watching and Waiting
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-651.md` (choice: "Realize you should address the problems now")
+- `section-660.md` (choice: "Continue watching to see if more issues arise")
 
 ### section-653.md
 
 **ID:** `section-653`  
-**Title:** Untitled
+**Title:** Sharing Concerns
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-660.md` (choice: "Work together with others to address the problems")
 
 ### section-66.md
 
@@ -5551,21 +5622,21 @@ For each section, this shows which sections it points to.
 ### section-661.md
 
 **ID:** `section-661`  
-**Title:** Untitled
+**Title:** Letting Go
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-662.md
 
 **ID:** `section-662`  
-**Title:** Untitled
+**Title:** Controlling Everything
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-663.md
 
 **ID:** `section-663`  
-**Title:** Untitled
+**Title:** Stepping Back
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5592,21 +5663,21 @@ For each section, this shows which sections it points to.
 ### section-671.md
 
 **ID:** `section-671`  
-**Title:** Untitled
+**Title:** Taking Time to Reflect
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-672.md
 
 **ID:** `section-672`  
-**Title:** Untitled
+**Title:** Ignoring Reflection
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-673.md
 
 **ID:** `section-673`  
-**Title:** Untitled
+**Title:** Learning to Reflect
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5633,21 +5704,21 @@ For each section, this shows which sections it points to.
 ### section-681.md
 
 **ID:** `section-681`  
-**Title:** Untitled
+**Title:** Respecting Personal Reflection
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-682.md
 
 **ID:** `section-682`  
-**Title:** Untitled
+**Title:** Forcing Reflection
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-683.md
 
 **ID:** `section-683`  
-**Title:** Untitled
+**Title:** Stepping Back from Reflection
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5674,23 +5745,26 @@ For each section, this shows which sections it points to.
 ### section-691.md
 
 **ID:** `section-691`  
-**Title:** Untitled
+**Title:** Adding Emotion to Logic
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-700.md` (choice: "Continue showing the guardian what Christmas means")
 
 ### section-692.md
 
 **ID:** `section-692`  
-**Title:** Untitled
+**Title:** Showing Genuine Spirit
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-700.md` (choice: "Continue showing the guardian what Christmas really means")
 
 ### section-693.md
 
 **ID:** `section-693`  
-**Title:** Untitled
+**Title:** Understanding the Guardian
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-700.md` (choice: "Use what you've learned to help the guardian remember")
 
 ### section-7.md
 
@@ -5726,21 +5800,23 @@ For each section, this shows which sections it points to.
 ### section-701.md
 
 **ID:** `section-701`  
-**Title:** Untitled
+**Title:** Power and Spirit Together
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-710.md` (choice: "Continue showing the guardian the true meaning of Christmas")
 
 ### section-702.md
 
 **ID:** `section-702`  
-**Title:** Untitled
+**Title:** Genuine Spirit Alone
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-710.md` (choice: "Continue showing the guardian what Christmas really means")
 
 ### section-703.md
 
 **ID:** `section-703`  
-**Title:** Untitled
+**Title:** Power Without Spirit
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5767,16 +5843,18 @@ For each section, this shows which sections it points to.
 ### section-711.md
 
 **ID:** `section-711`  
-**Title:** Untitled
+**Title:** Sharing Global Observations
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-720.md` (choice: "Work with others to address the global patterns")
 
 ### section-712.md
 
 **ID:** `section-712`  
-**Title:** Untitled
+**Title:** Helping the World Adjust
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-720.md` (choice: "Continue working to help the world adjust to the changes")
 
 ### section-72.md
 
@@ -5801,23 +5879,26 @@ For each section, this shows which sections it points to.
 ### section-721.md
 
 **ID:** `section-721`  
-**Title:** Untitled
+**Title:** Balancing Support
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-730.md` (choice: "Continue finding balance between supporting Kvothe and helping the world")
 
 ### section-722.md
 
 **ID:** `section-722`  
-**Title:** Untitled
+**Title:** Realizing the Need for Balance
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-730.md` (choice: "Work to find better balance between supporting Kvothe and helping the world")
 
 ### section-723.md
 
 **ID:** `section-723`  
-**Title:** Untitled
+**Title:** Asking for Help
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-730.md` (choice: "Work together with others to support Kvothe and help the world")
 
 ### section-73.md
 
@@ -5842,23 +5923,26 @@ For each section, this shows which sections it points to.
 ### section-731.md
 
 **ID:** `section-731`  
-**Title:** Untitled
+**Title:** Processing the Past Together
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-740.md` (choice: "Continue helping Kvothe process their past")
 
 ### section-732.md
 
 **ID:** `section-732`  
-**Title:** Untitled
+**Title:** Using Understanding for Transformation
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-740.md` (choice: "Continue using the deeper understanding to help the transformation")
 
 ### section-733.md
 
 **ID:** `section-733`  
-**Title:** Untitled
+**Title:** Sharing What You've Learned
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-740.md` (choice: "Continue sharing what you've learned with others")
 
 ### section-74.md
 
@@ -5883,21 +5967,21 @@ For each section, this shows which sections it points to.
 ### section-741.md
 
 **ID:** `section-741`  
-**Title:** Untitled
+**Title:** Helping Process Pain
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-742.md
 
 **ID:** `section-742`  
-**Title:** Untitled
+**Title:** Celebration Without Processing
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-743.md
 
 **ID:** `section-743`  
-**Title:** Untitled
+**Title:** Finding Balance
 
 **Points to:** *No outgoing links (terminated)*
 
@@ -5924,23 +6008,25 @@ For each section, this shows which sections it points to.
 ### section-751.md
 
 **ID:** `section-751`  
-**Title:** Untitled
+**Title:** Asking for Help
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-760.md` (choice: "Work together with others to redistribute the magic")
 
 ### section-752.md
 
 **ID:** `section-752`  
-**Title:** Untitled
+**Title:** Trying Alone
 
 **Points to:** *No outgoing links (terminated)*
 
 ### section-753.md
 
 **ID:** `section-753`  
-**Title:** Untitled
+**Title:** Seeking Guidance
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-760.md` (choice: "Use the guidance to help redistribute the magic")
 
 ### section-76.md
 
@@ -5965,23 +6051,26 @@ For each section, this shows which sections it points to.
 ### section-761.md
 
 **ID:** `section-761`  
-**Title:** Untitled
+**Title:** Working Together with Kvothe
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-770.md` (choice: "Continue working together to guide the magic")
 
 ### section-762.md
 
 **ID:** `section-762`  
-**Title:** Untitled
+**Title:** Letting Kvothe Lead
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-770.md` (choice: "Continue supporting Kvothe as they guide the magic")
 
 ### section-763.md
 
 **ID:** `section-763`  
-**Title:** Untitled
+**Title:** Including Others
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-770.md` (choice: "Continue working together with others to guide the magic")
 
 ### section-77.md
 
@@ -6006,23 +6095,26 @@ For each section, this shows which sections it points to.
 ### section-771.md
 
 **ID:** `section-771`  
-**Title:** Untitled
+**Title:** Creating New Memories
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-780.md` (choice: "Continue helping create new memories in empty places")
 
 ### section-772.md
 
 **ID:** `section-772`  
-**Title:** Untitled
+**Title:** Understanding Why Magic Avoids
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-780.md` (choice: "Use your understanding to help the magic reach these places")
 
 ### section-773.md
 
 **ID:** `section-773`  
-**Title:** Untitled
+**Title:** Building Connections with People
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-780.md` (choice: "Continue working with people to build connections")
 
 ### section-78.md
 
@@ -6047,16 +6139,18 @@ For each section, this shows which sections it points to.
 ### section-781.md
 
 **ID:** `section-781`  
-**Title:** Untitled
+**Title:** Using Stories to Understand
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-784.md` (choice: "Use your understanding to help the magic learn")
 
 ### section-782.md
 
 **ID:** `section-782`  
-**Title:** Untitled
+**Title:** Helping Others See the Pattern
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-784.md` (choice: "Work together to help the magic learn")
 
 ### section-784.md
 
@@ -6289,7 +6383,7 @@ For each section, this shows which sections it points to.
 
 Total sections: **367**
 
-- Sections with incoming links: **355**
-- Sections with outgoing links: **210**
-- Terminated sections (no outgoing links): **157**
-- Sections with no incoming links: **12**
+- Sections with incoming links: **367**
+- Sections with outgoing links: **247**
+- Terminated sections (no outgoing links): **120**
+- Sections with no incoming links: **0**

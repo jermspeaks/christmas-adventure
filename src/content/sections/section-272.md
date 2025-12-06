@@ -4,6 +4,8 @@ title: "True Balance"
 choices:
   - text: "Work to truly balance the magic flow"
     target: section-302.md
+  - text: "Continue working toward perfect flow"
+    target: section-352.md
 ---
 
 # True Balance

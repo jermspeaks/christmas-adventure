@@ -6,6 +6,8 @@ choices:
     target: section-17.md
   - text: "Learn more about the forest's dangers"
     target: section-18.md
+  - text: "Take the supplies but ignore Elara's warnings"
+    target: section-407.md
   - text: "Set off immediately with Cheshire"
     target: section-19.md
 ---

@@ -1,7 +1,9 @@
 ---
 id: section-304
 title: "Partial Understanding"
-choices: []
+choices:
+  - text: "Everyone understands now"
+    target: section-290.md
 ---
 
 # Partial Understanding
