@@ -540,7 +540,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
     
     Page numbering is reset after the spacer page so content displays starting from 1.
     
-    Uses default pandoc/LaTeX paper size and margins.
+    Uses 0.75 inch margins on all sides (narrower than default LaTeX margins).
     All fonts embedded automatically by LaTeX/pandoc.
     """
     import subprocess
@@ -601,6 +601,11 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         except:
             continue
     
+    # Set margins to 0.75 inches on all sides (narrower than default LaTeX margins)
+    margin_settings = [
+        '-V', 'geometry:margin=0.75in'
+    ]
+    
     if not pdf_engine:
         # Try without specifying engine - let pandoc choose
         cmd = [
@@ -608,7 +613,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             temp_md,
             '-o', output_file,
             '-V', 'fontsize=11pt'
-        ]
+        ] + margin_settings
     else:
         cmd = [
             'pandoc',
@@ -616,7 +621,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             '-o', output_file,
             f'--pdf-engine={pdf_engine}',
             '-V', 'fontsize=11pt'
-        ]
+        ] + margin_settings
     
     try:
         result = subprocess.run(cmd, check=True, capture_output=True, text=True)
