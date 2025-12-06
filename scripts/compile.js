@@ -25,7 +25,7 @@ function loadPageMapping(mappingFile = 'page-mapping.json') {
 }
 
 function ensurePageMapping() {
-    const sectionsDir = path.join(__dirname, '..', 'sections');
+    const sectionsDir = path.join(__dirname, '..', 'src', 'content', 'sections');
     const mappingFile = path.join(__dirname, '..', 'page-mapping.json');
     
     // Check if sections directory exists
@@ -471,7 +471,7 @@ function generateEPUB(sectionsData, outputFile = 'output/adventure.epub') {
     }
 }
 
-function compileBook(sectionsDir = 'sections', mappingFile = 'page-mapping.json', outputDir = 'output') {
+function compileBook(sectionsDir = 'src/content/sections', mappingFile = 'page-mapping.json', outputDir = 'output') {
     // Ensure page mapping is up to date before compiling
     ensurePageMapping();
     
@@ -540,7 +540,7 @@ function compileBook(sectionsDir = 'sections', mappingFile = 'page-mapping.json'
 }
 
 // Main execution
-const sectionsDir = process.argv[2] || 'sections';
+const sectionsDir = process.argv[2] || 'src/content/sections';
 const mappingFile = process.argv[3] || 'page-mapping.json';
 const outputDir = process.argv[4] || 'output';
 

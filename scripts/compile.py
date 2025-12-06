@@ -431,7 +431,7 @@ def generate_epub(sections_data, output_file='output/adventure.epub'):
     except FileNotFoundError:
         print("pandoc not found. Install it with: brew install pandoc")
 
-def compile_book(sections_dir='sections', mapping_file='page-mapping.json', 
+def compile_book(sections_dir='src/content/sections', mapping_file='page-mapping.json', 
                  output_dir='output'):
     """Main compilation function."""
     print("Loading page mapping...")
@@ -472,7 +472,7 @@ def compile_book(sections_dir='sections', mapping_file='page-mapping.json',
 if __name__ == '__main__':
     import sys
     
-    sections_dir = sys.argv[1] if len(sys.argv) > 1 else 'sections'
+    sections_dir = sys.argv[1] if len(sys.argv) > 1 else 'src/content/sections'
     mapping_file = sys.argv[2] if len(sys.argv) > 2 else 'page-mapping.json'
     output_dir = sys.argv[3] if len(sys.argv) > 3 else 'output'
     
