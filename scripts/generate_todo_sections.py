@@ -260,6 +260,19 @@ def generate_todo_file(incomplete_terminated, orphaned, missing_files, output_fi
 
 def main():
     """Main function."""
+    import sys
+    from pathlib import Path
+    
+    # Check if DECISIONS.md exists
+    decisions_file = Path('DECISIONS.md')
+    if not decisions_file.exists():
+        print("Error: DECISIONS.md not found.")
+        print("Please generate DECISIONS.md first by running:")
+        print("  uv run python scripts/generate_decisions.py")
+        print("or")
+        print("  python scripts/generate_decisions.py")
+        sys.exit(1)
+    
     sections = parse_decisions()
     incomplete_terminated, orphaned, missing_files = categorize_sections(sections)
     generate_todo_file(incomplete_terminated, orphaned, missing_files)
