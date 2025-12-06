@@ -11,36 +11,12 @@ It checks structural integrity (links, choice text) and basic narrative continui
 
 - **Total sections checked:** 367
 - **Critical issues:** 0
-- **Warnings:** 181
+- **Warnings:** 177
 - **Info:** 0
 
 ## Warnings
 
 These issues should be reviewed and may need fixes.
-
-### Choice Text Mismatches
-
-Choice text in section files doesn't match what's recorded:
-
-- `section-17.md` → `section-19.md`
-  - DECISIONS.md says: "Ignore the whispers and keep moving"
-  - Actual choice: "Listen to what the trees are saying"
-  - **Action:** Update choice text to match or regenerate DECISIONS.md
-
-- `section-18.md` → `section-19.md`
-  - DECISIONS.md says: "Continue following the Keepsake Keeper's guidance"
-  - Actual choice: "Investigate the clearing"
-  - **Action:** Update choice text to match or regenerate DECISIONS.md
-
-- `section-18.md` → `section-19.md`
-  - DECISIONS.md says: "Rest and eat a star cookie"
-  - Actual choice: "Investigate the clearing"
-  - **Action:** Update choice text to match or regenerate DECISIONS.md
-
-- `section-520.md` → `section-404.md`
-  - DECISIONS.md says: "Continue observing obsessively"
-  - Actual choice: "Become too cautious and hesitate"
-  - **Action:** Update choice text to match or regenerate DECISIONS.md
 
 ### Location Mismatches
 

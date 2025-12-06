@@ -252,28 +252,43 @@ def validate_structural_integrity(sections_info, outgoing_map, incoming_map):
             target = link['target']
             expected_text = link['text']
             
-            # Find matching choice in file
+            # Find matching choice in file by BOTH target AND text
             found = False
             for file_choice in file_choices:
-                if file_choice.get('target') == target:
-                    actual_text = file_choice.get('text', '')
-                    if actual_text != expected_text:
-                        issues['choice_mismatches'].append({
-                            'source': source,
-                            'target': target,
-                            'expected': expected_text,
-                            'actual': actual_text
-                        })
+                file_target = file_choice.get('target', '')
+                file_text = file_choice.get('text', '')
+                
+                # Match by both target and text to avoid false positives
+                # when multiple choices point to the same target
+                if file_target == target and file_text == expected_text:
                     found = True
                     break
             
             if not found:
-                issues['choice_mismatches'].append({
-                    'source': source,
-                    'target': target,
-                    'expected': expected_text,
-                    'actual': 'CHOICE NOT FOUND IN FILE'
-                })
+                # Check if there's a choice with the same target but different text
+                # (this would be a legitimate mismatch)
+                matching_target_choices = [
+                    fc for fc in file_choices 
+                    if fc.get('target') == target
+                ]
+                
+                if matching_target_choices:
+                    # Found choices with same target but different text
+                    actual_text = matching_target_choices[0].get('text', '')
+                    issues['choice_mismatches'].append({
+                        'source': source,
+                        'target': target,
+                        'expected': expected_text,
+                        'actual': actual_text
+                    })
+                else:
+                    # No choice found with this target at all
+                    issues['choice_mismatches'].append({
+                        'source': source,
+                        'target': target,
+                        'expected': expected_text,
+                        'actual': 'CHOICE NOT FOUND IN FILE'
+                    })
     
     # Check bidirectional consistency
     for target, incoming_links in incoming_map.items():
