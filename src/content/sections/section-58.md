@@ -8,6 +8,8 @@ choices:
     target: section-111.md
   - text: "Look for evidence of a deeper relationship"
     target: section-112.md
+  - text: "Accuse Velma of the murder"
+    target: section-89.md
 ---
 
 # Velma and Eleanor's Friendship

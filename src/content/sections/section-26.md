@@ -8,6 +8,8 @@ choices:
     target: section-48.md
   - text: "Investigate Alistair Finch's connection to the case"
     target: section-49.md
+  - text: "Jump to conclusions without enough evidence"
+    target: section-93.md
 ---
 
 # Narrowing the Field

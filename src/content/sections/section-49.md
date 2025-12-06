@@ -8,6 +8,10 @@ choices:
     target: section-78.md
   - text: "Look for evidence that he was involved"
     target: section-79.md
+  - text: "Accuse Alistair of the murder"
+    target: section-91.md
+  - text: "Jump to conclusions without enough evidence"
+    target: section-93.md
 ---
 
 # Investigating Alistair Finch

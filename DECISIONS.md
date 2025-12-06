@@ -30,7 +30,7 @@ For each section, this shows which sections lead to it.
 ### section-100.md
 
 **ID:** `section-100`  
-**Title:** Untitled
+**Title:** Looking for Evidence of Tension Between Marcus and Eleanor
 
 **Referenced by:**
 - `section-54.md` (choice: "Look for evidence of tension between them")
@@ -38,7 +38,7 @@ For each section, this shows which sections lead to it.
 ### section-101.md
 
 **ID:** `section-101`  
-**Title:** Untitled
+**Title:** Asking Marcus Directly About Stealing Books
 
 **Referenced by:**
 - `section-55.md` (choice: "Ask him directly if he's been stealing books")
@@ -46,23 +46,25 @@ For each section, this shows which sections lead to it.
 ### section-102.md
 
 **ID:** `section-102`  
-**Title:** Untitled
+**Title:** Looking for Evidence of Missing Books
 
 **Referenced by:**
+- `section-103.md` (choice: "Look for discrepancies")
 - `section-55.md` (choice: "Look for evidence of missing books")
 
 ### section-103.md
 
 **ID:** `section-103`  
-**Title:** Untitled
+**Title:** Checking the Inventory Records
 
 **Referenced by:**
+- `section-102.md` (choice: "Check the inventory records")
 - `section-55.md` (choice: "Check the inventory records")
 
 ### section-104.md
 
 **ID:** `section-104`  
-**Title:** Untitled
+**Title:** Asking Velma to Describe What She Saw
 
 **Referenced by:**
 - `section-56.md` (choice: "Ask Velma to describe exactly what she saw")
@@ -70,23 +72,25 @@ For each section, this shows which sections lead to it.
 ### section-105.md
 
 **ID:** `section-105`  
-**Title:** Untitled
+**Title:** Investigating Why Velma Didn't Call for Help
 
 **Referenced by:**
+- `section-104.md` (choice: "Investigate why she didn't call for help")
 - `section-56.md` (choice: "Investigate why she didn't call for help immediately")
 
 ### section-106.md
 
 **ID:** `section-106`  
-**Title:** Untitled
+**Title:** Checking if Velma's Story Matches the Evidence
 
 **Referenced by:**
+- `section-104.md` (choice: "Check if her story matches the evidence")
 - `section-56.md` (choice: "Check if her story matches the evidence")
 
 ### section-107.md
 
 **ID:** `section-107`  
-**Title:** Untitled
+**Title:** Verifying That Velma Actually Paid for the Book
 
 **Referenced by:**
 - `section-57.md` (choice: "Verify that Velma actually paid for the book")
@@ -94,7 +98,7 @@ For each section, this shows which sections lead to it.
 ### section-108.md
 
 **ID:** `section-108`  
-**Title:** Untitled
+**Title:** Checking if the Book Is Actually Valuable
 
 **Referenced by:**
 - `section-57.md` (choice: "Check if the book is actually valuable")
@@ -102,7 +106,7 @@ For each section, this shows which sections lead to it.
 ### section-109.md
 
 **ID:** `section-109`  
-**Title:** Untitled
+**Title:** Investigating if Velma Has a History of Taking Things
 
 **Referenced by:**
 - `section-57.md` (choice: "Investigate if Velma has a history of taking things")
@@ -121,23 +125,25 @@ For each section, this shows which sections lead to it.
 ### section-110.md
 
 **ID:** `section-110`  
-**Title:** Untitled
+**Title:** Asking Velma About Conflicts with Eleanor
 
 **Referenced by:**
 - `section-58.md` (choice: "Ask Velma about any recent conflicts with Eleanor")
+- `section-67.md` (choice: "Look for evidence of any conflicts")
 
 ### section-111.md
 
 **ID:** `section-111`  
-**Title:** Untitled
+**Title:** Investigating if There Was Tension Between Velma and Eleanor
 
 **Referenced by:**
+- `section-110.md` (choice: "Look for evidence of the conflicts")
 - `section-58.md` (choice: "Investigate if there was any tension between them")
 
 ### section-112.md
 
 **ID:** `section-112`  
-**Title:** Untitled
+**Title:** Looking for Evidence of a Deeper Relationship
 
 **Referenced by:**
 - `section-58.md` (choice: "Look for evidence of a deeper relationship")
@@ -949,7 +955,19 @@ For each section, this shows which sections lead to it.
 **ID:** `section-24`  
 **Title:** Gathering Clues
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-100.md` (choice: "Check Eleanor's journal entries")
+- `section-109.md` (choice: "Check with other customers")
+- `section-111.md` (choice: "Check Eleanor's journal")
+- `section-23.md` (choice: "Search the storage room for more clues")
+- `section-59.md` (choice: "Continue investigating on your own")
+- `section-60.md` (choice: "Ask what they've found so far")
+- `section-61.md` (choice: "Continue investigating on your own")
+- `section-70.md` (choice: "Look for other customers who were in the shop")
+- `section-76.md` (choice: "Look for other customers' clothing")
+- `section-96.md` (choice: "Look for witnesses")
+- `section-97.md` (choice: "Ask other customers if they saw him")
+- `section-99.md` (choice: "Check Eleanor's journal more carefully")
 
 ### section-240.md
 
@@ -1036,7 +1054,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-25`  
 **Title:** Red Herrings
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-40.md` (choice: "Follow up on suspicious behavior you noticed")
 
 ### section-250.md
 
@@ -1131,7 +1150,14 @@ For each section, this shows which sections lead to it.
 **ID:** `section-27`  
 **Title:** The Truth Emerges
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-40.md` (choice: "Review all your evidence and prepare to confront the suspect")
+- `section-51.md` (choice: "Review all your evidence and prepare to confront the suspect")
+- `section-52.md` (choice: "Review all your evidence and prepare to confront the suspect")
+- `section-60.md` (choice: "Request to see the evidence they've collected")
+- `section-62.md` (choice: "Check if there are any security cameras")
+- `section-68.md` (choice: "Look for evidence of a conspiracy")
+- `section-97.md` (choice: "Check security footage if it exists")
 
 ### section-270.md
 
@@ -1566,6 +1592,7 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-24.md` (choice: "Re-interview Marcus about his alibi")
 - `section-36.md` (choice: "Wait for the police and observe who arrives")
+- `section-62.md` (choice: "Question Marcus about when he arrived")
 
 ### section-410.md
 
@@ -1605,8 +1632,19 @@ For each section, this shows which sections lead to it.
 **Title:** Interviewing Velma
 
 **Referenced by:**
+- `section-106.md` (choice: "Check if her alibi holds up")
+- `section-107.md` (choice: "Ask Eleanor's records")
+- `section-108.md` (choice: "Ask a rare book expert")
+- `section-109.md` (choice: "Ask Eleanor's records")
+- `section-112.md` (choice: "Ask Velma more about their friendship")
 - `section-24.md` (choice: "Interview Velma about what she saw")
 - `section-36.md` (choice: "Search for other people in the shop immediately")
+- `section-62.md` (choice: "Question Velma about when she arrived")
+- `section-64.md` (choice: "Focus on Velma—she found the body")
+- `section-67.md` (choice: "Check if Velma had any motive")
+- `section-69.md` (choice: "Look for evidence she knew about the theft")
+- `section-74.md` (choice: "Ask if she recognizes it")
+- `section-76.md` (choice: "Check Velma's coat")
 
 ### section-43.md
 
@@ -1614,8 +1652,11 @@ For each section, this shows which sections lead to it.
 **Title:** Talking to Officer Martinez
 
 **Referenced by:**
+- `section-102.md` (choice: "Ask Officer Martinez about it")
 - `section-24.md` (choice: "Talk to Officer Martinez about the investigation")
 - `section-36.md` (choice: "Check if anyone else saw or heard anything")
+- `section-63.md` (choice: "Ask Officer Martinez about the medical examiner's estimate")
+- `section-99.md` (choice: "Ask Officer Martinez about it")
 
 ### section-44.md
 
@@ -1623,8 +1664,12 @@ For each section, this shows which sections lead to it.
 **Title:** Reconstructing the Timeline
 
 **Referenced by:**
+- `section-106.md` (choice: "Compare her timeline to the evidence")
 - `section-25.md` (choice: "Reconstruct the timeline of what happened")
 - `section-37.md` (choice: "Let Yuzu lead you wherever he wants to go")
+- `section-63.md` (choice: "Check Eleanor's tea temperature more carefully")
+- `section-70.md` (choice: "Check if there were any other employees")
+- `section-96.md` (choice: "Verify his timeline")
 
 ### section-45.md
 
@@ -1634,6 +1679,8 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-25.md` (choice: "Investigate the motives of each suspect")
 - `section-37.md` (choice: "Search the areas Yuzu seems interested in")
+- `section-63.md` (choice: "Look for other clues about timing")
+- `section-70.md` (choice: "Investigate if anyone else had a motive")
 
 ### section-450.md
 
@@ -1704,6 +1751,7 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-25.md` (choice: "Search for connections between the suspects")
 - `section-37.md` (choice: "Pay attention to what Yuzu is sniffing or pawing at")
+- `section-64.md` (choice: "Consider if someone else could have been involved")
 
 ### section-47.md
 
@@ -1711,9 +1759,20 @@ For each section, this shows which sections lead to it.
 **Title:** Confronting Marcus
 
 **Referenced by:**
+- `section-106.md` (choice: "Focus on Marcus instead")
+- `section-107.md` (choice: "Focus on the murder instead")
+- `section-108.md` (choice: "Focus on the murder instead")
+- `section-109.md` (choice: "Focus on the murder instead")
+- `section-110.md` (choice: "Focus on Marcus instead")
+- `section-111.md` (choice: "Focus on Marcus instead")
+- `section-112.md` (choice: "Focus on Marcus instead")
 - `section-26.md` (choice: "Confront Marcus about the inconsistencies in his story")
 - `section-38.md` (choice: "Compare the handwriting on the note to samples you can find")
 - `section-39.md` (choice: "Look through Eleanor's desk drawers")
+- `section-64.md` (choice: "Focus on Marcus—he had the most opportunity")
+- `section-65.md` (choice: "Look for evidence of his debts")
+- `section-79.md` (choice: "Focus on Marcus instead")
+- `section-96.md` (choice: "Check the rare books section more carefully")
 
 ### section-48.md
 
@@ -1766,6 +1825,10 @@ For each section, this shows which sections lead to it.
 - `section-26.md` (choice: "Investigate Alistair Finch's connection to the case")
 - `section-38.md` (choice: "Investigate where the letter opener came from")
 - `section-39.md` (choice: "Examine Eleanor's calendar and appointment book")
+- `section-66.md` (choice: "Look into his relationship with Eleanor")
+- `section-68.md` (choice: "Check if they had any business dealings together")
+- `section-77.md` (choice: "Ask about the threatening letters")
+- `section-78.md` (choice: "Verify he was at the auction")
 
 ### section-5.md
 
@@ -1782,8 +1845,19 @@ For each section, this shows which sections lead to it.
 **Title:** Confronting Marcus with Evidence
 
 **Referenced by:**
+- `section-101.md` (choice: "Show him the evidence")
+- `section-103.md` (choice: "Compare them to the actual collection")
 - `section-27.md` (choice: "Confront Marcus with the evidence")
 - `section-40.md` (choice: "Take photos with your phone of everything you see")
+- `section-59.md` (choice: "Wait for the police to process everything")
+- `section-61.md` (choice: "Accept that you need to step back")
+- `section-71.md` (choice: "Present all your evidence")
+- `section-72.md` (choice: "Show him the button and wait for his reaction")
+- `section-75.md` (choice: "Get Officer Martinez to verify it")
+- `section-95.md` (choice: "Continue questioning him")
+- `section-97.md` (choice: "Focus on the physical evidence instead")
+- `section-98.md` (choice: "Focus on the murder instead")
+- `section-99.md` (choice: "Look for evidence in her files")
 
 ### section-51.md
 
@@ -1793,6 +1867,10 @@ For each section, this shows which sections lead to it.
 **Referenced by:**
 - `section-27.md` (choice: "Gather final proof before confronting anyone")
 - `section-40.md` (choice: "Write down detailed notes about the scene")
+- `section-59.md` (choice: "Look for more evidence while the police work")
+- `section-71.md` (choice: "Wait for more proof")
+- `section-75.md` (choice: "Look for more evidence first")
+- `section-95.md` (choice: "Gather more evidence first")
 
 ### section-52.md
 
@@ -1800,8 +1878,13 @@ For each section, this shows which sections lead to it.
 **Title:** Presenting to Officer Martinez
 
 **Referenced by:**
+- `section-101.md` (choice: "Let Officer Martinez handle it")
+- `section-103.md` (choice: "Present the evidence to Officer Martinez")
 - `section-27.md` (choice: "Present everything to Officer Martinez")
 - `section-40.md` (choice: "Sketch a diagram of the office layout")
+- `section-71.md` (choice: "Let Officer Martinez handle it")
+- `section-72.md` (choice: "Let Officer Martinez handle the confrontation")
+- `section-95.md` (choice: "Let Officer Martinez take over")
 
 ### section-520.md
 
@@ -1874,6 +1957,7 @@ For each section, this shows which sections lead to it.
 
 **Referenced by:**
 - `section-41.md` (choice: "Press him about his alibi and where he really was")
+- `section-73.md` (choice: "Press him harder on his alibi")
 
 ### section-54.md
 
@@ -1881,7 +1965,11 @@ For each section, this shows which sections lead to it.
 **Title:** Marcus and Eleanor's Relationship
 
 **Referenced by:**
+- `section-100.md` (choice: "Look for other evidence of conflicts")
 - `section-41.md` (choice: "Ask about his relationship with Eleanor")
+- `section-65.md` (choice: "Investigate his relationship with Eleanor")
+- `section-73.md` (choice: "Ask about his relationship with Eleanor")
+- `section-98.md` (choice: "Press him on the details")
 
 ### section-55.md
 
@@ -1889,7 +1977,11 @@ For each section, this shows which sections lead to it.
 **Title:** Questioning Marcus About the Rare Books
 
 **Referenced by:**
+- `section-101.md` (choice: "Press him on the details")
+- `section-102.md` (choice: "Compare the collection to the catalog")
 - `section-41.md` (choice: "Question him about the rare book collection")
+- `section-65.md` (choice: "Check if he had access to the rare books")
+- `section-68.md` (choice: "Investigate if Marcus was selling books to Alistair")
 
 ### section-550.md
 
@@ -1913,6 +2005,8 @@ For each section, this shows which sections lead to it.
 **Title:** Velma's Discovery
 
 **Referenced by:**
+- `section-104.md` (choice: "Press her on the details")
+- `section-105.md` (choice: "Ask her directly about it")
 - `section-42.md` (choice: "Ask about what she saw when she found Eleanor")
 
 ### section-560.md
@@ -1937,7 +2031,10 @@ For each section, this shows which sections lead to it.
 **Title:** The Book Velma Took
 
 **Referenced by:**
+- `section-107.md` (choice: "Check the receipt")
+- `section-108.md` (choice: "Research its value")
 - `section-42.md` (choice: "Question her about the book she took")
+- `section-69.md` (choice: "Check if she had any interest in rare books")
 
 ### section-570.md
 
@@ -1977,7 +2074,13 @@ For each section, this shows which sections lead to it.
 **Title:** Velma and Eleanor's Friendship
 
 **Referenced by:**
+- `section-105.md` (choice: "Check if she's hiding something")
+- `section-110.md` (choice: "Press her on the details")
+- `section-111.md` (choice: "Look for evidence in Eleanor's files")
+- `section-112.md` (choice: "Check Eleanor's personal files")
 - `section-42.md` (choice: "Investigate her relationship with Eleanor")
+- `section-67.md` (choice: "Ask Velma more about their friendship")
+- `section-69.md` (choice: "Ask Velma directly about the collection")
 
 ### section-580.md
 
@@ -2006,10 +2109,12 @@ For each section, this shows which sections lead to it.
 ### section-59.md
 
 **ID:** `section-59`  
-**Title:** Untitled
+**Title:** Sharing Evidence with Officer Martinez
 
 **Referenced by:**
 - `section-43.md` (choice: "Share all the evidence you've found")
+- `section-60.md` (choice: "Share your own findings")
+- `section-61.md` (choice: "Share all your evidence first")
 
 ### section-590.md
 
@@ -2054,7 +2159,7 @@ For each section, this shows which sections lead to it.
 ### section-60.md
 
 **ID:** `section-60`  
-**Title:** Untitled
+**Title:** Learning About the Police Investigation
 
 **Referenced by:**
 - `section-43.md` (choice: "Ask about the police investigation")
@@ -2094,7 +2199,7 @@ For each section, this shows which sections lead to it.
 ### section-61.md
 
 **ID:** `section-61`  
-**Title:** Untitled
+**Title:** Requesting to Join the Investigation
 
 **Referenced by:**
 - `section-43.md` (choice: "Request to be part of the official investigation")
@@ -2134,7 +2239,7 @@ For each section, this shows which sections lead to it.
 ### section-62.md
 
 **ID:** `section-62`  
-**Title:** Untitled
+**Title:** Piecing Together Arrival Times
 
 **Referenced by:**
 - `section-44.md` (choice: "Piece together when everyone arrived at the shop")
@@ -2174,7 +2279,7 @@ For each section, this shows which sections lead to it.
 ### section-63.md
 
 **ID:** `section-63`  
-**Title:** Untitled
+**Title:** Determining Time of Death
 
 **Referenced by:**
 - `section-44.md` (choice: "Figure out when Eleanor was killed")
@@ -2214,7 +2319,7 @@ For each section, this shows which sections lead to it.
 ### section-64.md
 
 **ID:** `section-64`  
-**Title:** Untitled
+**Title:** Opportunity Based on Timing
 
 **Referenced by:**
 - `section-44.md` (choice: "Determine who had opportunity based on timing")
@@ -2254,7 +2359,7 @@ For each section, this shows which sections lead to it.
 ### section-65.md
 
 **ID:** `section-65`  
-**Title:** Untitled
+**Title:** Researching Marcus's Financial Situation
 
 **Referenced by:**
 - `section-45.md` (choice: "Research Marcus's financial situation")
@@ -2294,7 +2399,7 @@ For each section, this shows which sections lead to it.
 ### section-66.md
 
 **ID:** `section-66`  
-**Title:** Untitled
+**Title:** Investigating Alistair Finch's Business Dealings
 
 **Referenced by:**
 - `section-45.md` (choice: "Look into Alistair Finch's business dealings")
@@ -2334,7 +2439,7 @@ For each section, this shows which sections lead to it.
 ### section-67.md
 
 **ID:** `section-67`  
-**Title:** Untitled
+**Title:** Investigating Velma's Relationship with Eleanor
 
 **Referenced by:**
 - `section-45.md` (choice: "Investigate Velma's relationship with Eleanor")
@@ -2374,10 +2479,14 @@ For each section, this shows which sections lead to it.
 ### section-68.md
 
 **ID:** `section-68`  
-**Title:** Untitled
+**Title:** Looking for Connections Between Marcus and Alistair
 
 **Referenced by:**
 - `section-46.md` (choice: "Look for connections between Marcus and Alistair")
+- `section-66.md` (choice: "Investigate if he had any connection to Marcus")
+- `section-77.md` (choice: "Question him about his relationship with Marcus")
+- `section-78.md` (choice: "Check his business records")
+- `section-79.md` (choice: "Investigate his connection to Marcus")
 
 ### section-680.md
 
@@ -2414,7 +2523,7 @@ For each section, this shows which sections lead to it.
 ### section-69.md
 
 **ID:** `section-69`  
-**Title:** Untitled
+**Title:** Investigating if Velma Knew About the Rare Books
 
 **Referenced by:**
 - `section-46.md` (choice: "Investigate if Velma knew about the rare books")
@@ -2462,10 +2571,12 @@ For each section, this shows which sections lead to it.
 ### section-70.md
 
 **ID:** `section-70`  
-**Title:** Untitled
+**Title:** Searching for Other People Who Might Be Involved
 
 **Referenced by:**
 - `section-46.md` (choice: "Search for other people who might be involved")
+- `section-78.md` (choice: "Investigate his relationship with Marcus")
+- `section-79.md` (choice: "Check if he hired someone")
 
 ### section-700.md
 
@@ -2502,10 +2613,12 @@ For each section, this shows which sections lead to it.
 ### section-71.md
 
 **ID:** `section-71`  
-**Title:** Untitled
+**Title:** Accusing Marcus Directly
 
 **Referenced by:**
 - `section-47.md` (choice: "Accuse Marcus directly with the evidence you have")
+- `section-72.md` (choice: "Present all the evidence at once")
+- `section-73.md` (choice: "Show him all the evidence")
 
 ### section-710.md
 
@@ -2534,10 +2647,11 @@ For each section, this shows which sections lead to it.
 ### section-72.md
 
 **ID:** `section-72`  
-**Title:** Untitled
+**Title:** Trying to Get Marcus to Confess
 
 **Referenced by:**
 - `section-47.md` (choice: "Try to get him to confess by showing him the button")
+- `section-75.md` (choice: "Confront Marcus with the match")
 
 ### section-720.md
 
@@ -2574,7 +2688,7 @@ For each section, this shows which sections lead to it.
 ### section-73.md
 
 **ID:** `section-73`  
-**Title:** Untitled
+**Title:** Asking Marcus About Inconsistencies
 
 **Referenced by:**
 - `section-47.md` (choice: "Ask him about the inconsistencies in his story")
@@ -2614,7 +2728,7 @@ For each section, this shows which sections lead to it.
 ### section-74.md
 
 **ID:** `section-74`  
-**Title:** Untitled
+**Title:** Showing the Button to Velma
 
 **Referenced by:**
 - `section-48.md` (choice: "Show the button to Velma and see if she recognizes it")
@@ -2654,10 +2768,12 @@ For each section, this shows which sections lead to it.
 ### section-75.md
 
 **ID:** `section-75`  
-**Title:** Untitled
+**Title:** Comparing the Button to Marcus's Cardigan
 
 **Referenced by:**
 - `section-48.md` (choice: "Compare the button to Marcus's cardigan")
+- `section-74.md` (choice: "Focus on Marcus instead")
+- `section-76.md` (choice: "Focus on Marcus's cardigan")
 
 ### section-750.md
 
@@ -2694,10 +2810,11 @@ For each section, this shows which sections lead to it.
 ### section-76.md
 
 **ID:** `section-76`  
-**Title:** Untitled
+**Title:** Searching for Other Clothing Items That Might Match
 
 **Referenced by:**
 - `section-48.md` (choice: "Search for other clothing items that might match")
+- `section-74.md` (choice: "Compare it to other clothing in the shop")
 
 ### section-760.md
 
@@ -2734,7 +2851,7 @@ For each section, this shows which sections lead to it.
 ### section-77.md
 
 **ID:** `section-77`  
-**Title:** Untitled
+**Title:** Calling Alistair Finch
 
 **Referenced by:**
 - `section-49.md` (choice: "Call Alistair Finch and question him")
@@ -2774,10 +2891,12 @@ For each section, this shows which sections lead to it.
 ### section-78.md
 
 **ID:** `section-78`  
-**Title:** Untitled
+**Title:** Researching Alistair's Business and Alibi
 
 **Referenced by:**
 - `section-49.md` (choice: "Research his business and check his alibi")
+- `section-66.md` (choice: "Check his alibi at the auction")
+- `section-77.md` (choice: "Verify his alibi")
 
 ### section-780.md
 
@@ -2830,7 +2949,7 @@ For each section, this shows which sections lead to it.
 ### section-79.md
 
 **ID:** `section-79`  
-**Title:** Untitled
+**Title:** Looking for Evidence Alistair Was Involved
 
 **Referenced by:**
 - `section-49.md` (choice: "Look for evidence that he was involved")
@@ -2925,7 +3044,12 @@ For each section, this shows which sections lead to it.
 **ID:** `section-89`  
 **Title:** False Ending: Accusing Velma
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-105.md` (choice: "Consider if she might be the killer")
+- `section-42.md` (choice: "Accuse Velma of the murder")
+- `section-56.md` (choice: "Accuse Velma of the murder")
+- `section-57.md` (choice: "Accuse Velma of the murder")
+- `section-58.md` (choice: "Accuse Velma of the murder")
 
 ### section-9.md
 
@@ -2950,7 +3074,8 @@ For each section, this shows which sections lead to it.
 **ID:** `section-91`  
 **Title:** False Ending: Accusing Alistair
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-49.md` (choice: "Accuse Alistair of the murder")
 
 ### section-92.md
 
@@ -2965,7 +3090,9 @@ For each section, this shows which sections lead to it.
 **ID:** `section-93`  
 **Title:** False Ending: Incomplete Investigation
 
-**Referenced by:** *No incoming links*
+**Referenced by:**
+- `section-26.md` (choice: "Jump to conclusions without enough evidence")
+- `section-49.md` (choice: "Jump to conclusions without enough evidence")
 
 ### section-94.md
 
@@ -2978,7 +3105,7 @@ For each section, this shows which sections lead to it.
 ### section-95.md
 
 **ID:** `section-95`  
-**Title:** Untitled
+**Title:** Pressing Marcus Until He Breaks
 
 **Referenced by:**
 - `section-53.md` (choice: "Keep questioning him until he breaks")
@@ -2986,7 +3113,7 @@ For each section, this shows which sections lead to it.
 ### section-96.md
 
 **ID:** `section-96`  
-**Title:** Untitled
+**Title:** Looking for Evidence That Contradicts Marcus's Story
 
 **Referenced by:**
 - `section-53.md` (choice: "Look for evidence that contradicts his story")
@@ -2994,7 +3121,7 @@ For each section, this shows which sections lead to it.
 ### section-97.md
 
 **ID:** `section-97`  
-**Title:** Untitled
+**Title:** Checking if Anyone Can Verify Marcus's Alibi
 
 **Referenced by:**
 - `section-53.md` (choice: "Check if anyone else can verify his alibi")
@@ -3002,18 +3129,20 @@ For each section, this shows which sections lead to it.
 ### section-98.md
 
 **ID:** `section-98`  
-**Title:** Untitled
+**Title:** Asking Marcus About Conflicts with Eleanor
 
 **Referenced by:**
+- `section-100.md` (choice: "Ask Marcus directly")
 - `section-54.md` (choice: "Ask Marcus about any recent conflicts with Eleanor")
 
 ### section-99.md
 
 **ID:** `section-99`  
-**Title:** Untitled
+**Title:** Investigating if Eleanor Was Planning to Fire Marcus
 
 **Referenced by:**
 - `section-54.md` (choice: "Investigate if Eleanor was planning to fire him")
+- `section-98.md` (choice: "Look for evidence of the conflicts")
 
 ---
 
@@ -3042,72 +3171,102 @@ For each section, this shows which sections it points to.
 ### section-100.md
 
 **ID:** `section-100`  
-**Title:** Untitled
+**Title:** Looking for Evidence of Tension Between Marcus and Eleanor
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Check Eleanor's journal entries")
+- `section-54.md` (choice: "Look for other evidence of conflicts")
+- `section-98.md` (choice: "Ask Marcus directly")
 
 ### section-101.md
 
 **ID:** `section-101`  
-**Title:** Untitled
+**Title:** Asking Marcus Directly About Stealing Books
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Show him the evidence")
+- `section-52.md` (choice: "Let Officer Martinez handle it")
+- `section-55.md` (choice: "Press him on the details")
 
 ### section-102.md
 
 **ID:** `section-102`  
-**Title:** Untitled
+**Title:** Looking for Evidence of Missing Books
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-103.md` (choice: "Check the inventory records")
+- `section-43.md` (choice: "Ask Officer Martinez about it")
+- `section-55.md` (choice: "Compare the collection to the catalog")
 
 ### section-103.md
 
 **ID:** `section-103`  
-**Title:** Untitled
+**Title:** Checking the Inventory Records
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-102.md` (choice: "Look for discrepancies")
+- `section-50.md` (choice: "Compare them to the actual collection")
+- `section-52.md` (choice: "Present the evidence to Officer Martinez")
 
 ### section-104.md
 
 **ID:** `section-104`  
-**Title:** Untitled
+**Title:** Asking Velma to Describe What She Saw
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-105.md` (choice: "Investigate why she didn't call for help")
+- `section-106.md` (choice: "Check if her story matches the evidence")
+- `section-56.md` (choice: "Press her on the details")
 
 ### section-105.md
 
 **ID:** `section-105`  
-**Title:** Untitled
+**Title:** Investigating Why Velma Didn't Call for Help
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-56.md` (choice: "Ask her directly about it")
+- `section-58.md` (choice: "Check if she's hiding something")
+- `section-89.md` (choice: "Consider if she might be the killer")
 
 ### section-106.md
 
 **ID:** `section-106`  
-**Title:** Untitled
+**Title:** Checking if Velma's Story Matches the Evidence
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Check if her alibi holds up")
+- `section-44.md` (choice: "Compare her timeline to the evidence")
+- `section-47.md` (choice: "Focus on Marcus instead")
 
 ### section-107.md
 
 **ID:** `section-107`  
-**Title:** Untitled
+**Title:** Verifying That Velma Actually Paid for the Book
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Ask Eleanor's records")
+- `section-47.md` (choice: "Focus on the murder instead")
+- `section-57.md` (choice: "Check the receipt")
 
 ### section-108.md
 
 **ID:** `section-108`  
-**Title:** Untitled
+**Title:** Checking if the Book Is Actually Valuable
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Ask a rare book expert")
+- `section-47.md` (choice: "Focus on the murder instead")
+- `section-57.md` (choice: "Research its value")
 
 ### section-109.md
 
 **ID:** `section-109`  
-**Title:** Untitled
+**Title:** Investigating if Velma Has a History of Taking Things
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Check with other customers")
+- `section-42.md` (choice: "Ask Eleanor's records")
+- `section-47.md` (choice: "Focus on the murder instead")
 
 ### section-11.md
 
@@ -3124,23 +3283,32 @@ For each section, this shows which sections it points to.
 ### section-110.md
 
 **ID:** `section-110`  
-**Title:** Untitled
+**Title:** Asking Velma About Conflicts with Eleanor
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-111.md` (choice: "Look for evidence of the conflicts")
+- `section-47.md` (choice: "Focus on Marcus instead")
+- `section-58.md` (choice: "Press her on the details")
 
 ### section-111.md
 
 **ID:** `section-111`  
-**Title:** Untitled
+**Title:** Investigating if There Was Tension Between Velma and Eleanor
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Check Eleanor's journal")
+- `section-47.md` (choice: "Focus on Marcus instead")
+- `section-58.md` (choice: "Look for evidence in Eleanor's files")
 
 ### section-112.md
 
 **ID:** `section-112`  
-**Title:** Untitled
+**Title:** Looking for Evidence of a Deeper Relationship
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Ask Velma more about their friendship")
+- `section-47.md` (choice: "Focus on Marcus instead")
+- `section-58.md` (choice: "Check Eleanor's personal files")
 
 ### section-113.md
 
@@ -3900,6 +4068,7 @@ For each section, this shows which sections it points to.
 **Title:** Examining the Scene
 
 **Points to:**
+- `section-24.md` (choice: "Search the storage room for more clues")
 - `section-38.md` (choice: "Examine the torn note and letter opener more carefully")
 - `section-39.md` (choice: "Search the office for more physical evidence")
 - `section-40.md` (choice: "Document everything you see before the police arrive")
@@ -4125,6 +4294,7 @@ For each section, this shows which sections it points to.
 - `section-47.md` (choice: "Confront Marcus about the inconsistencies in his story")
 - `section-48.md` (choice: "Search for where the silver button came from")
 - `section-49.md` (choice: "Investigate Alistair Finch's connection to the case")
+- `section-93.md` (choice: "Jump to conclusions without enough evidence")
 
 ### section-260.md
 
@@ -4504,6 +4674,8 @@ For each section, this shows which sections it points to.
 **Title:** Documenting the Scene
 
 **Points to:**
+- `section-25.md` (choice: "Follow up on suspicious behavior you noticed")
+- `section-27.md` (choice: "Review all your evidence and prepare to confront the suspect")
 - `section-50.md` (choice: "Take photos with your phone of everything you see")
 - `section-51.md` (choice: "Write down detailed notes about the scene")
 - `section-52.md` (choice: "Sketch a diagram of the office layout")
@@ -4625,6 +4797,7 @@ For each section, this shows which sections it points to.
 - `section-56.md` (choice: "Ask about what she saw when she found Eleanor")
 - `section-57.md` (choice: "Question her about the book she took")
 - `section-58.md` (choice: "Investigate her relationship with Eleanor")
+- `section-89.md` (choice: "Accuse Velma of the murder")
 
 ### section-43.md
 
@@ -4784,6 +4957,8 @@ For each section, this shows which sections it points to.
 - `section-77.md` (choice: "Call Alistair Finch and question him")
 - `section-78.md` (choice: "Research his business and check his alibi")
 - `section-79.md` (choice: "Look for evidence that he was involved")
+- `section-91.md` (choice: "Accuse Alistair of the murder")
+- `section-93.md` (choice: "Jump to conclusions without enough evidence")
 
 ### section-5.md
 
@@ -4809,6 +4984,7 @@ For each section, this shows which sections it points to.
 **Title:** Gathering Final Proof
 
 **Points to:**
+- `section-27.md` (choice: "Review all your evidence and prepare to confront the suspect")
 - `section-83.md` (choice: "Search for more evidence to confirm your theory")
 - `section-84.md` (choice: "Verify Marcus's financial records")
 - `section-85.md` (choice: "Check the handwriting on the torn note")
@@ -4819,6 +4995,7 @@ For each section, this shows which sections it points to.
 **Title:** Presenting to Officer Martinez
 
 **Points to:**
+- `section-27.md` (choice: "Review all your evidence and prepare to confront the suspect")
 - `section-86.md` (choice: "Share all your evidence and theory")
 - `section-87.md` (choice: "Let the police verify everything first")
 - `section-88.md` (choice: "Ask to be part of the official investigation")
@@ -4956,6 +5133,7 @@ For each section, this shows which sections it points to.
 - `section-104.md` (choice: "Ask Velma to describe exactly what she saw")
 - `section-105.md` (choice: "Investigate why she didn't call for help immediately")
 - `section-106.md` (choice: "Check if her story matches the evidence")
+- `section-89.md` (choice: "Accuse Velma of the murder")
 
 ### section-560.md
 
@@ -4985,6 +5163,7 @@ For each section, this shows which sections it points to.
 - `section-107.md` (choice: "Verify that Velma actually paid for the book")
 - `section-108.md` (choice: "Check if the book is actually valuable")
 - `section-109.md` (choice: "Investigate if Velma has a history of taking things")
+- `section-89.md` (choice: "Accuse Velma of the murder")
 
 ### section-570.md
 
@@ -5026,6 +5205,7 @@ For each section, this shows which sections it points to.
 - `section-110.md` (choice: "Ask Velma about any recent conflicts with Eleanor")
 - `section-111.md` (choice: "Investigate if there was any tension between them")
 - `section-112.md` (choice: "Look for evidence of a deeper relationship")
+- `section-89.md` (choice: "Accuse Velma of the murder")
 
 ### section-580.md
 
@@ -5054,9 +5234,12 @@ For each section, this shows which sections it points to.
 ### section-59.md
 
 **ID:** `section-59`  
-**Title:** Untitled
+**Title:** Sharing Evidence with Officer Martinez
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Continue investigating on your own")
+- `section-50.md` (choice: "Wait for the police to process everything")
+- `section-51.md` (choice: "Look for more evidence while the police work")
 
 ### section-590.md
 
@@ -5102,9 +5285,12 @@ For each section, this shows which sections it points to.
 ### section-60.md
 
 **ID:** `section-60`  
-**Title:** Untitled
+**Title:** Learning About the Police Investigation
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Ask what they've found so far")
+- `section-27.md` (choice: "Request to see the evidence they've collected")
+- `section-59.md` (choice: "Share your own findings")
 
 ### section-600.md
 
@@ -5140,9 +5326,12 @@ For each section, this shows which sections it points to.
 ### section-61.md
 
 **ID:** `section-61`  
-**Title:** Untitled
+**Title:** Requesting to Join the Investigation
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Continue investigating on your own")
+- `section-50.md` (choice: "Accept that you need to step back")
+- `section-59.md` (choice: "Share all your evidence first")
 
 ### section-610.md
 
@@ -5178,9 +5367,12 @@ For each section, this shows which sections it points to.
 ### section-62.md
 
 **ID:** `section-62`  
-**Title:** Untitled
+**Title:** Piecing Together Arrival Times
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-27.md` (choice: "Check if there are any security cameras")
+- `section-41.md` (choice: "Question Marcus about when he arrived")
+- `section-42.md` (choice: "Question Velma about when she arrived")
 
 ### section-620.md
 
@@ -5216,9 +5408,12 @@ For each section, this shows which sections it points to.
 ### section-63.md
 
 **ID:** `section-63`  
-**Title:** Untitled
+**Title:** Determining Time of Death
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-43.md` (choice: "Ask Officer Martinez about the medical examiner's estimate")
+- `section-44.md` (choice: "Check Eleanor's tea temperature more carefully")
+- `section-45.md` (choice: "Look for other clues about timing")
 
 ### section-630.md
 
@@ -5254,9 +5449,12 @@ For each section, this shows which sections it points to.
 ### section-64.md
 
 **ID:** `section-64`  
-**Title:** Untitled
+**Title:** Opportunity Based on Timing
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Focus on Velma—she found the body")
+- `section-46.md` (choice: "Consider if someone else could have been involved")
+- `section-47.md` (choice: "Focus on Marcus—he had the most opportunity")
 
 ### section-640.md
 
@@ -5292,9 +5490,12 @@ For each section, this shows which sections it points to.
 ### section-65.md
 
 **ID:** `section-65`  
-**Title:** Untitled
+**Title:** Researching Marcus's Financial Situation
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-47.md` (choice: "Look for evidence of his debts")
+- `section-54.md` (choice: "Investigate his relationship with Eleanor")
+- `section-55.md` (choice: "Check if he had access to the rare books")
 
 ### section-650.md
 
@@ -5330,9 +5531,12 @@ For each section, this shows which sections it points to.
 ### section-66.md
 
 **ID:** `section-66`  
-**Title:** Untitled
+**Title:** Investigating Alistair Finch's Business Dealings
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-49.md` (choice: "Look into his relationship with Eleanor")
+- `section-68.md` (choice: "Investigate if he had any connection to Marcus")
+- `section-78.md` (choice: "Check his alibi at the auction")
 
 ### section-660.md
 
@@ -5368,9 +5572,12 @@ For each section, this shows which sections it points to.
 ### section-67.md
 
 **ID:** `section-67`  
-**Title:** Untitled
+**Title:** Investigating Velma's Relationship with Eleanor
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-110.md` (choice: "Look for evidence of any conflicts")
+- `section-42.md` (choice: "Check if Velma had any motive")
+- `section-58.md` (choice: "Ask Velma more about their friendship")
 
 ### section-670.md
 
@@ -5406,9 +5613,12 @@ For each section, this shows which sections it points to.
 ### section-68.md
 
 **ID:** `section-68`  
-**Title:** Untitled
+**Title:** Looking for Connections Between Marcus and Alistair
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-27.md` (choice: "Look for evidence of a conspiracy")
+- `section-49.md` (choice: "Check if they had any business dealings together")
+- `section-55.md` (choice: "Investigate if Marcus was selling books to Alistair")
 
 ### section-680.md
 
@@ -5444,9 +5654,12 @@ For each section, this shows which sections it points to.
 ### section-69.md
 
 **ID:** `section-69`  
-**Title:** Untitled
+**Title:** Investigating if Velma Knew About the Rare Books
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Look for evidence she knew about the theft")
+- `section-57.md` (choice: "Check if she had any interest in rare books")
+- `section-58.md` (choice: "Ask Velma directly about the collection")
 
 ### section-690.md
 
@@ -5493,9 +5706,12 @@ For each section, this shows which sections it points to.
 ### section-70.md
 
 **ID:** `section-70`  
-**Title:** Untitled
+**Title:** Searching for Other People Who Might Be Involved
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Look for other customers who were in the shop")
+- `section-44.md` (choice: "Check if there were any other employees")
+- `section-45.md` (choice: "Investigate if anyone else had a motive")
 
 ### section-700.md
 
@@ -5531,9 +5747,12 @@ For each section, this shows which sections it points to.
 ### section-71.md
 
 **ID:** `section-71`  
-**Title:** Untitled
+**Title:** Accusing Marcus Directly
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Present all your evidence")
+- `section-51.md` (choice: "Wait for more proof")
+- `section-52.md` (choice: "Let Officer Martinez handle it")
 
 ### section-710.md
 
@@ -5562,9 +5781,12 @@ For each section, this shows which sections it points to.
 ### section-72.md
 
 **ID:** `section-72`  
-**Title:** Untitled
+**Title:** Trying to Get Marcus to Confess
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Show him the button and wait for his reaction")
+- `section-52.md` (choice: "Let Officer Martinez handle the confrontation")
+- `section-71.md` (choice: "Present all the evidence at once")
 
 ### section-720.md
 
@@ -5600,9 +5822,12 @@ For each section, this shows which sections it points to.
 ### section-73.md
 
 **ID:** `section-73`  
-**Title:** Untitled
+**Title:** Asking Marcus About Inconsistencies
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-53.md` (choice: "Press him harder on his alibi")
+- `section-54.md` (choice: "Ask about his relationship with Eleanor")
+- `section-71.md` (choice: "Show him all the evidence")
 
 ### section-730.md
 
@@ -5638,9 +5863,12 @@ For each section, this shows which sections it points to.
 ### section-74.md
 
 **ID:** `section-74`  
-**Title:** Untitled
+**Title:** Showing the Button to Velma
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-42.md` (choice: "Ask if she recognizes it")
+- `section-75.md` (choice: "Focus on Marcus instead")
+- `section-76.md` (choice: "Compare it to other clothing in the shop")
 
 ### section-740.md
 
@@ -5676,9 +5904,12 @@ For each section, this shows which sections it points to.
 ### section-75.md
 
 **ID:** `section-75`  
-**Title:** Untitled
+**Title:** Comparing the Button to Marcus's Cardigan
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Get Officer Martinez to verify it")
+- `section-51.md` (choice: "Look for more evidence first")
+- `section-72.md` (choice: "Confront Marcus with the match")
 
 ### section-750.md
 
@@ -5714,9 +5945,12 @@ For each section, this shows which sections it points to.
 ### section-76.md
 
 **ID:** `section-76`  
-**Title:** Untitled
+**Title:** Searching for Other Clothing Items That Might Match
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Look for other customers' clothing")
+- `section-42.md` (choice: "Check Velma's coat")
+- `section-75.md` (choice: "Focus on Marcus's cardigan")
 
 ### section-760.md
 
@@ -5752,9 +5986,12 @@ For each section, this shows which sections it points to.
 ### section-77.md
 
 **ID:** `section-77`  
-**Title:** Untitled
+**Title:** Calling Alistair Finch
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-49.md` (choice: "Ask about the threatening letters")
+- `section-68.md` (choice: "Question him about his relationship with Marcus")
+- `section-78.md` (choice: "Verify his alibi")
 
 ### section-770.md
 
@@ -5790,9 +6027,12 @@ For each section, this shows which sections it points to.
 ### section-78.md
 
 **ID:** `section-78`  
-**Title:** Untitled
+**Title:** Researching Alistair's Business and Alibi
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-49.md` (choice: "Verify he was at the auction")
+- `section-68.md` (choice: "Check his business records")
+- `section-70.md` (choice: "Investigate his relationship with Marcus")
 
 ### section-780.md
 
@@ -5845,9 +6085,12 @@ For each section, this shows which sections it points to.
 ### section-79.md
 
 **ID:** `section-79`  
-**Title:** Untitled
+**Title:** Looking for Evidence Alistair Was Involved
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-47.md` (choice: "Focus on Marcus instead")
+- `section-68.md` (choice: "Investigate his connection to Marcus")
+- `section-70.md` (choice: "Check if he hired someone")
 
 ### section-8.md
 
@@ -5993,37 +6236,52 @@ For each section, this shows which sections it points to.
 ### section-95.md
 
 **ID:** `section-95`  
-**Title:** Untitled
+**Title:** Pressing Marcus Until He Breaks
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Continue questioning him")
+- `section-51.md` (choice: "Gather more evidence first")
+- `section-52.md` (choice: "Let Officer Martinez take over")
 
 ### section-96.md
 
 **ID:** `section-96`  
-**Title:** Untitled
+**Title:** Looking for Evidence That Contradicts Marcus's Story
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Look for witnesses")
+- `section-44.md` (choice: "Verify his timeline")
+- `section-47.md` (choice: "Check the rare books section more carefully")
 
 ### section-97.md
 
 **ID:** `section-97`  
-**Title:** Untitled
+**Title:** Checking if Anyone Can Verify Marcus's Alibi
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Ask other customers if they saw him")
+- `section-27.md` (choice: "Check security footage if it exists")
+- `section-50.md` (choice: "Focus on the physical evidence instead")
 
 ### section-98.md
 
 **ID:** `section-98`  
-**Title:** Untitled
+**Title:** Asking Marcus About Conflicts with Eleanor
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-50.md` (choice: "Focus on the murder instead")
+- `section-54.md` (choice: "Press him on the details")
+- `section-99.md` (choice: "Look for evidence of the conflicts")
 
 ### section-99.md
 
 **ID:** `section-99`  
-**Title:** Untitled
+**Title:** Investigating if Eleanor Was Planning to Fire Marcus
 
-**Points to:** *No outgoing links (terminated)*
+**Points to:**
+- `section-24.md` (choice: "Check Eleanor's journal more carefully")
+- `section-43.md` (choice: "Ask Officer Martinez about it")
+- `section-50.md` (choice: "Look for evidence in her files")
 
 ---
 
@@ -6031,7 +6289,7 @@ For each section, this shows which sections it points to.
 
 Total sections: **367**
 
-- Sections with incoming links: **349**
-- Sections with outgoing links: **171**
-- Terminated sections (no outgoing links): **196**
-- Sections with no incoming links: **18**
+- Sections with incoming links: **355**
+- Sections with outgoing links: **210**
+- Terminated sections (no outgoing links): **157**
+- Sections with no incoming links: **12**

@@ -8,6 +8,8 @@ choices:
     target: section-84.md
   - text: "Check the handwriting on the torn note"
     target: section-85.md
+  - text: "Review all your evidence and prepare to confront the suspect"
+    target: section-27.md
 ---
 
 # Gathering Final Proof

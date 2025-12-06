@@ -8,6 +8,10 @@ choices:
     target: section-51.md
   - text: "Sketch a diagram of the office layout"
     target: section-52.md
+  - text: "Follow up on suspicious behavior you noticed"
+    target: section-25.md
+  - text: "Review all your evidence and prepare to confront the suspect"
+    target: section-27.md
 ---
 
 # Documenting the Scene

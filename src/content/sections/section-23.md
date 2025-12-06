@@ -8,6 +8,8 @@ choices:
     target: section-39.md
   - text: "Document everything you see before the police arrive"
     target: section-40.md
+  - text: "Search the storage room for more clues"
+    target: section-24.md
 ---
 
 # Examining the Scene

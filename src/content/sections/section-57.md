@@ -8,6 +8,8 @@ choices:
     target: section-108.md
   - text: "Investigate if Velma has a history of taking things"
     target: section-109.md
+  - text: "Accuse Velma of the murder"
+    target: section-89.md
 ---
 
 # The Book Velma Took

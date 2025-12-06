@@ -8,6 +8,8 @@ choices:
     target: section-87.md
   - text: "Ask to be part of the official investigation"
     target: section-88.md
+  - text: "Review all your evidence and prepare to confront the suspect"
+    target: section-27.md
 ---
 
 # Presenting to Officer Martinez

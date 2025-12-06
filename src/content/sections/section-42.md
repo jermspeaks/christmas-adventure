@@ -8,6 +8,8 @@ choices:
     target: section-57.md
   - text: "Investigate her relationship with Eleanor"
     target: section-58.md
+  - text: "Accuse Velma of the murder"
+    target: section-89.md
 ---
 
 # Interviewing Velma
