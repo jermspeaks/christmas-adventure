@@ -81,6 +81,7 @@ The compilation script:
 - Replaces file references with "Turn to page X" instructions
 - Generates HTML, PDF, and EPUB with proper formatting
 - Generates `game-data.json` for the Preact application
+- **PDF Page Span Detection**: After generating the PDF, automatically analyzes it to detect which actual PDF pages each section spans (since sections can span multiple pages). This ensures choice references point to the correct starting page number. The detected page spans are saved to `page-spans.json` for use in subsequent compilations.
 
 ### Frontend Application
 The web version uses **Preact** (a lightweight React alternative) with **Vite** for:
@@ -479,8 +480,9 @@ After compilation, you'll find in the `output/` directory:
 
 - **adventure.html** - Legacy single HTML file with all sections (vanilla JS version)
 - **game-data.json** - Game data in JSON format for the Preact application
-- **adventure.pdf** - Print-ready PDF with page numbers and table of contents
+- **adventure.pdf** - Print-ready PDF with page numbers and table of contents (page numbers in choices are automatically corrected based on actual PDF page spans)
 - **adventure.epub** - E-reader compatible format
+- **page-spans.json** - Automatically generated file mapping section IDs to their actual PDF page spans (`start` and `end` page numbers). Used to ensure choice references point to correct page numbers in the PDF.
 - Built Preact application files (after running `npm run build`)
 
 The `public/` directory contains:

@@ -11,6 +11,11 @@ import yaml
 import markdown
 from pathlib import Path
 from datetime import datetime
+try:
+    import PyPDF2
+    PDF_AVAILABLE = True
+except ImportError:
+    PDF_AVAILABLE = False
 
 def parse_frontmatter(content):
     """Extract YAML frontmatter from markdown file."""
@@ -36,14 +41,33 @@ def load_page_mapping(mapping_file='page-mapping.json'):
     with open(mapping_file, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def resolve_choice_target(target_file, page_mapping):
-    """Resolve a target filename to a page number."""
+def load_page_spans(spans_file='output/page-spans.json'):
+    """Load the page spans from JSON file if it exists."""
+    if not os.path.exists(spans_file):
+        return None
+    
+    with open(spans_file, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def resolve_choice_target(target_file, page_mapping, page_spans=None):
+    """Resolve a target filename to a page number.
+    
+    Uses page-spans.json if available (actual PDF pages), otherwise falls back
+    to page-mapping.json (logical page numbers).
+    """
     target_id = target_file.replace('.md', '')
+    
+    # First try to use actual PDF page spans if available
+    if page_spans and target_id in page_spans:
+        return page_spans[target_id]['start']
+    
+    # Fall back to logical page number from page-mapping.json
     if target_id in page_mapping['sections']:
         return page_mapping['sections'][target_id]['page']
+    
     return None
 
-def process_section(md_file, page_mapping):
+def process_section(md_file, page_mapping, page_spans=None):
     """Process a single section file and return formatted content."""
     with open(md_file, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -86,7 +110,7 @@ def process_section(md_file, page_mapping):
     if choices:
         choices_html = "\n\n## Your Choices:\n\n"
         for choice in choices:
-            target_page = resolve_choice_target(choice['target'] + '.md', page_mapping)
+            target_page = resolve_choice_target(choice['target'] + '.md', page_mapping, page_spans)
             if target_page:
                 choices_html += f"- **{choice['text']}** → Turn to page {target_page}\n"
             else:
@@ -306,6 +330,149 @@ def generate_html(sections_data, output_file='output/adventure.html'):
     
     print(f"HTML generated: {output_file}")
 
+def analyze_pdf_page_spans(pdf_file, sections_data):
+    """Analyze PDF to determine which actual pages each section spans.
+    
+    Returns a dictionary mapping section_id to {'start': page_num, 'end': page_num}.
+    """
+    if not PDF_AVAILABLE:
+        print("  PyPDF2 not available. Install it with: pip install PyPDF2")
+        return None
+    
+    if not os.path.exists(pdf_file):
+        print(f"  PDF file not found: {pdf_file}")
+        return None
+    
+    print("  Analyzing PDF to detect page spans...")
+    
+    try:
+        page_spans = {}
+        
+        # Open PDF and extract text from each page
+        with open(pdf_file, 'rb') as f:
+            pdf_reader = PyPDF2.PdfReader(f)
+            total_pages = len(pdf_reader.pages)
+            
+            # Extract text from all pages
+            page_texts = []
+            for page_num in range(total_pages):
+                page = pdf_reader.pages[page_num]
+                text = page.extract_text()
+                page_texts.append(text)
+        
+        # Sort sections by their logical page order
+        sorted_sections = sorted(sections_data, key=lambda x: x['page'])
+        
+        # Match section titles to PDF pages
+        # We'll search sequentially since sections appear in order
+        section_page_map = {}  # Maps section_id to PDF page number where it starts
+        current_search_start = 1  # Start searching from page 1 (skip title page if needed)
+        
+        for section in sorted_sections:
+            section_id = section['id']
+            title = section['title']
+            
+            # Normalize title for matching
+            normalized_title = re.sub(r'\s+', ' ', title).strip().lower()
+            
+            # Try to find the title starting from where we expect it
+            # Search from current_search_start to end, but prioritize pages near logical page
+            logical_page = section['page']
+            search_pages = []
+            
+            # First, try pages near the logical page number
+            for offset in range(0, min(20, total_pages)):
+                candidate = min(logical_page + offset, total_pages)
+                if candidate >= current_search_start and candidate not in section_page_map.values():
+                    if candidate not in search_pages:
+                        search_pages.append(candidate)
+            
+            # Then add remaining pages in order
+            for page_num in range(current_search_start, total_pages + 1):
+                if page_num not in search_pages and page_num not in section_page_map.values():
+                    search_pages.append(page_num)
+            
+            found_page = None
+            for page_num in search_pages:
+                if page_num > total_pages:
+                    continue
+                    
+                page_text = page_texts[page_num - 1]  # Convert to 0-based index
+                # Normalize text for comparison
+                normalized_page_text = re.sub(r'\s+', ' ', page_text).strip().lower()
+                
+                # Check if title appears in this page (prefer near the beginning)
+                # Look in first 500 chars for better accuracy
+                page_start = normalized_page_text[:500] if len(normalized_page_text) > 500 else normalized_page_text
+                
+                if normalized_title in page_start or normalized_title in normalized_page_text:
+                    found_page = page_num
+                    section_page_map[section_id] = page_num
+                    current_search_start = page_num + 1  # Next section starts after this one
+                    break
+            
+            if not found_page:
+                # Fallback: use logical page if available and not assigned
+                if logical_page <= total_pages and logical_page not in section_page_map.values():
+                    section_page_map[section_id] = logical_page
+                    current_search_start = logical_page + 1
+                else:
+                    # Find next unassigned page
+                    for page_num in range(current_search_start, total_pages + 1):
+                        if page_num not in section_page_map.values():
+                            section_page_map[section_id] = page_num
+                            current_search_start = page_num + 1
+                            break
+        
+        # Now determine page spans (start and end) for each section
+        # The end of one section is the start of the next minus 1
+        for i, section in enumerate(sorted_sections):
+            section_id = section['id']
+            start_page = section_page_map.get(section_id)
+            
+            if start_page:
+                # Find the start of the next section to determine end page
+                if i + 1 < len(sorted_sections):
+                    next_section = sorted_sections[i + 1]
+                    next_start = section_page_map.get(next_section['id'])
+                    if next_start:
+                        end_page = next_start - 1
+                    else:
+                        # If next section not found, assume this section spans to the end
+                        end_page = total_pages
+                else:
+                    # Last section spans to the end
+                    end_page = total_pages
+                
+                # Ensure end_page is at least start_page
+                end_page = max(start_page, end_page)
+                
+                page_spans[section_id] = {
+                    'start': start_page,
+                    'end': end_page
+                }
+        
+        print(f"  Detected page spans for {len(page_spans)} sections")
+        return page_spans
+        
+    except Exception as e:
+        print(f"  Error analyzing PDF: {e}")
+        import traceback
+        traceback.print_exc()
+        return None
+
+def save_page_spans(page_spans, output_file='output/page-spans.json'):
+    """Save page spans to JSON file."""
+    if page_spans is None:
+        return
+    
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(page_spans, f, indent=2, ensure_ascii=False)
+    
+    print(f"  Page spans saved to: {output_file}")
+
 def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
     """Generate PDF using pandoc from markdown (more reliable than HTML)."""
     import subprocess
@@ -437,12 +604,16 @@ def compile_book(sections_dir='src/content/sections', mapping_file='page-mapping
     print("Loading page mapping...")
     page_mapping = load_page_mapping(mapping_file)
     
+    # Try to load existing page spans
+    page_spans_file = os.path.join(output_dir, 'page-spans.json')
+    page_spans = load_page_spans(page_spans_file)
+    
     print("Processing sections...")
     sections_path = Path(sections_dir)
     sections_data = []
     
     for md_file in sections_path.glob('*.md'):
-        section_data = process_section(md_file, page_mapping)
+        section_data = process_section(md_file, page_mapping, page_spans)
         if section_data:
             sections_data.append(section_data)
             print(f"  Processed: {section_data['id']} (Page {section_data['page']})")
@@ -457,11 +628,29 @@ def compile_book(sections_dir='src/content/sections', mapping_file='page-mapping
     html_file = os.path.join(output_dir, 'adventure.html')
     generate_html(sections_data, html_file)
     
-    # Generate PDF
+    # Generate PDF (first pass - may have incorrect page numbers in choices)
     pdf_file = os.path.join(output_dir, 'adventure.pdf')
     pdf_success = generate_pdf_via_pandoc(sections_data, pdf_file)
-    if not pdf_success:
-        print("  (Skipping PDF generation - continuing with other formats)")
+    
+    # After PDF generation, analyze it to detect actual page spans
+    if pdf_success:
+        detected_spans = analyze_pdf_page_spans(pdf_file, sections_data)
+        if detected_spans:
+            save_page_spans(detected_spans, page_spans_file)
+            # Re-process sections with updated page spans
+            page_spans = detected_spans
+            print("  Re-processing sections with detected page spans...")
+            sections_data = []
+            for md_file in sections_path.glob('*.md'):
+                section_data = process_section(md_file, page_mapping, page_spans)
+                if section_data:
+                    sections_data.append(section_data)
+            
+            # Regenerate PDF with correct page numbers in choices
+            print("  Regenerating PDF with correct page numbers...")
+            generate_pdf_via_pandoc(sections_data, pdf_file)
+    else:
+        print("  (Skipping PDF page span detection - PDF generation failed)")
     
     # Generate EPUB
     epub_file = os.path.join(output_dir, 'adventure.epub')
