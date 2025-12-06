@@ -6,13 +6,15 @@ choices: []
 
 # True Ending: With Complications
 
+A week had passed since the confrontation at Tombs and Trinkets. The police had completed their investigation, Marcus had been arrested and charged, and the case was officially closed. But the truth had come at a cost.
+
 You'd solved the case, but not without consequences. In your eagerness to find the truth, you'd made mistakes. You'd accused the wrong people, you'd jumped to conclusions, you'd created problems that wouldn't have existed if you'd been more careful.
 
 Still, you'd found the truth. Marcus Chen had killed Eleanor Shellstrop. He'd been arrested, charged, and the case was closed.
 
 But the damage was done. Velma's reputation had been damaged by your early suspicions. Alistair Finch had been investigated unnecessarily. The police had wasted time following your false leads.
 
-A week later, you found yourself back at Tombs and Trinkets. The shop was open again, but things were different. Velma was there, but she was distant, still hurt by your accusations. Yuzu was there, but even he seemed to look at you differently, as if he knew you'd made mistakes.
+You found yourself back at Tombs and Trinkets. The shop was open again, but things were different. Velma was there, but she was distant, still hurt by your accusations. Yuzu was there, but even he seemed to look at you differently, as if he knew you'd made mistakes.
 
 "You solved it," Velma said, her voice cool. "That's what matters, I suppose."
 

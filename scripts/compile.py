@@ -50,18 +50,30 @@ def load_page_spans(spans_file='output/page-spans.json'):
         return json.load(f)
 
 def resolve_choice_target(target_file, page_mapping, page_spans=None):
-    """Resolve a target filename to a page number.
+    """Resolve a target filename to a displayed page number.
     
-    Uses page-spans.json if available (actual PDF pages), otherwise falls back
+    Uses page-spans.json if available (physical PDF pages), otherwise falls back
     to page-mapping.json (logical page numbers).
+    
+    Page numbering system:
+    - Physical PDF pages: 1 (title, no number), 2 (spacer, no number), 3+ (content)
+    - Displayed page numbers: (none), (none), 1, 2, 3... (reset after spacer)
+    - Logical page numbers from mapping: 1, 2, 3... (already correct)
+    
+    So we convert physical pages (from page_spans) by subtracting 2,
+    but logical pages (from page_mapping) are already correct.
     """
     target_id = target_file.replace('.md', '')
     
     # First try to use actual PDF page spans if available
+    # These are physical page numbers (3, 4, 5...), need to convert to displayed (1, 2, 3...)
     if page_spans and target_id in page_spans:
-        return page_spans[target_id]['start']
+        physical_page = page_spans[target_id]['start']
+        # Subtract 2 to account for title page (1) and spacer page (2)
+        return physical_page - 2
     
     # Fall back to logical page number from page-mapping.json
+    # These are already correct (1, 2, 3...) and match displayed page numbers
     if target_id in page_mapping['sections']:
         return page_mapping['sections'][target_id]['page']
     
@@ -331,9 +343,14 @@ def generate_html(sections_data, output_file='output/adventure.html'):
     print(f"HTML generated: {output_file}")
 
 def analyze_pdf_page_spans(pdf_file, sections_data):
-    """Analyze PDF to determine which actual pages each section spans.
+    """Analyze PDF to determine which physical pages each section spans.
     
     Returns a dictionary mapping section_id to {'start': page_num, 'end': page_num}.
+    
+    Note: Returns physical PDF page numbers (3, 4, 5...) where content starts on
+    physical page 3 (after title page 1 and spacer page 2). These need to be
+    converted to displayed page numbers (1, 2, 3...) by subtracting 2 in
+    resolve_choice_target().
     """
     if not PDF_AVAILABLE:
         print("  PyPDF2 not available. Install it with: pip install PyPDF2")
@@ -366,7 +383,7 @@ def analyze_pdf_page_spans(pdf_file, sections_data):
         # Match section titles to PDF pages
         # We'll search sequentially since sections appear in order
         section_page_map = {}  # Maps section_id to PDF page number where it starts
-        current_search_start = 1  # Start searching from page 1 (skip title page if needed)
+        current_search_start = 3  # Start searching from page 3 (skip title page 1 and spacer page 2)
         
         for section in sorted_sections:
             section_id = section['id']
@@ -444,6 +461,9 @@ def analyze_pdf_page_spans(pdf_file, sections_data):
                     # Last section spans to the end
                     end_page = total_pages
                 
+                # Account for title page (1) and spacer page (2) in page spans
+                # The page spans already reflect actual PDF pages, so no adjustment needed here
+                
                 # Ensure end_page is at least start_page
                 end_page = max(start_page, end_page)
                 
@@ -462,7 +482,12 @@ def analyze_pdf_page_spans(pdf_file, sections_data):
         return None
 
 def save_page_spans(page_spans, output_file='output/page-spans.json'):
-    """Save page spans to JSON file."""
+    """Save page spans to JSON file.
+    
+    The page spans contain physical PDF page numbers (3, 4, 5...) where
+    content sections start. These are converted to displayed page numbers
+    (1, 2, 3...) when used in resolve_choice_target().
+    """
     if page_spans is None:
         return
     
@@ -473,8 +498,51 @@ def save_page_spans(page_spans, output_file='output/page-spans.json'):
     
     print(f"  Page spans saved to: {output_file}")
 
+def calculate_gutter_margin(page_count):
+    """Calculate gutter margin addition based on total page count.
+    
+    Lulu printing requirements specify asymmetric margins for binding based on page count.
+    The gutter is an increased page margin on the binding side to account for the portion
+    of the page inserted and glued into the bookbinding.
+    
+    Gutter margin requirements (from Lulu Book Creation Guide):
+    - <60 pages: 0.5 in total inside margin (no extra gutter)
+    - 61-150 pages: Add 0.125 in to inside margin (0.625 in total)
+    - 151-400 pages: Add 0.5 in to inside margin (1 in total)
+    - 400-600 pages: Add 0.625 in to inside margin (1.125 in total)
+    - >600 pages: Add 0.75 in to inside margin (1.25 in total)
+    
+    Args:
+        page_count: Total number of pages in the book (including title/spacer pages)
+    
+    Returns:
+        float: The additional margin (in inches) to add to the base 0.5 in inside margin
+    """
+    if page_count < 60:
+        return 0.0  # No extra gutter, just base 0.5 in margin
+    elif page_count <= 150:
+        return 0.125  # Total inside margin: 0.625 in
+    elif page_count <= 400:
+        return 0.5  # Total inside margin: 1.0 in
+    elif page_count <= 600:
+        return 0.625  # Total inside margin: 1.125 in
+    else:
+        return 0.75  # Total inside margin: 1.25 in
+
 def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
-    """Generate PDF using pandoc from markdown (more reliable than HTML)."""
+    """Generate PDF using pandoc from markdown (more reliable than HTML).
+    
+    Creates a PDF with:
+    - Physical page 1: Title page (no page number displayed)
+    - Physical page 2: Spacer page (no page number displayed)
+    - Physical page 3+: Content sections (displayed as pages 1, 2, 3...)
+    - Last two pages: Blank pages (no page numbers displayed)
+    
+    Page numbering is reset after the spacer page so content displays starting from 1.
+    
+    Uses default pandoc/LaTeX paper size and margins.
+    All fonts embedded automatically by LaTeX/pandoc.
+    """
     import subprocess
     import tempfile
     
@@ -485,14 +553,35 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
     
     with tempfile.NamedTemporaryFile(mode='w', suffix='.md', delete=False, encoding='utf-8') as f:
         temp_md = f.name
-        f.write("# Choose Your Own Christmas Adventure\n\n")
-        f.write(f"*Generated on {datetime.now().strftime('%Y-%m-%d')}*\n\n")
+        # Title page (physical page 1) - no page number displayed
+        f.write("\\thispagestyle{empty}\n")
+        f.write("\\vspace*{\\fill}\n")
+        f.write("\\begin{center}\n")
+        f.write("\\Huge\\textbf{Choose Your Own Adventure}\n\n")
+        f.write("\\vspace{2cm}\n")
+        f.write("\\Large Version 1.0\n")
+        f.write("\\end{center}\n")
+        f.write("\\vspace*{\\fill}\n")
+        f.write("\\newpage\n\n")
         
+        # Spacer page (physical page 2) - blank page for printing, no page number displayed
+        f.write("\\thispagestyle{empty}\n")
+        f.write("\\newpage\n\n")
+        
+        # Reset page counter so content pages display as starting from page 1
+        f.write("\\setcounter{page}{1}\n\n")
+        
+        # Content sections start from physical page 3, but display as page 1, 2, 3...
         for i, section in enumerate(sorted_sections):
-            if i > 0:
-                f.write("\\newpage\n\n")
+            f.write("\\newpage\n\n")
             f.write(section['content'])
             f.write("\n\n")
+        
+        # Two blank pages at the end (for printing/binding requirements) - no page numbers displayed
+        f.write("\\thispagestyle{empty}\n")
+        f.write("\\newpage\n\n")
+        f.write("\\thispagestyle{empty}\n")
+        f.write("\\newpage\n\n")
     
     # Try multiple PDF engines in order of preference
     pdf_engines = ['pdflatex', 'xelatex', 'lualatex']
@@ -518,7 +607,6 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             'pandoc',
             temp_md,
             '-o', output_file,
-            '-V', 'geometry:margin=1in',
             '-V', 'fontsize=11pt'
         ]
     else:
@@ -527,7 +615,6 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
             temp_md,
             '-o', output_file,
             f'--pdf-engine={pdf_engine}',
-            '-V', 'geometry:margin=1in',
             '-V', 'fontsize=11pt'
         ]
     
@@ -570,8 +657,13 @@ def generate_epub(sections_data, output_file='output/adventure.epub'):
     
     with tempfile.NamedTemporaryFile(mode='w', suffix='.md', delete=False, encoding='utf-8') as f:
         temp_md = f.name
-        f.write("# Choose Your Own Christmas Adventure\n\n")
-        f.write(f"*Generated on {datetime.now().strftime('%Y-%m-%d')}*\n\n")
+        # Title page
+        f.write("# Choose Your Own Adventure\n\n")
+        f.write("*Version 1.0*\n\n")
+        f.write("---\n\n")
+        
+        # Spacer page (blank for EPUB)
+        f.write("\n\n---\n\n")
         
         for section in sorted_sections:
             f.write(f"\n\n---\n\n")

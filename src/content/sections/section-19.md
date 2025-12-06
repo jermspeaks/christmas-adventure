@@ -16,6 +16,8 @@ choices:
 
 # The Guardian Appears
 
+After leaving Elara's bakery, you and Cheshire made your way deeper into the Frostwood Forest. The path led you through ancient trees, their branches heavy with snow, until you reached a clearing—a small, circular space where the trees parted to reveal a patch of sky above. In the center stood a stone archway covered in intricate carvings that seemed to shift and change as you looked at them.
+
 You were about to step closer to the Memory Vault when a voice spoke from the shadows, cold and sharp as ice. "Stop."
 
 You froze, turning to see who had spoken. A figure emerged from between the trees—tall, cloaked in shadows that seemed to move independently, their face hidden beneath a hood. But you could see their eyes, and they were the coldest, emptiest eyes you'd ever seen.

@@ -51,11 +51,6 @@ You asked Velma to describe exactly what she saw when she found Eleanor
   - Target location: Marcus
   - **Action:** Review transition - add explanation if needed
 
-- `section-16.md` → `section-19.md`
-  - Source location: This will help guide you through the
-  - Target location: Cheshire
-  - **Action:** Review transition - add explanation if needed
-
 - `section-21.md` → `section-30.md`
   - Source location: Starlight Hollow
   - Target location: Kvothe
@@ -326,10 +321,6 @@ Characters present in source but not mentioned in target:
   - Character: Cheshire
   - **Action:** Review - explain character's absence if needed
 
-- `section-16.md` → `section-19.md`
-  - Character: Elara
-  - **Action:** Review - explain character's absence if needed
-
 - `section-16.md` → `section-407.md`
   - Character: Cheshire
   - **Action:** Review - explain character's absence if needed
@@ -518,8 +509,16 @@ Characters present in source but not mentioned in target:
   - Character: Cheshire
   - **Action:** Review - explain character's absence if needed
 
+- `section-19.md` → `section-20.md`
+  - Character: Elara
+  - **Action:** Review - explain character's absence if needed
+
 - `section-19.md` → `section-453.md`
   - Character: Cheshire
+  - **Action:** Review - explain character's absence if needed
+
+- `section-19.md` → `section-453.md`
+  - Character: Elara
   - **Action:** Review - explain character's absence if needed
 
 - `section-21.md` → `section-30.md`
