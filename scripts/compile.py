@@ -41,6 +41,70 @@ def load_page_mapping(mapping_file='page-mapping.json'):
     with open(mapping_file, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def regenerate_page_mapping(sections_dir='src/content/sections', mapping_file='page-mapping.json'):
+    """Regenerate the page mapping by calling randomize.py."""
+    import subprocess
+    import sys
+    
+    script_path = Path(__file__).parent / 'randomize.py'
+    cmd = [sys.executable, str(script_path), sections_dir, mapping_file]
+    
+    try:
+        subprocess.run(cmd, check=True)
+        print(f"Page mapping regenerated: {mapping_file}")
+    except subprocess.CalledProcessError as e:
+        print(f"Error regenerating page mapping: {e}")
+        raise
+
+def ensure_page_mapping(sections_dir='src/content/sections', mapping_file='page-mapping.json'):
+    """Ensure page mapping exists and includes all sections. Regenerate if needed."""
+    sections_path = Path(sections_dir)
+    if not sections_path.exists():
+        print(f"Error: {sections_dir} directory not found!")
+        return False
+    
+    # Check if mapping exists
+    if not os.path.exists(mapping_file):
+        print("Page mapping not found. Generating...")
+        regenerate_page_mapping(sections_dir, mapping_file)
+        return True
+    
+    # Check if mapping is valid
+    try:
+        page_mapping = load_page_mapping(mapping_file)
+        if not page_mapping or 'sections' not in page_mapping:
+            print("Page mapping is invalid. Regenerating...")
+            regenerate_page_mapping(sections_dir, mapping_file)
+            return True
+    except Exception as e:
+        print(f"Error loading page mapping: {e}. Regenerating...")
+        regenerate_page_mapping(sections_dir, mapping_file)
+        return True
+    
+    # Check if all sections are in the mapping
+    needs_regeneration = False
+    for md_file in sections_path.glob('*.md'):
+        try:
+            with open(md_file, 'r', encoding='utf-8') as f:
+                content = f.read()
+            
+            frontmatter, _ = parse_frontmatter(content)
+            if frontmatter and 'id' in frontmatter:
+                section_id = frontmatter['id']
+                if section_id not in page_mapping['sections']:
+                    needs_regeneration = True
+                    break
+        except Exception:
+            # Skip files that can't be parsed
+            continue
+    
+    if needs_regeneration:
+        print("New sections detected. Regenerating page mapping...")
+        regenerate_page_mapping(sections_dir, mapping_file)
+        return True
+    
+    return True
+
 def load_page_spans(spans_file='output/page-spans.json'):
     """Load the page spans from JSON file if it exists."""
     if not os.path.exists(spans_file):
@@ -540,7 +604,8 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
     
     Page numbering is reset after the spacer page so content displays starting from 1.
     
-    Uses 0.75 inch margins on all sides (narrower than default LaTeX margins).
+    Uses 0.75 inch margins on all sides. Page numbers are positioned 0.5 inches higher
+    than default to prevent cutoff during printing.
     All fonts embedded automatically by LaTeX/pandoc.
     """
     import subprocess
@@ -583,6 +648,18 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         f.write("\\thispagestyle{empty}\n")
         f.write("\\newpage\n\n")
     
+    # Create a LaTeX header file to position page numbers 0.5 inches higher
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.tex', delete=False, encoding='utf-8') as header_file:
+        header_tex = header_file.name
+        header_file.write("\\usepackage{fancyhdr}\n")
+        header_file.write("\\pagestyle{fancy}\n")
+        # Raise page number by 0.5 inches to move it up from the bottom edge
+        # Positive value in raisebox moves content upward
+        header_file.write("\\fancyfoot[C]{\\raisebox{0.5in}{\\thepage}}\n")
+        header_file.write("\\fancyhead{}\n")
+        header_file.write("\\renewcommand{\\headrulewidth}{0pt}\n")
+        header_file.write("\\renewcommand{\\footrulewidth}{0pt}\n")
+    
     # Try multiple PDF engines in order of preference
     pdf_engines = ['pdflatex', 'xelatex', 'lualatex']
     pdf_engine = None
@@ -601,9 +678,10 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         except:
             continue
     
-    # Set margins to 0.75 inches on all sides (narrower than default LaTeX margins)
+    # Set margins to 0.75 inches on all sides
     margin_settings = [
-        '-V', 'geometry:margin=0.75in'
+        '-V', 'geometry:margin=0.75in',
+        '-H', header_tex  # Include LaTeX header for page number positioning
     ]
     
     if not pdf_engine:
@@ -629,6 +707,7 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         if pdf_engine:
             print(f"  (using {pdf_engine})")
         os.unlink(temp_md)
+        os.unlink(header_tex)
         return True
     except subprocess.CalledProcessError as e:
         error_msg = e.stderr if e.stderr else (e.stdout if e.stdout else str(e))
@@ -644,10 +723,14 @@ def generate_pdf_via_pandoc(sections_data, output_file='output/adventure.pdf'):
         else:
             print(f"\nMake sure pandoc and {pdf_engine} are properly installed")
         os.unlink(temp_md)
+        if os.path.exists(header_tex):
+            os.unlink(header_tex)
         return False
     except FileNotFoundError:
         print("pandoc not found. Install it with: brew install pandoc")
         os.unlink(temp_md)
+        if os.path.exists(header_tex):
+            os.unlink(header_tex)
         return False
 
 def generate_epub(sections_data, output_file='output/adventure.epub'):
@@ -698,6 +781,9 @@ def generate_epub(sections_data, output_file='output/adventure.epub'):
 def compile_book(sections_dir='src/content/sections', mapping_file='page-mapping.json', 
                  output_dir='output'):
     """Main compilation function."""
+    # Ensure page mapping is up to date before compiling
+    ensure_page_mapping(sections_dir, mapping_file)
+    
     print("Loading page mapping...")
     page_mapping = load_page_mapping(mapping_file)
     
