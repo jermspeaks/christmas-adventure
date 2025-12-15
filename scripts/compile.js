@@ -37,7 +37,7 @@ function ensurePageMapping() {
     // Check if mapping exists
     if (!fs.existsSync(mappingFile)) {
         console.log('Page mapping not found. Generating...');
-        regeneratePageMapping();
+        regeneratePageMapping(sectionsDir);
         return true;
     }
     
@@ -45,7 +45,7 @@ function ensurePageMapping() {
     const mapping = loadPageMapping(mappingFile);
     if (!mapping || !mapping.sections) {
         console.log('Page mapping is invalid. Regenerating...');
-        regeneratePageMapping();
+        regeneratePageMapping(sectionsDir);
         return true;
     }
     
@@ -74,18 +74,21 @@ function ensurePageMapping() {
     
     if (needsRegeneration) {
         console.log('New sections detected. Regenerating page mapping...');
-        regeneratePageMapping();
+        regeneratePageMapping(sectionsDir);
         return true;
     }
     
     return true;
 }
 
-function regeneratePageMapping() {
+function regeneratePageMapping(sectionsDir) {
     try {
-        execSync('node scripts/randomize.js', { 
+        // Convert absolute path to relative path from project root
+        const projectRoot = path.join(__dirname, '..');
+        const relativeSectionsDir = path.relative(projectRoot, sectionsDir);
+        execSync(`node scripts/randomize.js "${relativeSectionsDir}"`, { 
             stdio: 'inherit',
-            cwd: path.join(__dirname, '..')
+            cwd: projectRoot
         });
         console.log('Page mapping regenerated successfully.');
     } catch (error) {
